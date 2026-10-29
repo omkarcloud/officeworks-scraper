@@ -1,0 +1,1184 @@
+{
+ "productType": "STANDARD",
+ "attachments": {
+  "video": [
+   {
+    "name": "How to choose a laptop or tablet to suit your needs",
+    "url": "https://www.youtube.com/embed/d5npK9TVb_E?rel=0"
+   }
+  ],
+  "doc": []
+ },
+ "attributes": [
+  {
+   "id": "shortProductCopy",
+   "name": "Short Product Copy",
+   "value": "back to school, byod"
+  },
+  {
+   "id": "sellableUnitOfMeasure",
+   "name": "Sellable Unit of Measure",
+   "value": "Single Unit"
+  },
+  {
+   "id": "unitsPerPack",
+   "name": "Units Per Pack/Carton",
+   "value": "1"
+  },
+  {
+   "id": "dangerousLithium",
+   "name": "Contains Lithium Batteries",
+   "value": "Yes"
+  },
+  {
+   "id": "numberOfProcessorCores",
+   "name": "Number of Processor Cores",
+   "value": "Quad-Core"
+  },
+  {
+   "id": "processorManufacturer",
+   "name": "Processor Manufacturer",
+   "value": "Intel"
+  },
+  {
+   "id": "sizeChart",
+   "name": "Specification Chart",
+   "value": "Monitors"
+  },
+  {
+   "id": "manufacturerPartNumber",
+   "name": "Part Number",
+   "value": "NX.D5ZSA.001"
+  },
+  {
+   "id": "longProductCopy",
+   "name": "Long Product Copy",
+   "value": "The Acer Aspire Lite 14\" is a lightweight and affordable laptop designed to deliver reliable performance for everyday computing, study and entertainment. Powered by an Intel N150 quad-core processor, 8GB of LPDDR5 memory and fast SSD storage, it provides responsive performance for web browsing, productivity tasks and media consumption. Its 14-inch WUXGA IPS display offers sharp visuals with wide viewing angles, while Wi‑Fi 6 connectivity ensures fast and reliable wireless networking whether you're working from home, studying or on the move."
+  },
+  {
+   "id": "status",
+   "name": "Status",
+   "value": "Active"
+  },
+  {
+   "id": "dinkusBYOD",
+   "name": "BYOD Recommended",
+   "value": "Yes"
+  },
+  {
+   "id": "operatingSystemEdition",
+   "name": "Operating System Edition",
+   "value": "Windows 11 Home"
+  },
+  {
+   "id": "priceDroppedType",
+   "name": "Ticket - Ticket Type",
+   "value": "Deals"
+  },
+  {
+   "id": "marketplaceKmartCategory",
+   "name": "Marketplace - Kmart Category",
+   "value": "TECHNOLOGY-OFFICE-TECH-COMPUTERS-LAPTOPS"
+  },
+  {
+   "id": "runTimeHours",
+   "name": "Run Time (Up To) Hours",
+   "value": "8 hours"
+  },
+  {
+   "id": "priceDroppedEndDate",
+   "name": "Ticket - End Date",
+   "value": "2026-10-28"
+  },
+  {
+   "id": "priceDroppedStartDate",
+   "name": "Ticket - Start Date",
+   "value": "2026-10-15"
+  },
+  {
+   "id": "Geeks2UProduct",
+   "name": "Geeks2U Product",
+   "value": "G2UCOMPSET"
+  },
+  {
+   "id": "bluetoothCompatibility",
+   "name": "Bluetooth Compatibility",
+   "value": "Bluetooth 5.2"
+  },
+  {
+   "id": "powerBatteryTechnology",
+   "name": "Battery Technology",
+   "value": "Lithium-ion"
+  },
+  {
+   "id": "modelNumber",
+   "name": "Model Number",
+   "value": "AL14-32P-C2ZC"
+  },
+  {
+   "id": "loyaltyEligibleProduct",
+   "name": "Loyalty Awards – Eligible",
+   "value": "Yes"
+  },
+  {
+   "id": "edlpPrice",
+   "name": "Latest EDLP Sale Price",
+   "value": "447.00"
+  },
+  {
+   "id": "SerialNumberScan",
+   "name": "Serial Number Scan",
+   "value": "Yes"
+  },
+  {
+   "id": "solvupRequired",
+   "name": "Solvup Required",
+   "value": "Yes"
+  },
+  {
+   "id": "marketplaceUberTop",
+   "name": "Marketplace - Uber Top-Level Category",
+   "value": "Technology"
+  },
+  {
+   "id": "marketplaceUberSecond",
+   "name": "Marketplace - Uber Second-Level Category",
+   "value": "Computers, Laptops and Tablets"
+  },
+  {
+   "id": "aIEnabled",
+   "name": "AI-enabled",
+   "value": "No"
+  },
+  {
+   "id": "productGrade",
+   "name": "Product Grade",
+   "value": "A - Extra Extra Small"
+  },
+  {
+   "id": "deliveryMethod",
+   "name": "Delivery Method",
+   "value": "XDock (Standard)"
+  },
+  {
+   "id": "rangedChannel",
+   "name": "OW Ranged",
+   "value": "Both"
+  },
+  {
+   "id": "refreshRate",
+   "name": "Refresh Rate",
+   "value": "60 Hz"
+  },
+  {
+   "id": "productCode",
+   "name": "OW Product Code",
+   "value": "ACD5ZSA001"
+  },
+  {
+   "id": "gstExempt",
+   "name": "Pricing..GST Exempt",
+   "value": "No"
+  },
+  {
+   "id": "marketplaceReturnsWindow",
+   "name": "Company Returns Window",
+   "value": "30 days"
+  },
+  {
+   "id": "height",
+   "name": "Product Height (mm)",
+   "value": "17.9 mm"
+  },
+  {
+   "id": "depth",
+   "name": "Product Depth (mm)",
+   "value": "219.7 mm"
+  },
+  {
+   "id": "marketplaceSellerName",
+   "name": "Company Name",
+   "value": "Officeworks"
+  },
+  {
+   "id": "productType",
+   "name": "Product Type",
+   "value": "STANDARD"
+  },
+  {
+   "id": "marketplaceReturnsPolicy",
+   "name": "Company Returns Policy",
+   "value": "https://www.officeworks.com.au/information/policies/return-policy"
+  },
+  {
+   "id": "deliveryMinDays",
+   "name": "Minimum Delivery Days",
+   "value": "7"
+  },
+  {
+   "id": "marketplaceSellerURL",
+   "name": "Company Website",
+   "value": "https://www.officeworks.com.au"
+  },
+  {
+   "id": "width",
+   "name": "Product Width (mm)",
+   "value": "314.8 mm"
+  },
+  {
+   "id": "deliveryMaxDays",
+   "name": "Maximum Delivery Days",
+   "value": "12"
+  },
+  {
+   "id": "weight",
+   "name": "Product Weight (kg)",
+   "value": "1.17 kg"
+  },
+  {
+   "id": "displaySize",
+   "name": "Display Size (Diagonal)",
+   "value": "14 in"
+  },
+  {
+   "id": "expressDeliveryBuffer",
+   "name": "Express Delivery Stock Buffer",
+   "value": "1"
+  },
+  {
+   "id": "videoResolution",
+   "name": "Video Resolution",
+   "value": "WUXGA"
+  },
+  {
+   "id": "rangedOnline",
+   "name": "Available Online",
+   "value": "Yes"
+  },
+  {
+   "id": "expressDelivery",
+   "name": "Express Delivery",
+   "value": "Yes"
+  },
+  {
+   "id": "rangedRetail",
+   "name": "Available In Store",
+   "value": "Yes"
+  },
+  {
+   "id": "storageHDCapacity",
+   "name": "Hard Drive Capacity",
+   "value": "128 GB"
+  },
+  {
+   "id": "retailPackageWeight",
+   "name": "Gross Weight",
+   "value": "2 kg"
+  },
+  {
+   "id": "copilotPc",
+   "name": "Copilot+ PC",
+   "value": "No"
+  },
+  {
+   "id": "marketplaceUberBuffer",
+   "name": "Marketplace - Uber Stock Buffer",
+   "value": "1"
+  },
+  {
+   "id": "merchCat",
+   "name": "Merchandise Category",
+   "value": "TEMCLCE"
+  },
+  {
+   "id": "extendedReturnsExcluded",
+   "name": "Extended Returns Excluded",
+   "value": "Yes - Excluded"
+  },
+  {
+   "id": "erpCreateDate",
+   "name": "Date Created",
+   "value": "2026-07-27"
+  },
+  {
+   "id": "numberOfUsb32Ports",
+   "name": "Number of USB 3.2 Ports",
+   "value": "1"
+  },
+  {
+   "id": "displayResolution",
+   "name": "Display Resolution",
+   "value": "1920 x 1200"
+  },
+  {
+   "id": "loyaltyRedeemableProduct",
+   "name": "Loyalty Awards – Redeemable",
+   "value": "Yes"
+  },
+  {
+   "id": "warranty",
+   "name": "Manufacturer's Warranty",
+   "value": "12 month"
+  },
+  {
+   "id": "touchScreen",
+   "name": "Touch Screen",
+   "value": "No"
+  },
+  {
+   "id": "customVariantRender",
+   "name": "Custom Variant Render",
+   "value": "Text"
+  },
+  {
+   "id": "retailPackageWidth",
+   "name": "Width",
+   "value": "314.8 mm"
+  },
+  {
+   "id": "retailPackageHeight",
+   "name": "Height",
+   "value": "17.9 mm"
+  },
+  {
+   "id": "retailPackageLength",
+   "name": "Length",
+   "value": "219.7 mm"
+  },
+  {
+   "id": "gtin",
+   "name": "Barcode",
+   "value": "4711474931474"
+  },
+  {
+   "id": "marketplaceKmartBuffer",
+   "name": "Marketplace - Kmart Stock Buffer",
+   "value": "1"
+  },
+  {
+   "id": "shortProductTitle",
+   "name": "Product description",
+   "value": "Acer Aspire Lite 14\" N150 8/128GB"
+  },
+  {
+   "id": "packQuantity",
+   "name": "Pack/Carton Quantity",
+   "value": "1"
+  },
+  {
+   "id": "dinkusDeals",
+   "name": "Deals",
+   "value": "Yes"
+  },
+  {
+   "id": "manufacturer",
+   "name": "Manufacturer",
+   "value": "Acer (F00263)"
+  },
+  {
+   "id": "salesIncentiveEligible",
+   "name": "Sales Incentive Eligible",
+   "value": "Yes"
+  },
+  {
+   "id": "productMerchHierFolderPath",
+   "name": "MerchHierarchy Folder Path",
+   "value": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCLCE Laptops Celeron"
+  },
+  {
+   "id": "marketplaceKmartComplianceFurniture",
+   "name": "Marketplace - Kmart Compliance Furniture (CALC)",
+   "value": "No"
+  },
+  {
+   "id": "marketplaceFABS",
+   "name": "Marketplace - OW Long Copy and FABs (CALC)",
+   "value": "<p>The Acer Aspire Lite 14\" is a lightweight and affordable laptop designed to deliver reliable performance for everyday computing, study and entertainment. Powered by an Intel N150 quad-core processor, 8GB of LPDDR5 memory and fast SSD storage, it provides responsive performance for web browsing, productivity tasks and media consumption. Its 14-inch WUXGA IPS display offers sharp visuals with wide viewing angles, while Wi‑Fi 6 connectivity ensures fast and reliable wireless networking whether you're working from home, studying or on the move.</p> <br><b> Features</b> <br><ul><li>14\" IPS WUXGA display with a resolution of 1920 x 1200.<li>Intel N150 processor.<li>8 GB of RAM.<li>128 GB SSD storage.<li>Intel UHD graphics.<li>Connections via WiFi, Bluetooth 5.2, 2 x USB-C, 1 x USB 3.2, 1 x HDMI, and 1 x 3.5mm.<li>12 month warranty.<li>Battery life up to 8 hours.<li>Windows 11 Home operating system.<li>1080p FHD webcam.<li>Silver colourway.</ul> <br>"
+  },
+  {
+   "id": "webProductSeo",
+   "name": "Web Product SEO",
+   "value": "Officeworks won't be beaten on Acer 14\" Aspire Lite N150 8/128GB Laptop prices with our Price Beat Guarantee, 2-hour Click & Collect, and fast delivery options."
+  },
+  {
+   "id": "titleLong",
+   "name": "OW Long Product Title",
+   "value": "Acer 14\" Aspire Lite N150 8/128GB Laptop"
+  },
+  {
+   "id": "shortProductTitleCalc",
+   "name": "Product description",
+   "value": "Acer Aspire Lite 14\" N150 8/128GB"
+  },
+  {
+   "id": "pphFolderName",
+   "name": "PPH Folder Name",
+   "value": "Notebooks & Touchscreen Laptops"
+  },
+  {
+   "id": "marketplaceKmartStockDistribution",
+   "name": "Marketplace - Kmart Stock Distribution (CALC)",
+   "value": "NATIONAL"
+  },
+  {
+   "id": "parentProductId",
+   "name": "Parent Product ID",
+   "value": "Family_2851728"
+  },
+  {
+   "id": "parentProductObj",
+   "name": "Parent Product Object",
+   "value": "Product Family"
+  },
+  {
+   "id": "productWebHierFolderPath",
+   "name": "WebHierarchy Folder Path",
+   "value": "Web Hierarchy/OW Default Web/Technology/Recommended School Tech;Web Hierarchy/OW Default Web/Technology/Laptops/Everyday Productivity;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Deals"
+  },
+  {
+   "id": "marketplaceLongProductTitle",
+   "name": "Marketplace - Long Product Title (CALC)",
+   "value": "Acer 14\" Aspire Lite N150 8/128GB Laptop"
+  },
+  {
+   "id": "urlKeyword",
+   "name": "Web URL Keyword",
+   "value": "acer-14-aspire-lite-n150-8-128gb-laptop-acd5zsa001"
+  },
+  {
+   "id": "descriptionShort",
+   "name": "Web Extract Short Marketing Calc",
+   "value": "back to school, byod"
+  },
+  {
+   "id": "brandlogo",
+   "name": "Brand Logo",
+   "value": "Acer.png"
+  },
+  {
+   "id": "marketplaceKmartOnePass",
+   "name": "Marketplace - Kmart OnePass Eligible (CALC)",
+   "value": "Yes"
+  },
+  {
+   "id": "webPageTitle",
+   "name": "Web Page Title",
+   "value": "Acer 14\" Aspire Lite N150 8/128GB Laptop | Officeworks"
+  },
+  {
+   "id": "descriptionMeta",
+   "name": "Web Meta Description Calc",
+   "value": "back to school, byod"
+  },
+  {
+   "id": "brand",
+   "name": "Brand",
+   "value": "Acer"
+  },
+  {
+   "id": "devicensureEligible",
+   "name": "DevicEnsure Eligible",
+   "value": "No"
+  },
+  {
+   "id": "fabpoint02",
+   "name": "FAB Point",
+   "value": "Intel N150 processor."
+  },
+  {
+   "id": "fabpoint03",
+   "name": "FAB Point",
+   "value": "8 GB of RAM."
+  },
+  {
+   "id": "fabpoint04",
+   "name": "FAB Point",
+   "value": "128 GB SSD storage."
+  },
+  {
+   "id": "marketplaceUberDinkus",
+   "name": "Marketplace - Uber Dinkus (CALC)",
+   "value": "dinkusDeals"
+  },
+  {
+   "id": "marketplaceOpenAICheckout",
+   "name": "Marketplace - OpenAI Checkout Availability (CALC)",
+   "value": "Yes"
+  },
+  {
+   "id": "marketplaceOpenAISearch",
+   "name": "Marketplace - OpenAI Search Availability (CALC)",
+   "value": "Yes"
+  },
+  {
+   "id": "fabpoint01",
+   "name": "FAB Point",
+   "value": "14\" IPS WUXGA display with a resolution of 1920 x 1200."
+  },
+  {
+   "id": "descriptionLong",
+   "name": "Web Extract Long Marketing Calc",
+   "value": "The Acer Aspire Lite 14\" is a lightweight and affordable laptop designed to deliver reliable performance for everyday computing, study and entertainment. Powered by an Intel N150 quad-core processor, 8GB of LPDDR5 memory and fast SSD storage, it provides responsive performance for web browsing, productivity tasks and media consumption. Its 14-inch WUXGA IPS display offers sharp visuals with wide viewing angles, while Wi‑Fi 6 connectivity ensures fast and reliable wireless networking whether you're working from home, studying or on the move."
+  },
+  {
+   "id": "fabpoint10",
+   "name": "FAB Point",
+   "value": "1080p FHD webcam."
+  },
+  {
+   "id": "marketplaceUber",
+   "name": "Marketplace - Uber Availability (CALC)",
+   "value": "Yes"
+  },
+  {
+   "id": "fabpoint11",
+   "name": "FAB Point",
+   "value": "Silver colourway."
+  },
+  {
+   "id": "fabpoint08",
+   "name": "FAB Point",
+   "value": "Battery life up to 8 hours."
+  },
+  {
+   "id": "reservationEligible",
+   "name": "Reservation Eligible",
+   "value": "Yes"
+  },
+  {
+   "id": "fabpoint09",
+   "name": "FAB Point",
+   "value": "Windows 11 Home operating system."
+  },
+  {
+   "id": "fabpoint05",
+   "name": "FAB Point",
+   "value": "Intel UHD graphics."
+  },
+  {
+   "id": "fabpoint06",
+   "name": "FAB Point",
+   "value": "Connections via WiFi, Bluetooth 5.2, 2 x USB-C, 1 x USB 3.2, 1 x HDMI, and 1 x 3.5mm."
+  },
+  {
+   "id": "fabpoint07",
+   "name": "FAB Point",
+   "value": "12 month warranty."
+  },
+  {
+   "id": "productVolume",
+   "name": "Product Volume (Cubic cm)",
+   "value": "1237.9919"
+  },
+  {
+   "id": "productFamilyCode",
+   "name": "Parent Product Family Code / Name",
+   "value": "ACD2SFM - ACER 14 ASP LITE 4/128 N150 FM"
+  },
+  {
+   "id": "webHierName",
+   "name": "WebHierarchy Folder",
+   "value": "Recommended School Tech, Everyday Productivity, All Laptops, Deals"
+  },
+  {
+   "id": "apiModelId",
+   "name": "WEB_ID",
+   "value": "ACD5ZSA001"
+  },
+  {
+   "id": "customVariant",
+   "name": "Variation",
+   "value": "Intel N-Series / 128 GB"
+  },
+  {
+   "id": "colour",
+   "name": "Colour",
+   "value": "Silver"
+  },
+  {
+   "id": "warrantyLogo",
+   "name": "Warranty Logo",
+   "value": "12_month"
+  },
+  {
+   "id": "totalIndividualUnits",
+   "name": "Total Individual Units",
+   "value": "1"
+  },
+  {
+   "id": "marketplaceKmart",
+   "name": "Marketplace - Kmart Availability (CALC)",
+   "value": "Yes"
+  },
+  {
+   "id": "publishedWeb",
+   "name": "Published Web",
+   "value": "Yes"
+  },
+  {
+   "id": "marketplaceKmartLogisticsClass",
+   "name": "Marketplace - Kmart Logistics Class (CALC)",
+   "value": "FLAT"
+  },
+  {
+   "id": "retailPackageVolume",
+   "name": "Volume",
+   "value": "1237.9919 cm³"
+  }
+ ],
+ "brand": {
+  "name": "Acer",
+  "logo": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/BrandLogo/Acer.png",
+  "seoPath": "acer",
+  "sponsoredPageUrl": "https://www.officeworks.com.au/campaigns/brands/acer",
+  "published": true
+ },
+ "breadcrumbs": [
+  {
+   "title": "Deals",
+   "url": "deals"
+  }
+ ],
+ "category": [
+  {
+   "id": "Web_Deals",
+   "title": "Deals",
+   "url": "deals"
+  },
+  {
+   "id": "Web_Everyday_Productivity",
+   "title": "Everyday Productivity",
+   "url": "technology/laptops/everyday-productivity"
+  },
+  {
+   "id": "Web_NON-TOUCH_LAPTOPS",
+   "title": "All Laptops",
+   "url": "technology/laptops/all-laptops"
+  },
+  {
+   "id": "Web_Rec_School_Tech",
+   "title": "Recommended School Tech",
+   "url": "technology/recommended-school-tech"
+  }
+ ],
+ "webHierarchy": "Web Hierarchy/OW Default Web/Technology/Recommended School Tech;Web Hierarchy/OW Default Web/Technology/Laptops/Everyday Productivity;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Deals",
+ "accessories": [],
+ "description": {
+  "shortDescription": "back to school, byod",
+  "longDescription": "The Acer Aspire Lite 14\" is a lightweight and affordable laptop designed to deliver reliable performance for everyday computing, study and entertainment. Powered by an Intel N150 quad-core processor, 8GB of LPDDR5 memory and fast SSD storage, it provides responsive performance for web browsing, productivity tasks and media consumption. Its 14-inch WUXGA IPS display offers sharp visuals with wide viewing angles, while Wi‑Fi 6 connectivity ensures fast and reliable wireless networking whether you're working from home, studying or on the move."
+ },
+ "descriptionMeta": "Officeworks won't be beaten on Acer 14\" Aspire Lite N150 8/128GB Laptop prices with our Price Beat Guarantee, 2-hour Click & Collect, and fast delivery options.",
+ "family": [
+  {
+   "sku": "ACD5ZSA001",
+   "seoUrl": "/shop/officeworks/p/acer-14-aspire-lite-n150-8-128gb-laptop-acd5zsa001",
+   "identifyingAttributes": {
+    "Variation": "Intel N-Series / 128 GB"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_B_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_C_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_D_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_E_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_F_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_G_.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_B_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_C_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_D_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_E_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_F_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_G_.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_B_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_C_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_D_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_E_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_F_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_G_.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": true
+  },
+  {
+   "sku": "ACX0PSA002",
+   "seoUrl": "/shop/officeworks/p/acer-14-aspire-lite-ryzen-5-8-512gb-laptop-acx0psa002",
+   "identifyingAttributes": {
+    "Variation": "Ryzen 5 / 512 GB"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACX0PSA002_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACX0PSA002_B_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACX0PSA002_C_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACX0PSA002_D_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACX0PSA002_E_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACX0PSA002_F_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACX0PSA002_G_.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACX0PSA002_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACX0PSA002_B_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACX0PSA002_C_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACX0PSA002_D_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACX0PSA002_E_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACX0PSA002_F_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACX0PSA002_G_.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACX0PSA002_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACX0PSA002_B_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACX0PSA002_C_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACX0PSA002_D_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACX0PSA002_E_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACX0PSA002_F_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACX0PSA002_G_.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "ACD2TSA001",
+   "seoUrl": "/shop/officeworks/p/acer-14-aspire-lite-n150-8gb-256gb-laptop-acd2tsa001",
+   "identifyingAttributes": {},
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD2TSA001_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD2TSA001_B_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD2TSA001_C_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD2TSA001_D_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD2TSA001_E_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD2TSA001_F_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD2TSA001_G_.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD2TSA001_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD2TSA001_B_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD2TSA001_C_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD2TSA001_D_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD2TSA001_E_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD2TSA001_F_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD2TSA001_G_.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD2TSA001_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD2TSA001_B_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD2TSA001_C_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD2TSA001_D_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD2TSA001_E_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD2TSA001_F_.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD2TSA001_G_.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  }
+ ],
+ "familyAttrs": {
+  "Variation": [
+   "Intel N-Series / 128 GB",
+   "Ryzen 5 / 512 GB"
+  ]
+ },
+ "ranged": {
+  "inStore": true,
+  "online": true
+ },
+ "rangedOnline": true,
+ "rangedRetail": true,
+ "published": true,
+ "fab": [
+  "14\" IPS WUXGA display with a resolution of 1920 x 1200.",
+  "Intel N150 processor.",
+  "8 GB of RAM.",
+  "128 GB SSD storage.",
+  "Intel UHD graphics.",
+  "Connections via WiFi, Bluetooth 5.2, 2 x USB-C, 1 x USB 3.2, 1 x HDMI, and 1 x 3.5mm.",
+  "12 month warranty.",
+  "Battery life up to 8 hours.",
+  "Windows 11 Home operating system.",
+  "1080p FHD webcam.",
+  "Silver colourway."
+ ],
+ "images": {
+  "thumb": [
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_B_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_C_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_D_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_E_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_F_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/ACD5ZSA001_G_.jpg"
+  ],
+  "preview": [
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_B_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_C_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_D_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_E_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_F_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACD5ZSA001_G_.jpg"
+  ],
+  "full": [
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_B_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_C_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_D_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_E_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_F_.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_G_.jpg"
+  ],
+  "threeSixty": {
+   "thumb": [],
+   "preview": [],
+   "full": []
+  },
+  "view360": []
+ },
+ "itemsPerUnit": null,
+ "totalUnits": null,
+ "name": "Acer 14\" Aspire Lite N150 8/128GB Laptop",
+ "productOptions": [],
+ "ribbon": "dinkusDeals",
+ "sku": "ACD5ZSA001",
+ "specs": [
+  {
+   "group": "General",
+   "attributes": [
+    {
+     "name": "Brand",
+     "value": "Acer"
+    },
+    {
+     "name": "Manufacturer's Warranty",
+     "value": "12 month"
+    },
+    {
+     "name": "Operating System Edition",
+     "value": "Windows 11 Home"
+    },
+    {
+     "name": "Barcode",
+     "value": "4711474931474"
+    },
+    {
+     "name": "Copilot+ PC",
+     "value": "No"
+    },
+    {
+     "name": "Descriptive Colour",
+     "value": "Silver"
+    },
+    {
+     "name": "Detachable Keyboard",
+     "value": "N/A"
+    },
+    {
+     "name": "Model Number",
+     "value": "AL14-32P-C2ZC"
+    },
+    {
+     "name": "Product Dimensions (mm)",
+     "value": "314.8W x 219.7D x 17.9H mm"
+    },
+    {
+     "name": "Product Weight (kg)",
+     "value": "1.17 kg"
+    },
+    {
+     "name": "Software Included",
+     "value": "M365 Personal OPP, GamePass 3M"
+    }
+   ]
+  },
+  {
+   "group": "Connectivity",
+   "attributes": [
+    {
+     "name": "Internet Connectivity",
+     "value": "Wireless"
+    },
+    {
+     "name": "Bluetooth Compatibility",
+     "value": "Bluetooth 5.2"
+    },
+    {
+     "name": "Wireless Protocols",
+     "value": "802.11a/b/g/n/ac/ax Dual Band (2.4 GHz and 5 GHz)"
+    }
+   ]
+  },
+  {
+   "group": "Display",
+   "attributes": [
+    {
+     "name": "Video Resolution",
+     "value": "WUXGA"
+    },
+    {
+     "name": "Display Type",
+     "value": "IPS"
+    },
+    {
+     "name": "Display Size (Diagonal)",
+     "value": "14 in"
+    },
+    {
+     "name": "Display Resolution",
+     "value": "1920 x 1200"
+    },
+    {
+     "name": "Anti-Glare",
+     "value": "Yes"
+    },
+    {
+     "name": "Touch Screen",
+     "value": "No"
+    }
+   ]
+  },
+  {
+   "group": "Manufacturer",
+   "attributes": [
+    {
+     "name": "Country of Manufacture",
+     "value": "China"
+    },
+    {
+     "name": "Part Number",
+     "value": "NX.D5ZSA.001"
+    }
+   ]
+  },
+  {
+   "group": "Performance",
+   "attributes": [
+    {
+     "name": "Refresh Rate",
+     "value": "60 Hz"
+    }
+   ]
+  },
+  {
+   "group": "Photo and Video Capture",
+   "attributes": [
+    {
+     "name": "Primary Camera Video",
+     "value": "1080p FHD"
+    }
+   ]
+  },
+  {
+   "group": "Ports",
+   "attributes": [
+    {
+     "name": "DisplayPort Version",
+     "value": "DisplayPort 1.4"
+    },
+    {
+     "name": "Headphone/Speaker Ports (3.5mm Audio Out)",
+     "value": "1"
+    },
+    {
+     "name": "Number of HDMI Ports",
+     "value": "1"
+    },
+    {
+     "name": "Number of USB 3.2 Ports",
+     "value": "1"
+    },
+    {
+     "name": "Number of USB-C Ports",
+     "value": "2"
+    },
+    {
+     "name": "USB-C Functions",
+     "value": "Data & Display"
+    },
+    {
+     "name": "USB-C Speed Type",
+     "value": "USB 3.2"
+    }
+   ]
+  },
+  {
+   "group": "Power",
+   "attributes": [
+    {
+     "name": "Run Time (Up To) Hours",
+     "value": "8 hours"
+    },
+    {
+     "name": "Battery Technology",
+     "value": "Lithium-ion"
+    },
+    {
+     "name": "Power & Charging Interface",
+     "value": "Mains powered"
+    },
+    {
+     "name": "Power Supply",
+     "value": "Yes"
+    }
+   ]
+  },
+  {
+   "group": "Processor and Memory",
+   "attributes": [
+    {
+     "name": "AI-enabled",
+     "value": "No"
+    },
+    {
+     "name": "RAM Installed Size",
+     "value": "8 GB"
+    },
+    {
+     "name": "Processor Manufacturer",
+     "value": "Intel"
+    },
+    {
+     "name": "Primary Processor Type",
+     "value": "Intel N-Series"
+    },
+    {
+     "name": "Processor Clock Speed",
+     "value": "3.6 GHz"
+    },
+    {
+     "name": "Number of Processor Cores",
+     "value": "Quad-Core"
+    },
+    {
+     "name": "64-bit Computing",
+     "value": "N/A"
+    },
+    {
+     "name": "Graphics Processor",
+     "value": "Intel UHD Graphics"
+    },
+    {
+     "name": "Primary Processor Number",
+     "value": "N150"
+    },
+    {
+     "name": "RAM Technology",
+     "value": "LPDDR5"
+    }
+   ]
+  },
+  {
+   "group": "Quantity",
+   "attributes": [
+    {
+     "name": "Units Per Pack/Carton",
+     "value": "1"
+    },
+    {
+     "name": "Pack/Carton Quantity",
+     "value": "1"
+    },
+    {
+     "name": "Total Individual Units",
+     "value": "1"
+    },
+    {
+     "name": "Sellable Unit of Measure",
+     "value": "Single Unit"
+    }
+   ]
+  },
+  {
+   "group": "Storage",
+   "attributes": [
+    {
+     "name": "Hard Drive Capacity",
+     "value": "128 GB"
+    },
+    {
+     "name": "Installed Storage Type",
+     "value": "SSD"
+    },
+    {
+     "name": "Expandable Memory",
+     "value": "N/A"
+    }
+   ]
+  }
+ ],
+ "seoPath": "/shop/officeworks/p/acer-14-aspire-lite-n150-8-128gb-laptop-acd5zsa001",
+ "substitutes": [
+  "ACD2TSA001"
+ ],
+ "review": {
+  "count": "3",
+  "range": "5",
+  "averageRating": "3.6667"
+ },
+ "gtin": "4711474931474",
+ "edlpPrice": "447.00",
+ "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/ACD5ZSA001_.jpg",
+ "urlKeyword": "acer-14-aspire-lite-n150-8-128gb-laptop-acd5zsa001",
+ "fabTexts": {},
+ "warrantyLogoImage": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/WarrantyLogo/12_month.png",
+ "environmentLogoImages": [],
+ "safetyLogoFabImages": [],
+ "safetyLogoPdpImages": [],
+ "paymentExclusion": [],
+ "deliveryMethodExclusion": [],
+ "preorderProduct": false,
+ "manufacturerPartNumber": "NX.D5ZSA.001"
+}

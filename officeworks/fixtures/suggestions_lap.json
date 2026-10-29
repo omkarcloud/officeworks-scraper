@@ -1,0 +1,349 @@
+{
+ "results": [
+  {
+   "hits": [
+    {
+     "nb_words": 1,
+     "popularity": 15043,
+     "prod-product-wc-bestmatch-personal": {
+      "exact_nb_hits": 275,
+      "facets": {
+       "exact_matches": {
+        "leafCategory": [
+         {
+          "value": "All Laptops",
+          "count": 265
+         }
+        ]
+       },
+       "analytics": {
+        "leafCategory": []
+       }
+      }
+     },
+     "query": "laptops",
+     "objectID": "laptops",
+     "_highlightResult": {
+      "query": {
+       "value": "<em>lap</em>tops",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "lap"
+       ]
+      }
+     }
+    },
+    {
+     "nb_words": 2,
+     "popularity": 2435,
+     "prod-product-wc-bestmatch-personal": {
+      "exact_nb_hits": 187,
+      "facets": {
+       "exact_matches": {
+        "leafCategory": [
+         {
+          "value": "All Laptop Bags",
+          "count": 181
+         }
+        ]
+       },
+       "analytics": {
+        "leafCategory": []
+       }
+      }
+     },
+     "query": "laptop bags",
+     "objectID": "laptop bags",
+     "_highlightResult": {
+      "query": {
+       "value": "<em>lap</em>top bags",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "lap"
+       ]
+      }
+     }
+    },
+    {
+     "nb_words": 2,
+     "popularity": 2257,
+     "prod-product-wc-bestmatch-personal": {
+      "exact_nb_hits": 113,
+      "facets": {
+       "exact_matches": {
+        "leafCategory": [
+         {
+          "value": "Laptop Sleeves",
+          "count": 109
+         }
+        ]
+       },
+       "analytics": {
+        "leafCategory": []
+       }
+      }
+     },
+     "query": "laptop sleeves",
+     "objectID": "laptop sleeves",
+     "_highlightResult": {
+      "query": {
+       "value": "<em>lap</em>top sleeves",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "lap"
+       ]
+      }
+     }
+    },
+    {
+     "nb_words": 2,
+     "popularity": 1204,
+     "prod-product-wc-bestmatch-personal": {
+      "exact_nb_hits": 300,
+      "facets": {
+       "exact_matches": {
+        "leafCategory": [
+         {
+          "value": "All Laptop Bags",
+          "count": 170
+         }
+        ]
+       },
+       "analytics": {
+        "leafCategory": []
+       }
+      }
+     },
+     "query": "laptop computer",
+     "objectID": "laptop computer",
+     "_highlightResult": {
+      "query": {
+       "value": "<em>lap</em>top computer",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "lap"
+       ]
+      }
+     }
+    },
+    {
+     "nb_words": 2,
+     "popularity": 524,
+     "prod-product-wc-bestmatch-personal": {
+      "exact_nb_hits": 614,
+      "facets": {
+       "exact_matches": {
+        "leafCategory": [
+         {
+          "value": "All Computer Accessories",
+          "count": 592
+         }
+        ]
+       },
+       "analytics": {
+        "leafCategory": []
+       }
+      }
+     },
+     "query": "laptop accessories",
+     "objectID": "laptop accessories",
+     "_highlightResult": {
+      "query": {
+       "value": "<em>lap</em>top accessories",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "lap"
+       ]
+      }
+     }
+    },
+    {
+     "nb_words": 2,
+     "popularity": 248,
+     "prod-product-wc-bestmatch-personal": {
+      "exact_nb_hits": 205,
+      "facets": {
+       "exact_matches": {
+        "leafCategory": [
+         {
+          "value": "All Computer Accessories",
+          "count": 156
+         }
+        ]
+       },
+       "analytics": {
+        "leafCategory": []
+       }
+      }
+     },
+     "query": "laptop gaming",
+     "objectID": "laptop gaming",
+     "_highlightResult": {
+      "query": {
+       "value": "<em>lap</em>top gaming",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "lap"
+       ]
+      }
+     }
+    },
+    {
+     "nb_words": 2,
+     "popularity": 30,
+     "prod-product-wc-bestmatch-personal": {
+      "exact_nb_hits": 310,
+      "facets": {
+       "exact_matches": {
+        "leafCategory": [
+         {
+          "value": "All Computer Accessories",
+          "count": 310
+         }
+        ]
+       },
+       "analytics": {
+        "leafCategory": []
+       }
+      }
+     },
+     "query": "laptop mouse",
+     "objectID": "laptop mouse",
+     "_highlightResult": {
+      "query": {
+       "value": "<em>lap</em>top mouse",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "lap"
+       ]
+      }
+     }
+    },
+    {
+     "nb_words": 2,
+     "popularity": 3454,
+     "prod-product-wc-bestmatch-personal": {
+      "exact_nb_hits": 205,
+      "facets": {
+       "exact_matches": {
+        "leafCategory": [
+         {
+          "value": "All Computer Accessories",
+          "count": 156
+         }
+        ]
+       },
+       "analytics": {
+        "leafCategory": []
+       }
+      }
+     },
+     "query": "gaming laptop",
+     "objectID": "gaming laptop",
+     "_highlightResult": {
+      "query": {
+       "value": "gaming <em>lap</em>top",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "lap"
+       ]
+      }
+     }
+    },
+    {
+     "nb_words": 2,
+     "popularity": 139,
+     "prod-product-wc-bestmatch-personal": {
+      "exact_nb_hits": 123,
+      "facets": {
+       "exact_matches": {
+        "leafCategory": [
+         {
+          "value": "All Laptops",
+          "count": 122
+         }
+        ]
+       },
+       "analytics": {
+        "leafCategory": []
+       }
+      }
+     },
+     "query": "ai laptops",
+     "objectID": "ai laptops",
+     "_highlightResult": {
+      "query": {
+       "value": "ai <em>lap</em>tops",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "lap"
+       ]
+      }
+     }
+    },
+    {
+     "nb_words": 2,
+     "popularity": 88,
+     "prod-product-wc-bestmatch-personal": {
+      "exact_nb_hits": 161,
+      "facets": {
+       "exact_matches": {
+        "leafCategory": [
+         {
+          "value": "All Laptops",
+          "count": 107
+         }
+        ]
+       },
+       "analytics": {
+        "leafCategory": []
+       }
+      }
+     },
+     "query": "school laptop",
+     "objectID": "school laptop",
+     "_highlightResult": {
+      "query": {
+       "value": "school <em>lap</em>top",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "lap"
+       ]
+      }
+     }
+    }
+   ],
+   "nbHits": 10,
+   "page": 0,
+   "nbPages": 1,
+   "hitsPerPage": 10,
+   "exhaustiveNbHits": true,
+   "exhaustiveTypo": true,
+   "exhaustive": {
+    "nbHits": true,
+    "typo": true
+   },
+   "query": "lap",
+   "params": "query=lap&hitsPerPage=10",
+   "index": "prod-product-wc-query-suggest",
+   "renderingContent": {},
+   "processingTimeMS": 1,
+   "processingTimingsMS": {
+    "_request": {
+     "roundTrip": 355
+    },
+    "total": 0
+   }
+  }
+ ]
+}

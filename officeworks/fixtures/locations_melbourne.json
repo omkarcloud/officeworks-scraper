@@ -1,0 +1,27 @@
+[
+ {
+  "postcode": "3000",
+  "suburb": "Melbourne",
+  "state": "VIC"
+ },
+ {
+  "postcode": "3207",
+  "suburb": "Port Melbourne",
+  "state": "VIC"
+ },
+ {
+  "postcode": "3051",
+  "suburb": "North Melbourne",
+  "state": "VIC"
+ },
+ {
+  "postcode": "3045",
+  "suburb": "Melbourne Airport",
+  "state": "VIC"
+ },
+ {
+  "postcode": "3003",
+  "suburb": "West Melbourne",
+  "state": "VIC"
+ }
+]

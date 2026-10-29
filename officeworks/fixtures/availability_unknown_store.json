@@ -1,0 +1,28 @@
+{
+ "errors": [
+  {
+   "message": "Bad request"
+  }
+ ],
+ "data": {
+  "product": {
+   "productType": "STANDARD",
+   "ranged": {
+    "online": true,
+    "inStore": true
+   },
+   "availability": {
+    "clickAndCollect": null,
+    "inStore": null,
+    "deliverToDoor": null
+   },
+   "store": {
+    "id": "W999",
+    "name": "",
+    "status": "",
+    "postcode": "",
+    "state": ""
+   }
+  }
+ }
+}

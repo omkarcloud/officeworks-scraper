@@ -1,0 +1,32 @@
+{
+ "data": {
+  "product": {
+   "productType": "STANDARD",
+   "ranged": {
+    "online": true,
+    "inStore": true
+   },
+   "availability": {
+    "clickAndCollect": {
+     "availableDate": "2026-10-29T00:00:00.000Z",
+     "relativeAvailableDate": "today",
+     "quantity": 6,
+     "quickCollectAvailable": false
+    },
+    "inStore": {
+     "availableDate": "2026-10-29T00:00:00.000Z",
+     "relativeAvailableDate": "today",
+     "quantity": 6
+    },
+    "deliverToDoor": null
+   },
+   "store": {
+    "id": "W320",
+    "name": "Russell St, Melbourne Officeworks",
+    "status": "Active",
+    "postcode": "3000",
+    "state": "VIC"
+   }
+  }
+ }
+}

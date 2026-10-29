@@ -1,0 +1,33 @@
+{
+ "results": [
+  {
+   "hits": [],
+   "nbHits": 0,
+   "page": 0,
+   "nbPages": 0,
+   "hitsPerPage": 24,
+   "facets": {},
+   "exhaustiveFacetsCount": true,
+   "exhaustiveNbHits": true,
+   "exhaustiveTypo": true,
+   "exhaustive": {
+    "facetsCount": true,
+    "nbHits": true,
+    "typo": true
+   },
+   "query": "zzqqxxyyzz",
+   "queryAfterRemoval": "zzqqxxyyzz",
+   "params": "query=zzqqxxyyzz&hitsPerPage=24&page=0&facets=%5B%22brand%22%2C%22categorySeoPaths%22%2C%22colour%22%2C%22rating%22%2C%22price%22%2C%22availState%22%2C%22clearanceOnline%22%5D&maxValuesPerFacet=50",
+   "index": "prod-product-wc-bestmatch-personal",
+   "renderingContent": {},
+   "processingTimeMS": 1,
+   "processingTimingsMS": {
+    "_request": {
+     "roundTrip": 354
+    },
+    "total": 1
+   },
+   "serverTimeMS": 1
+  }
+ ]
+}

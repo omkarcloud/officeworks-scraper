@@ -1,0 +1,25 @@
+{
+ "results": [
+  {
+   "hits": [],
+   "nbHits": 0,
+   "page": 999,
+   "nbPages": 0,
+   "hitsPerPage": 24,
+   "exhaustiveFacetsCount": true,
+   "exhaustiveNbHits": true,
+   "exhaustiveTypo": true,
+   "exhaustive": {
+    "facetsCount": true,
+    "nbHits": true,
+    "typo": true
+   },
+   "processingTimeMS": 1,
+   "message": "you can only fetch the 1000 hits for this query. You can extend the number of hits returned via the paginationLimitedTo index parameter or use the browse method. You can read our FAQ for more details about browsing: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/export-an-algolia-index/#exporting-the-index-using-an-api-client",
+   "query": "laptop",
+   "params": "query=laptop&hitsPerPage=24&page=999&facets=%5B%22brand%22%2C%22categorySeoPaths%22%2C%22colour%22%2C%22rating%22%2C%22price%22%2C%22availState%22%2C%22clearanceOnline%22%5D&maxValuesPerFacet=50",
+   "index": "prod-product-wc-bestmatch-personal",
+   "renderingContent": {}
+  }
+ ]
+}

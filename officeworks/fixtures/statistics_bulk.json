@@ -1,0 +1,43 @@
+{
+ "Limit": 3,
+ "Offset": 0,
+ "TotalResults": 2,
+ "Locale": "en_US",
+ "Results": [
+  {
+   "ProductStatistics": {
+    "ProductId": "INLOG4459",
+    "ProductName": "Logitech Desk Mat Dark Rose",
+    "NativeReviewStatistics": {},
+    "ReviewStatistics": {
+     "AverageOverallRating": 3.8889,
+     "TotalReviewCount": 9,
+     "OverallRatingRange": 5
+    },
+    "QAStatistics": {
+     "TotalQuestionCount": 6,
+     "TotalAnswerCount": 7
+    }
+   }
+  },
+  {
+   "ProductStatistics": {
+    "ProductId": "LOM280BLK",
+    "ProductName": "Logitech M280 Wireless Mouse Black",
+    "NativeReviewStatistics": {},
+    "ReviewStatistics": {
+     "AverageOverallRating": 4.2237,
+     "TotalReviewCount": 76,
+     "OverallRatingRange": 5
+    },
+    "QAStatistics": {
+     "TotalQuestionCount": 51,
+     "TotalAnswerCount": 57
+    }
+   }
+  }
+ ],
+ "Includes": {},
+ "HasErrors": false,
+ "Errors": []
+}

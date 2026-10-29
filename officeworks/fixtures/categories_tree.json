@@ -1,0 +1,5364 @@
+[
+ {
+  "name": "Technology",
+  "seoPath": "technology",
+  "children": [
+   {
+    "name": "New Technology",
+    "seoPath": "technology/new-technology"
+   },
+   {
+    "name": "Recommended School Tech",
+    "seoPath": "technology/recommended-school-tech"
+   },
+   {
+    "name": "Laptops",
+    "seoPath": "technology/laptops",
+    "children": [
+     {
+      "name": "All Laptops",
+      "seoPath": "technology/laptops/all-laptops"
+     },
+     {
+      "name": "MacBooks",
+      "seoPath": "technology/laptops/macbooks",
+      "children": [
+       {
+        "name": "All MacBooks",
+        "seoPath": "technology/laptops/macbooks/all-macbooks"
+       },
+       {
+        "name": "MacBook Neo",
+        "seoPath": "technology/laptops/macbooks/macbook-neo"
+       },
+       {
+        "name": "MacBook Pro",
+        "seoPath": "technology/laptops/macbooks/macbook-pro"
+       },
+       {
+        "name": "MacBook Air",
+        "seoPath": "technology/laptops/macbooks/macbook-air"
+       },
+       {
+        "name": "MacBook Accessories",
+        "seoPath": "technology/laptops/macbooks/macbook-accessories"
+       },
+       {
+        "name": "MacBook Cases",
+        "seoPath": "technology/laptops/macbooks/macbook-cases"
+       }
+      ]
+     },
+     {
+      "name": "Business Laptops",
+      "seoPath": "technology/laptops/business-laptops"
+     },
+     {
+      "name": "Dell Laptops",
+      "seoPath": "technology/laptops/dell-laptops"
+     },
+     {
+      "name": "2 in 1 Laptops",
+      "seoPath": "technology/laptops/2-in-1-laptops"
+     },
+     {
+      "name": "Laptop Bags & Sleeves",
+      "seoPath": "technology/laptops/laptop-bags-sleeves",
+      "children": [
+       {
+        "name": "All Laptop Bags",
+        "seoPath": "technology/laptops/laptop-bags-sleeves/all-laptop-bags"
+       },
+       {
+        "name": "Laptop Bags",
+        "seoPath": "technology/laptops/laptop-bags-sleeves/laptop-bags"
+       },
+       {
+        "name": "Laptop Backpacks",
+        "seoPath": "technology/laptops/laptop-bags-sleeves/laptop-backpacks"
+       },
+       {
+        "name": "Laptop Sleeves",
+        "seoPath": "technology/laptops/laptop-bags-sleeves/laptop-sleeves"
+       }
+      ]
+     },
+     {
+      "name": "Laptop Accessories",
+      "seoPath": "technology/laptops/laptop-accessories",
+      "children": [
+       {
+        "name": "Laptop Stands",
+        "seoPath": "technology/laptops/laptop-accessories/laptop-stands"
+       }
+      ]
+     },
+     {
+      "name": "Chromebooks",
+      "seoPath": "technology/laptops/chromebooks"
+     },
+     {
+      "name": "OLED Laptops",
+      "seoPath": "technology/laptops/oled-laptops"
+     },
+     {
+      "name": "Copilot+ PCs",
+      "seoPath": "technology/laptops/copilotplus--pcs"
+     },
+     {
+      "name": "AI PCs",
+      "seoPath": "technology/laptops/ai-pcs"
+     },
+     {
+      "name": "Microsoft Surface",
+      "seoPath": "technology/laptops/microsoft-surface",
+      "children": [
+       {
+        "name": "All Microsoft Surface",
+        "seoPath": "technology/laptops/microsoft-surface/all-microsoft-surface"
+       },
+       {
+        "name": "Microsoft Surface Accessories",
+        "seoPath": "technology/laptops/microsoft-surface/microsoft-surface-accessories"
+       }
+      ]
+     },
+     {
+      "name": "Everyday Productivity",
+      "seoPath": "technology/laptops/everyday-productivity"
+     },
+     {
+      "name": "Creator Pro",
+      "seoPath": "technology/laptops/creator-pro"
+     },
+     {
+      "name": "Power Gaming",
+      "seoPath": "technology/laptops/power-gaming"
+     },
+     {
+      "name": "Premium Performance",
+      "seoPath": "technology/laptops/premium-performance"
+     }
+    ]
+   },
+   {
+    "name": "Mobile Phones",
+    "seoPath": "technology/mobile-phones",
+    "children": [
+     {
+      "name": "Apple iPhones",
+      "seoPath": "technology/mobile-phones/apple-iphones",
+      "children": [
+       {
+        "name": "All iPhones",
+        "seoPath": "technology/mobile-phones/apple-iphones/all-iphones"
+       },
+       {
+        "name": "iPhone Duo",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-duo"
+       },
+       {
+        "name": "iPhone 18 Pro",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-18-pro"
+       },
+       {
+        "name": "iPhone 18 Pro Max",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-18-pro-max"
+       },
+       {
+        "name": "iPhone 17e",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-17e"
+       },
+       {
+        "name": "iPhone 17",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-17"
+       },
+       {
+        "name": "iPhone 17 Pro",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-17-pro"
+       },
+       {
+        "name": "iPhone 17 Pro Max",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-17-pro-max"
+       },
+       {
+        "name": "iPhone Air",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-air"
+       },
+       {
+        "name": "iPhone 16",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-16"
+       },
+       {
+        "name": "iPhone 16e",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-16e"
+       },
+       {
+        "name": "iPhone 15",
+        "seoPath": "technology/mobile-phones/apple-iphones/iphone-15"
+       },
+       {
+        "name": "Apple iPhone Cases",
+        "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases",
+        "children": [
+         {
+          "name": "All Apple iPhone Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/all-apple-iphone-cases"
+         },
+         {
+          "name": "iPhone Duo Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/iphone-duo-cases"
+         },
+         {
+          "name": "iPhone 18 Pro Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/iphone-18-pro-cases"
+         },
+         {
+          "name": "iPhone 18 Pro Max Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/iphone-18-pro-max-cases"
+         },
+         {
+          "name": "Apple iPhone 17 Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-17-cases"
+         },
+         {
+          "name": "Apple iPhone 17e Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-17e-cases"
+         },
+         {
+          "name": "Apple iPhone 17 Pro Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-17-pro-cases"
+         },
+         {
+          "name": "Apple iPhone 17 Pro Max Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-17-pro-max-cases"
+         },
+         {
+          "name": "Apple iPhone Air Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-air-cases"
+         },
+         {
+          "name": "Apple iPhone 16 Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-16-cases"
+         },
+         {
+          "name": "Apple iPhone 16e Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-16e-cases"
+         },
+         {
+          "name": "Apple iPhone 16 Pro Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-16-pro-cases"
+         },
+         {
+          "name": "Apple iPhone 16 Pro Max Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-16-pro-max-cases"
+         },
+         {
+          "name": "Apple iPhone 15 Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-15-cases"
+         },
+         {
+          "name": "Apple iPhone 15 Pro Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-15-pro-cases"
+         },
+         {
+          "name": "Apple iPhone 15 Pro Max Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-15-pro-max-cases"
+         },
+         {
+          "name": "Apple iPhone 14 Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-14-cases"
+         },
+         {
+          "name": "Apple iPhone 14 Pro Max Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-14-pro-max-cases"
+         },
+         {
+          "name": "Apple iPhone 13 Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-13-cases"
+         },
+         {
+          "name": "Apple iPhone 13 Pro Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-13-pro-cases"
+         },
+         {
+          "name": "Apple iPhone 13 Pro Max Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-13-pro-max-cases"
+         },
+         {
+          "name": "Apple iPhone 12 Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-12-cases"
+         },
+         {
+          "name": "Apple iPhone 12 Pro Cases",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-cases/apple-iphone-12-pro-cases"
+         }
+        ]
+       },
+       {
+        "name": "Apple iPhone Screen Protectors",
+        "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors",
+        "children": [
+         {
+          "name": "All Apple iPhone Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/all-apple-iphone-screen-protectors"
+         },
+         {
+          "name": "iPhone 18 Pro Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/iphone-18-pro-screen-protectors"
+         },
+         {
+          "name": "iPhone 18 Pro Max Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/iphone-18-pro-max-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 17 Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-17-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 17 Pro Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-17-pro-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 17 Pro Max Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-17-pro-max-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone Air Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-air-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 16 Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-16-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 16e Screen Protector",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-16e-screen-protector"
+         },
+         {
+          "name": "Apple iPhone 16 Pro Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-16-pro-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 16 Pro Max Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-16-pro-max-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 15 Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-15-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 15 Pro Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-15-pro-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 15 Pro Max Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-15-pro-max-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 14 Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-14-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 14 Pro Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-14-pro-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 14 Pro Max Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-14-pro-max-screen-protectors"
+         },
+         {
+          "name": "Apple iPhone 13 Screen Protectors",
+          "seoPath": "technology/mobile-phones/apple-iphones/apple-iphone-screen-protectors/apple-iphone-13-screen-protectors"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Samsung Galaxy Phones",
+      "seoPath": "technology/mobile-phones/samsung-galaxy-phones",
+      "children": [
+       {
+        "name": "All Samsung Galaxy Phones",
+        "seoPath": "technology/mobile-phones/samsung-galaxy-phones/all-samsung-galaxy-phones"
+       },
+       {
+        "name": "Samsung Galaxy S",
+        "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-s"
+       },
+       {
+        "name": "Samsung Galaxy Z",
+        "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-z"
+       },
+       {
+        "name": "Samsung Galaxy A",
+        "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-a"
+       },
+       {
+        "name": "Samsung Galaxy Phone Cases",
+        "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases",
+        "children": [
+         {
+          "name": "All Samsung Galaxy Phone Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/all-samsung-galaxy-phone-cases"
+         },
+         {
+          "name": "Galaxy S26 FE Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/galaxy-s26-fe-cases"
+         },
+         {
+          "name": "Galaxy Z Fold8 Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/galaxy-z-fold8-cases"
+         },
+         {
+          "name": "Galaxy Z Flip8 Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/galaxy-z-flip8-cases"
+         },
+         {
+          "name": "Samsung Galaxy Phone S26 Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/samsung-galaxy-phone-s26-cases"
+         },
+         {
+          "name": "Samsung Galaxy Phone S26+ Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/samsung-galaxy-phone-s26plus--cases"
+         },
+         {
+          "name": "Samsung Galaxy Phone S26 Ultra Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/samsung-galaxy-phone-s26-ultra-cases"
+         },
+         {
+          "name": "Samsung Galaxy Phone S25 FE Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/samsung-galaxy-phone-s25-fe-cases"
+         },
+         {
+          "name": "Samsung Galaxy Phone Z Flip7 Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/samsung-galaxy-phone-z-flip7-cases"
+         },
+         {
+          "name": "Samsung Galaxy Phone Z Fold7 Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/samsung-galaxy-phone-z-fold7-cases"
+         },
+         {
+          "name": "Samsung Galaxy Phone A17 Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/samsung-galaxy-phone-a17-cases"
+         },
+         {
+          "name": "Samsung Galaxy Phone A26 Cases",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-cases/samsung-galaxy-phone-a26-cases"
+         }
+        ]
+       },
+       {
+        "name": "Samsung Galaxy Phone Screen Protectors",
+        "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors",
+        "children": [
+         {
+          "name": "Galaxy S26 FE Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/galaxy-s26-fe-screen-protectors"
+         },
+         {
+          "name": "All Samsung Galaxy Phone Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/all-samsung-galaxy-phone-screen-protectors"
+         },
+         {
+          "name": "Galaxy Z Fold8 Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/galaxy-z-fold8-screen-protectors"
+         },
+         {
+          "name": "Galaxy Z Flip8 Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/galaxy-z-flip8-screen-protectors"
+         },
+         {
+          "name": "Samsung Galaxy Phone S26 Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/samsung-galaxy-phone-s26-screen-protectors"
+         },
+         {
+          "name": "Samsung Galaxy Phone S26+ Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/samsung-galaxy-phone-s26plus--screen-protectors"
+         },
+         {
+          "name": "Samsung Galaxy Phone S26 Ultra Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/samsung-galaxy-phone-s26-ultra-screen-protectors"
+         },
+         {
+          "name": "Samsung Galaxy Phone S25 FE Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/samsung-galaxy-phone-s25-fe-screen-protectors"
+         },
+         {
+          "name": "Samsung Galaxy Phone Z Flip7 Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/samsung-galaxy-phone-z-flip7-screen-protectors"
+         },
+         {
+          "name": "Samsung Galaxy Phone A17 Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/samsung-galaxy-phone-a17-screen-protectors"
+         },
+         {
+          "name": "Samsung Galaxy Phone A26 Screen Protectors",
+          "seoPath": "technology/mobile-phones/samsung-galaxy-phones/samsung-galaxy-phone-screen-protectors/samsung-galaxy-phone-a26-screen-protectors"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Google Pixel",
+      "seoPath": "technology/mobile-phones/google-pixel",
+      "children": [
+       {
+        "name": "Google Pixel Phones",
+        "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phones"
+       },
+       {
+        "name": "Google Pixel Phone Cases",
+        "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-cases",
+        "children": [
+         {
+          "name": "All Google Pixel Phone Cases",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-cases/all-google-pixel-phone-cases"
+         },
+         {
+          "name": "Pixel 11 Cases",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-cases/pixel-11-cases"
+         },
+         {
+          "name": "Pixel 11 Pro Cases",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-cases/pixel-11-pro-cases"
+         },
+         {
+          "name": "Pixel 11 Pro XL Cases",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-cases/pixel-11-pro-xl-cases"
+         },
+         {
+          "name": "Google Pixel Phone 10a Cases",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-cases/google-pixel-phone-10a-cases"
+         },
+         {
+          "name": "Google Pixel Phone 10 Cases",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-cases/google-pixel-phone-10-cases"
+         },
+         {
+          "name": "Google Pixel Phone 10 Pro Cases",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-cases/google-pixel-phone-10-pro-cases"
+         },
+         {
+          "name": "Google Pixel Phone 10 Pro XL Cases",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-cases/google-pixel-phone-10-pro-xl-cases"
+         }
+        ]
+       },
+       {
+        "name": "Google Pixel Phone Screen Protectors",
+        "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-screen-protectors",
+        "children": [
+         {
+          "name": "All Google Pixel Phone Screen Protectors",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-screen-protectors/all-google-pixel-phone-screen-protectors"
+         },
+         {
+          "name": "Google Pixel Phone 10a Screen Protectors",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-screen-protectors/google-pixel-phone-10a-screen-protectors"
+         },
+         {
+          "name": "Google Pixel Phone 10 Screen Protectors",
+          "seoPath": "technology/mobile-phones/google-pixel/google-pixel-phone-screen-protectors/google-pixel-phone-10-screen-protectors"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Android Phones",
+      "seoPath": "technology/mobile-phones/android-phones"
+     },
+     {
+      "name": "OPPO",
+      "seoPath": "technology/mobile-phones/oppo"
+     },
+     {
+      "name": "Motorola",
+      "seoPath": "technology/mobile-phones/motorola"
+     },
+     {
+      "name": "HMD",
+      "seoPath": "technology/mobile-phones/hmd"
+     },
+     {
+      "name": "TCL",
+      "seoPath": "technology/mobile-phones/tcl"
+     },
+     {
+      "name": "Opel",
+      "seoPath": "technology/mobile-phones/opel"
+     },
+     {
+      "name": "Prepaid Mobile Phones",
+      "seoPath": "technology/mobile-phones/prepaid-mobile-phones"
+     },
+     {
+      "name": "Prepaid SIM Card",
+      "seoPath": "technology/mobile-phones/prepaid-sim-card"
+     },
+     {
+      "name": "Mobile Phone Accessories",
+      "seoPath": "technology/mobile-phones/mobile-phone-accessories"
+     },
+     {
+      "name": "Apple AirTag",
+      "seoPath": "technology/mobile-phones/apple-airtag"
+     }
+    ]
+   },
+   {
+    "name": "iPads & Tablets",
+    "seoPath": "technology/tablets",
+    "children": [
+     {
+      "name": "Apple iPads",
+      "seoPath": "technology/tablets/apple-ipads",
+      "children": [
+       {
+        "name": "All iPads",
+        "seoPath": "technology/tablets/apple-ipads/all-ipads"
+       },
+       {
+        "name": "iPad Pro",
+        "seoPath": "technology/tablets/apple-ipads/ipad-pro"
+       },
+       {
+        "name": "iPad Air",
+        "seoPath": "technology/tablets/apple-ipads/ipad-air"
+       },
+       {
+        "name": "iPad Mini",
+        "seoPath": "technology/tablets/apple-ipads/ipad-mini"
+       },
+       {
+        "name": "iPad Keyboards",
+        "seoPath": "technology/tablets/apple-ipads/ipad-keyboards"
+       },
+       {
+        "name": "iPad Cases & Screen Protectors",
+        "seoPath": "technology/tablets/apple-ipads/ipad-cases-screen-protectors"
+       },
+       {
+        "name": "iPad Chargers",
+        "seoPath": "technology/tablets/apple-ipads/ipad-chargers"
+       },
+       {
+        "name": "Apple Pencil",
+        "seoPath": "technology/tablets/apple-ipads/apple-pencil"
+       },
+       {
+        "name": "iPad Stands",
+        "seoPath": "technology/tablets/apple-ipads/ipad-stands"
+       }
+      ]
+     },
+     {
+      "name": "Samsung Tablets",
+      "seoPath": "technology/tablets/samsung-tablets"
+     },
+     {
+      "name": "Android Tablets",
+      "seoPath": "technology/tablets/android-tablets"
+     },
+     {
+      "name": "Stylus",
+      "seoPath": "technology/tablets/stylus"
+     },
+     {
+      "name": "eReaders",
+      "seoPath": "technology/tablets/ereaders",
+      "children": [
+       {
+        "name": "All eReaders",
+        "seoPath": "technology/tablets/ereaders/all-ereaders"
+       },
+       {
+        "name": "Kindle eBook Readers",
+        "seoPath": "technology/tablets/ereaders/kindle-ebook-readers"
+       },
+       {
+        "name": "Kindle Accessories",
+        "seoPath": "technology/tablets/ereaders/kindle-accessories"
+       },
+       {
+        "name": "Kobo eReaders",
+        "seoPath": "technology/tablets/ereaders/kobo-ereaders"
+       },
+       {
+        "name": "Kobo Accessories",
+        "seoPath": "technology/tablets/ereaders/kobo-accessories"
+       }
+      ]
+     },
+     {
+      "name": "Tablet Cases & Accessories",
+      "seoPath": "technology/tablets/tablet-cases-accessories"
+     },
+     {
+      "name": "Wacom Tablets",
+      "seoPath": "technology/tablets/wacom-tablets"
+     },
+     {
+      "name": "Digital Notebook",
+      "seoPath": "technology/tablets/digital-notebook"
+     }
+    ]
+   },
+   {
+    "name": "Monitors",
+    "seoPath": "technology/monitors",
+    "children": [
+     {
+      "name": "All Monitors",
+      "seoPath": "technology/monitors/all-monitors"
+     },
+     {
+      "name": "Shop By Brand",
+      "seoPath": "technology/monitors/shop-by-brand",
+      "children": [
+       {
+        "name": "Acer Monitors",
+        "seoPath": "technology/monitors/shop-by-brand/acer-monitors"
+       },
+       {
+        "name": "Asus Monitors",
+        "seoPath": "technology/monitors/shop-by-brand/asus-monitors"
+       },
+       {
+        "name": "Lenovo Monitors",
+        "seoPath": "technology/monitors/shop-by-brand/lenovo-monitors"
+       },
+       {
+        "name": "LG Monitors",
+        "seoPath": "technology/monitors/shop-by-brand/lg-monitors"
+       },
+       {
+        "name": "MSI Monitors",
+        "seoPath": "technology/monitors/shop-by-brand/msi-monitors"
+       },
+       {
+        "name": "Philips Monitors",
+        "seoPath": "technology/monitors/shop-by-brand/philips-monitors"
+       },
+       {
+        "name": "Samsung Monitors",
+        "seoPath": "technology/monitors/shop-by-brand/samsung-monitors"
+       }
+      ]
+     },
+     {
+      "name": "Flat Panel Monitors",
+      "seoPath": "technology/monitors/flat-panel-monitors"
+     },
+     {
+      "name": "Curved Monitors",
+      "seoPath": "technology/monitors/curved-monitors"
+     },
+     {
+      "name": "Monitor Arms",
+      "seoPath": "technology/monitors/monitor-arms"
+     },
+     {
+      "name": "UHD Monitors",
+      "seoPath": "technology/monitors/uhd-monitors"
+     },
+     {
+      "name": "QHD Monitors",
+      "seoPath": "technology/monitors/qhd-monitors"
+     },
+     {
+      "name": "Monitor Stands",
+      "seoPath": "technology/monitors/monitor-stands"
+     },
+     {
+      "name": "OLED Monitors",
+      "seoPath": "technology/monitors/oled-monitors"
+     },
+     {
+      "name": "Portable Monitors",
+      "seoPath": "technology/monitors/portable-monitors"
+     },
+     {
+      "name": "Smart Monitors",
+      "seoPath": "technology/monitors/smart-monitors"
+     },
+     {
+      "name": "240Hz+ Monitors",
+      "seoPath": "technology/monitors/240hzplus--monitors"
+     },
+     {
+      "name": "4K Monitors",
+      "seoPath": "technology/monitors/4k-monitors"
+     },
+     {
+      "name": "27 inch Monitors",
+      "seoPath": "technology/monitors/27-inch-monitors"
+     },
+     {
+      "name": "32 inch Monitors",
+      "seoPath": "technology/monitors/32-inch-monitors"
+     }
+    ]
+   },
+   {
+    "name": "Printers",
+    "seoPath": "technology/printers",
+    "children": [
+     {
+      "name": "All Printers",
+      "seoPath": "technology/printers/all-printers"
+     },
+     {
+      "name": "Laser Printers",
+      "seoPath": "technology/printers/laser-printers"
+     },
+     {
+      "name": "3D Printers",
+      "seoPath": "technology/printers/3d-printers"
+     },
+     {
+      "name": "3D Printing Filament & Accessories",
+      "seoPath": "technology/printers/3d-printing-filament-accessories",
+      "children": [
+       {
+        "name": "PETG Filament",
+        "seoPath": "technology/printers/3d-printing-filament-accessories/petg-filament"
+       },
+       {
+        "name": "PLA Filament",
+        "seoPath": "technology/printers/3d-printing-filament-accessories/pla-filament"
+       },
+       {
+        "name": "Matte PLA Filament",
+        "seoPath": "technology/printers/3d-printing-filament-accessories/matte-pla-filament"
+       },
+       {
+        "name": "Silk PLA Filament",
+        "seoPath": "technology/printers/3d-printing-filament-accessories/silk-pla-filament"
+       },
+       {
+        "name": "Translucent PLA Filament",
+        "seoPath": "technology/printers/3d-printing-filament-accessories/translucent-pla-filament"
+       },
+       {
+        "name": "Wood & Marble Filament",
+        "seoPath": "technology/printers/3d-printing-filament-accessories/wood-marble-filament"
+       },
+       {
+        "name": "Gradient PLA Filament",
+        "seoPath": "technology/printers/3d-printing-filament-accessories/gradient-pla-filament"
+       },
+       {
+        "name": "3D Printing Accessories",
+        "seoPath": "technology/printers/3d-printing-filament-accessories/3d-printing-accessories"
+       }
+      ]
+     },
+     {
+      "name": "Everyday Home Printers",
+      "seoPath": "technology/printers/everyday-home-printers"
+     },
+     {
+      "name": "Continuous Ink Tank Printers",
+      "seoPath": "technology/printers/continuous-ink-tank-printers"
+     },
+     {
+      "name": "Inkjet Printers",
+      "seoPath": "technology/printers/inkjet-printers"
+     },
+     {
+      "name": "Brother Printers",
+      "seoPath": "technology/printers/brother-printers"
+     },
+     {
+      "name": "Epson Printers",
+      "seoPath": "technology/printers/epson-printers"
+     },
+     {
+      "name": "Canon Printers",
+      "seoPath": "technology/printers/canon-printers"
+     },
+     {
+      "name": "HP Printers",
+      "seoPath": "technology/printers/hp-printers"
+     },
+     {
+      "name": "Xerox Printers",
+      "seoPath": "technology/printers/xerox-printers"
+     },
+     {
+      "name": "Business Printers",
+      "seoPath": "technology/printers/business-printers"
+     },
+     {
+      "name": "Creative & Design Printers",
+      "seoPath": "technology/printers/creative-design-printers"
+     },
+     {
+      "name": "Wide Format Printers",
+      "seoPath": "technology/printers/wide-format-printers"
+     },
+     {
+      "name": "Sublimation Printers & Supplies",
+      "seoPath": "technology/printers/sublimation-printers-supplies"
+     },
+     {
+      "name": "Printer Accessories",
+      "seoPath": "technology/printers/printer-accessories"
+     },
+     {
+      "name": "Label Printers",
+      "seoPath": "technology/printers/label-printers"
+     },
+     {
+      "name": "Brother Label Makers & Tapes",
+      "seoPath": "technology/printers/brother-label-makers-tapes"
+     },
+     {
+      "name": "Dymo Label Makers & Tapes",
+      "seoPath": "technology/printers/dymo-label-makers-tapes"
+     }
+    ]
+   },
+   {
+    "name": "Headphones & Earphones",
+    "seoPath": "technology/headphones-earphones",
+    "children": [
+     {
+      "name": "Earphones",
+      "seoPath": "technology/headphones-earphones/earphones"
+     },
+     {
+      "name": "Apple AirPods",
+      "seoPath": "technology/headphones-earphones/apple-airpods"
+     },
+     {
+      "name": "Headphones",
+      "seoPath": "technology/headphones-earphones/headphones"
+     },
+     {
+      "name": "PC Headsets",
+      "seoPath": "technology/headphones-earphones/pc-headsets"
+     },
+     {
+      "name": "Noise Cancelling Headphones",
+      "seoPath": "technology/headphones-earphones/noise-cancelling-headphones"
+     },
+     {
+      "name": "Kids Headphones",
+      "seoPath": "technology/headphones-earphones/kids-headphones"
+     },
+     {
+      "name": "True Wireless Earbuds",
+      "seoPath": "technology/headphones-earphones/true-wireless-earbuds"
+     },
+     {
+      "name": "Wireless & Bluetooth Headphones",
+      "seoPath": "technology/headphones-earphones/wireless-bluetooth-headphones"
+     },
+     {
+      "name": "Earphone & Earbud Cases",
+      "seoPath": "technology/headphones-earphones/earphone-earbud-cases"
+     }
+    ]
+   },
+   {
+    "name": "Gaming",
+    "seoPath": "technology/gaming",
+    "children": [
+     {
+      "name": "Gaming Laptops",
+      "seoPath": "technology/gaming/gaming-laptops",
+      "children": [
+       {
+        "name": "All Gaming Laptops",
+        "seoPath": "technology/gaming/gaming-laptops/all-gaming-laptops"
+       },
+       {
+        "name": "Acer Gaming Laptops",
+        "seoPath": "technology/gaming/gaming-laptops/acer-gaming-laptops"
+       },
+       {
+        "name": "Aftershock Gaming Laptops",
+        "seoPath": "technology/gaming/gaming-laptops/aftershock-gaming-laptops"
+       },
+       {
+        "name": "ASUS Gaming Laptops",
+        "seoPath": "technology/gaming/gaming-laptops/asus-gaming-laptops"
+       },
+       {
+        "name": "Gigabyte Gaming Laptops",
+        "seoPath": "technology/gaming/gaming-laptops/gigabyte-gaming-laptops"
+       },
+       {
+        "name": "Lenovo Gaming Laptops",
+        "seoPath": "technology/gaming/gaming-laptops/lenovo-gaming-laptops"
+       },
+       {
+        "name": "MSI Gaming Laptops",
+        "seoPath": "technology/gaming/gaming-laptops/msi-gaming-laptops"
+       }
+      ]
+     },
+     {
+      "name": "Gaming Consoles",
+      "seoPath": "technology/gaming/gaming-consoles"
+     },
+     {
+      "name": "Gaming Products by Brand",
+      "seoPath": "technology/gaming/gaming-products-by-brand",
+      "children": [
+       {
+        "name": "Acer Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/acer-gaming"
+       },
+       {
+        "name": "Xbox Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/xbox-gaming"
+       },
+       {
+        "name": "ASUS Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/asus-gaming"
+       },
+       {
+        "name": "Corsair Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/corsair-gaming"
+       },
+       {
+        "name": "HyperX Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/hyperx-gaming"
+       },
+       {
+        "name": "Lenovo Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/lenovo-gaming"
+       },
+       {
+        "name": "LG Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/lg-gaming"
+       },
+       {
+        "name": "Logitech Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/logitech-gaming"
+       },
+       {
+        "name": "MSI Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/msi-gaming"
+       },
+       {
+        "name": "Philips Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/philips-gaming"
+       },
+       {
+        "name": "PowerA Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/powera-gaming"
+       },
+       {
+        "name": "Samsung Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/samsung-gaming"
+       },
+       {
+        "name": "SteelSeries Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/steelseries-gaming"
+       },
+       {
+        "name": "Typhoon Gaming",
+        "seoPath": "technology/gaming/gaming-products-by-brand/typhoon-gaming"
+       }
+      ]
+     },
+     {
+      "name": "Gaming Controllers",
+      "seoPath": "technology/gaming/gaming-controllers",
+      "children": [
+       {
+        "name": "All Gaming Controllers",
+        "seoPath": "technology/gaming/gaming-controllers/all-gaming-controllers"
+       },
+       {
+        "name": "PlayStation Controllers",
+        "seoPath": "technology/gaming/gaming-controllers/playstation-controllers"
+       },
+       {
+        "name": "Xbox Controllers",
+        "seoPath": "technology/gaming/gaming-controllers/xbox-controllers"
+       },
+       {
+        "name": "PC Controllers",
+        "seoPath": "technology/gaming/gaming-controllers/pc-controllers"
+       },
+       {
+        "name": "Mobile Controllers",
+        "seoPath": "technology/gaming/gaming-controllers/mobile-controllers"
+       },
+       {
+        "name": "Controller Accessories",
+        "seoPath": "technology/gaming/gaming-controllers/controller-accessories"
+       }
+      ]
+     },
+     {
+      "name": "Gaming Monitors",
+      "seoPath": "technology/gaming/gaming-monitors"
+     },
+     {
+      "name": "Gaming PCs",
+      "seoPath": "technology/gaming/gaming-pcs"
+     },
+     {
+      "name": "Gaming Mouse",
+      "seoPath": "technology/gaming/gaming-mouse"
+     },
+     {
+      "name": "Gaming Keyboards",
+      "seoPath": "technology/gaming/gaming-keyboards"
+     },
+     {
+      "name": "Gaming Headsets",
+      "seoPath": "technology/gaming/gaming-headsets"
+     },
+     {
+      "name": "Gaming Lights",
+      "seoPath": "technology/gaming/gaming-lights"
+     },
+     {
+      "name": "Nintendo Switch",
+      "seoPath": "technology/gaming/nintendo-switch",
+      "children": [
+       {
+        "name": "Nintendo Switch Consoles",
+        "seoPath": "technology/gaming/nintendo-switch/nintendo-switch-consoles"
+       },
+       {
+        "name": "Nintendo Switch Accessories",
+        "seoPath": "technology/gaming/nintendo-switch/nintendo-switch-accessories"
+       },
+       {
+        "name": "Nintendo Switch Controllers",
+        "seoPath": "technology/gaming/nintendo-switch/nintendo-switch-controllers"
+       },
+       {
+        "name": "Nintendo Switch Games",
+        "seoPath": "technology/gaming/nintendo-switch/nintendo-switch-games"
+       }
+      ]
+     },
+     {
+      "name": "Gaming Routers",
+      "seoPath": "technology/gaming/gaming-routers"
+     },
+     {
+      "name": "VR Headset",
+      "seoPath": "technology/gaming/vr-headset"
+     },
+     {
+      "name": "PlayStation",
+      "seoPath": "technology/gaming/playstation",
+      "children": [
+       {
+        "name": "PlayStation Games",
+        "seoPath": "technology/gaming/playstation/playstation-games"
+       }
+      ]
+     },
+     {
+      "name": "Xbox",
+      "seoPath": "technology/gaming/xbox",
+      "children": [
+       {
+        "name": "Xbox Consoles",
+        "seoPath": "technology/gaming/xbox/xbox-consoles"
+       },
+       {
+        "name": "Xbox Games",
+        "seoPath": "technology/gaming/xbox/xbox-games"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Hard Drives & Data Storage",
+    "seoPath": "technology/hard-drives-data-storage",
+    "children": [
+     {
+      "name": "All Data Storage",
+      "seoPath": "technology/hard-drives-data-storage/all-data-storage"
+     },
+     {
+      "name": "Solid State Drives (SSD)",
+      "seoPath": "technology/hard-drives-data-storage/solid-state-drives--ssd-"
+     },
+     {
+      "name": "USB Flash Drives",
+      "seoPath": "technology/hard-drives-data-storage/usb-flash-drives",
+      "children": [
+       {
+        "name": "All USB Drives",
+        "seoPath": "technology/hard-drives-data-storage/usb-flash-drives/all-usb-drives"
+       },
+       {
+        "name": "32GB USB",
+        "seoPath": "technology/hard-drives-data-storage/usb-flash-drives/32gb-usb"
+       },
+       {
+        "name": "64GB USB",
+        "seoPath": "technology/hard-drives-data-storage/usb-flash-drives/64gb-usb"
+       },
+       {
+        "name": "128GB & Higher",
+        "seoPath": "technology/hard-drives-data-storage/usb-flash-drives/128gb-higher"
+       }
+      ]
+     },
+     {
+      "name": "SD Cards",
+      "seoPath": "technology/hard-drives-data-storage/sd-cards"
+     },
+     {
+      "name": "External Hard Drives",
+      "seoPath": "technology/hard-drives-data-storage/external-hard-drives"
+     },
+     {
+      "name": "Card Readers",
+      "seoPath": "technology/hard-drives-data-storage/card-readers"
+     },
+     {
+      "name": "Desktop Hard Drives",
+      "seoPath": "technology/hard-drives-data-storage/desktop-hard-drives"
+     },
+     {
+      "name": "Crypto Hardware Wallets",
+      "seoPath": "technology/hard-drives-data-storage/crypto-hardware-wallets"
+     },
+     {
+      "name": "Gaming External Hard Drives",
+      "seoPath": "technology/hard-drives-data-storage/gaming-external-hard-drives"
+     },
+     {
+      "name": "Internal Hard Drives",
+      "seoPath": "technology/hard-drives-data-storage/internal-hard-drives"
+     },
+     {
+      "name": "CD/DVD Media & Drives",
+      "seoPath": "technology/hard-drives-data-storage/cd-dvd-media-drives"
+     }
+    ]
+   },
+   {
+    "name": "Computer Accessories",
+    "seoPath": "technology/computer-accessories",
+    "children": [
+     {
+      "name": "All Computer Accessories",
+      "seoPath": "technology/computer-accessories/all-computer-accessories"
+     },
+     {
+      "name": "Keyboards",
+      "seoPath": "technology/computer-accessories/keyboards"
+     },
+     {
+      "name": "Mice",
+      "seoPath": "technology/computer-accessories/mice"
+     },
+     {
+      "name": "Keyboard & Mouse",
+      "seoPath": "technology/computer-accessories/keyboard-mouse"
+     },
+     {
+      "name": "Mouse Pads",
+      "seoPath": "technology/computer-accessories/mouse-pads"
+     },
+     {
+      "name": "Webcams",
+      "seoPath": "technology/computer-accessories/webcams"
+     },
+     {
+      "name": "Computer Hubs",
+      "seoPath": "technology/computer-accessories/computer-hubs"
+     },
+     {
+      "name": "Docking Stations",
+      "seoPath": "technology/computer-accessories/docking-stations"
+     },
+     {
+      "name": "Wireless Presenters",
+      "seoPath": "technology/computer-accessories/wireless-presenters"
+     },
+     {
+      "name": "Privacy Screen Protectors",
+      "seoPath": "technology/computer-accessories/privacy-screen-protectors"
+     },
+     {
+      "name": "Computer Cleaning",
+      "seoPath": "technology/computer-accessories/computer-cleaning"
+     },
+     {
+      "name": "Conferencing Systems",
+      "seoPath": "technology/computer-accessories/conferencing-systems"
+     }
+    ]
+   },
+   {
+    "name": "Desktops",
+    "seoPath": "technology/desktops",
+    "children": [
+     {
+      "name": "All Desktops",
+      "seoPath": "technology/desktops/all-desktops"
+     },
+     {
+      "name": "All-in-One PC",
+      "seoPath": "technology/desktops/all-in-one-pc"
+     },
+     {
+      "name": "Apple iMac",
+      "seoPath": "technology/desktops/apple-imac"
+     },
+     {
+      "name": "Desktop Towers",
+      "seoPath": "technology/desktops/desktop-towers"
+     },
+     {
+      "name": "Mini PCs",
+      "seoPath": "technology/desktops/mini-pcs"
+     }
+    ]
+   },
+   {
+    "name": "Smart Watches",
+    "seoPath": "technology/smart-watches",
+    "children": [
+     {
+      "name": "All Smart Watches",
+      "seoPath": "technology/smart-watches/all-smart-watches"
+     },
+     {
+      "name": "Apple Watch",
+      "seoPath": "technology/smart-watches/apple-watch",
+      "children": [
+       {
+        "name": "All Apple Watches",
+        "seoPath": "technology/smart-watches/apple-watch/all-apple-watches"
+       },
+       {
+        "name": "Apple Watch Series 12",
+        "seoPath": "technology/smart-watches/apple-watch/apple-watch-series-12"
+       },
+       {
+        "name": "Apple Watch Ultra 4",
+        "seoPath": "technology/smart-watches/apple-watch/apple-watch-ultra-4"
+       },
+       {
+        "name": "Apple Watch Series 11",
+        "seoPath": "technology/smart-watches/apple-watch/apple-watch-series-11"
+       },
+       {
+        "name": "Apple Watch SE 3",
+        "seoPath": "technology/smart-watches/apple-watch/apple-watch-se-3"
+       },
+       {
+        "name": "Apple Watch Ultra 3",
+        "seoPath": "technology/smart-watches/apple-watch/apple-watch-ultra-3"
+       },
+       {
+        "name": "Apple Watch Series 10",
+        "seoPath": "technology/smart-watches/apple-watch/apple-watch-series-10"
+       },
+       {
+        "name": "Apple Watch Bands",
+        "seoPath": "technology/smart-watches/apple-watch/apple-watch-bands"
+       },
+       {
+        "name": "Apple Watch Screen Protectors",
+        "seoPath": "technology/smart-watches/apple-watch/apple-watch-screen-protectors"
+       }
+      ]
+     },
+     {
+      "name": "Samsung Watch",
+      "seoPath": "technology/smart-watches/samsung-watch",
+      "children": [
+       {
+        "name": "All Samsung Watches",
+        "seoPath": "technology/smart-watches/samsung-watch/all-samsung-watches"
+       },
+       {
+        "name": "Samsung Galaxy Watch Ultra2",
+        "seoPath": "technology/smart-watches/samsung-watch/samsung-galaxy-watch-ultra2"
+       },
+       {
+        "name": "Samsung Galaxy Watch Ultra",
+        "seoPath": "technology/smart-watches/samsung-watch/samsung-galaxy-watch-ultra"
+       },
+       {
+        "name": "Samsung Galaxy Watch9",
+        "seoPath": "technology/smart-watches/samsung-watch/samsung-galaxy-watch9"
+       },
+       {
+        "name": "Samsung Galaxy Watch8",
+        "seoPath": "technology/smart-watches/samsung-watch/samsung-galaxy-watch8"
+       },
+       {
+        "name": "Samsung Galaxy Watch7",
+        "seoPath": "technology/smart-watches/samsung-watch/samsung-galaxy-watch7"
+       }
+      ]
+     },
+     {
+      "name": "Garmin Watch",
+      "seoPath": "technology/smart-watches/garmin-watch",
+      "children": [
+       {
+        "name": "All Garmin Smart Watches",
+        "seoPath": "technology/smart-watches/garmin-watch/all-garmin-smart-watches"
+       },
+       {
+        "name": "Garmin Venu",
+        "seoPath": "technology/smart-watches/garmin-watch/garmin-venu"
+       },
+       {
+        "name": "Garmin Vivoactive",
+        "seoPath": "technology/smart-watches/garmin-watch/garmin-vivoactive"
+       },
+       {
+        "name": "Garmin Lily",
+        "seoPath": "technology/smart-watches/garmin-watch/garmin-lily"
+       },
+       {
+        "name": "Garmin Vivomove",
+        "seoPath": "technology/smart-watches/garmin-watch/garmin-vivomove"
+       },
+       {
+        "name": "Garmin Bounce",
+        "seoPath": "technology/smart-watches/garmin-watch/garmin-bounce"
+       }
+      ]
+     },
+     {
+      "name": "Fitbit Smart Watch",
+      "seoPath": "technology/smart-watches/fitbit-smart-watch",
+      "children": [
+       {
+        "name": "All Fitbit Smart Watches",
+        "seoPath": "technology/smart-watches/fitbit-smart-watch/all-fitbit-smart-watches"
+       },
+       {
+        "name": "Fitbit Versa",
+        "seoPath": "technology/smart-watches/fitbit-smart-watch/fitbit-versa"
+       },
+       {
+        "name": "Fitbit Sense",
+        "seoPath": "technology/smart-watches/fitbit-smart-watch/fitbit-sense"
+       },
+       {
+        "name": "Fitbit Bands & Accessories",
+        "seoPath": "technology/smart-watches/fitbit-smart-watch/fitbit-bands-accessories"
+       }
+      ]
+     },
+     {
+      "name": "Google Pixel Watch",
+      "seoPath": "technology/smart-watches/google-pixel-watch"
+     },
+     {
+      "name": "Ryze Smart Watch",
+      "seoPath": "technology/smart-watches/ryze-smart-watch"
+     },
+     {
+      "name": "Spacetalk Watch",
+      "seoPath": "technology/smart-watches/spacetalk-watch"
+     },
+     {
+      "name": "Kids Smart Watch",
+      "seoPath": "technology/smart-watches/kids-smart-watch"
+     },
+     {
+      "name": "Amazfit Smart Watch",
+      "seoPath": "technology/smart-watches/amazfit-smart-watch"
+     }
+    ]
+   },
+   {
+    "name": "Powerbanks",
+    "seoPath": "technology/powerbanks",
+    "children": [
+     {
+      "name": "Portable Chargers",
+      "seoPath": "technology/powerbanks/portable-chargers"
+     },
+     {
+      "name": "Laptop Power Banks",
+      "seoPath": "technology/powerbanks/laptop-power-banks"
+     }
+    ]
+   },
+   {
+    "name": "Cables",
+    "seoPath": "technology/cables",
+    "children": [
+     {
+      "name": "Cable Adapters",
+      "seoPath": "technology/cables/cable-adapters",
+      "children": [
+       {
+        "name": "All Cable Adapters",
+        "seoPath": "technology/cables/cable-adapters/all-cable-adapters"
+       },
+       {
+        "name": "HDMI Adapters",
+        "seoPath": "technology/cables/cable-adapters/hdmi-adapters"
+       },
+       {
+        "name": "DisplayPort Adapters",
+        "seoPath": "technology/cables/cable-adapters/displayport-adapters"
+       },
+       {
+        "name": "USB Adapters",
+        "seoPath": "technology/cables/cable-adapters/usb-adapters"
+       },
+       {
+        "name": "Audio Adapters",
+        "seoPath": "technology/cables/cable-adapters/audio-adapters"
+       }
+      ]
+     },
+     {
+      "name": "Phone Cables",
+      "seoPath": "technology/cables/phone-cables",
+      "children": [
+       {
+        "name": "iPhone Cables",
+        "seoPath": "technology/cables/phone-cables/iphone-cables"
+       },
+       {
+        "name": "USB Type C Cables",
+        "seoPath": "technology/cables/phone-cables/usb-type-c-cables"
+       },
+       {
+        "name": "Micro USB Cables",
+        "seoPath": "technology/cables/phone-cables/micro-usb-cables"
+       },
+       {
+        "name": "Thunderbolt Cables",
+        "seoPath": "technology/cables/phone-cables/thunderbolt-cables"
+       }
+      ]
+     },
+     {
+      "name": "Audio & Visual Cables",
+      "seoPath": "technology/cables/audio-visual-cables",
+      "children": [
+       {
+        "name": "All Audio & Visual Cables",
+        "seoPath": "technology/cables/audio-visual-cables/all-audio-visual-cables"
+       },
+       {
+        "name": "HDMI Cables",
+        "seoPath": "technology/cables/audio-visual-cables/hdmi-cables"
+       },
+       {
+        "name": "DisplayPort Cables",
+        "seoPath": "technology/cables/audio-visual-cables/displayport-cables"
+       },
+       {
+        "name": "DVI & VGA Cables",
+        "seoPath": "technology/cables/audio-visual-cables/dvi-vga-cables"
+       },
+       {
+        "name": "Audio Cables",
+        "seoPath": "technology/cables/audio-visual-cables/audio-cables"
+       },
+       {
+        "name": "AV Cables",
+        "seoPath": "technology/cables/audio-visual-cables/av-cables"
+       }
+      ]
+     },
+     {
+      "name": "Hubs & Docks",
+      "seoPath": "technology/cables/hubs-docks",
+      "children": [
+       {
+        "name": "All Hubs & Docks",
+        "seoPath": "technology/cables/hubs-docks/all-hubs-docks"
+       }
+      ]
+     },
+     {
+      "name": "Power Supplies",
+      "seoPath": "technology/cables/power-supplies",
+      "children": [
+       {
+        "name": "Powerboards and Surge Protectors",
+        "seoPath": "technology/cables/power-supplies/powerboards-and-surge-protectors"
+       },
+       {
+        "name": "Extension Cords & Leads",
+        "seoPath": "technology/cables/power-supplies/extension-cords-leads"
+       },
+       {
+        "name": "Adaptors",
+        "seoPath": "technology/cables/power-supplies/adaptors"
+       },
+       {
+        "name": "Torches & Flashlights",
+        "seoPath": "technology/cables/power-supplies/torches-flashlights"
+       },
+       {
+        "name": "Uninterruptible Power Supply",
+        "seoPath": "technology/cables/power-supplies/uninterruptible-power-supply"
+       }
+      ]
+     },
+     {
+      "name": "Networking & Computer Cables",
+      "seoPath": "technology/cables/networking-computer-cables",
+      "children": [
+       {
+        "name": "All Networking & Computer Cables",
+        "seoPath": "technology/cables/networking-computer-cables/all-networking-computer-cables"
+       },
+       {
+        "name": "Cat6 Cables",
+        "seoPath": "technology/cables/networking-computer-cables/cat6-cables"
+       },
+       {
+        "name": "Power Cables",
+        "seoPath": "technology/cables/networking-computer-cables/power-cables"
+       }
+      ]
+     },
+     {
+      "name": "Cable Management",
+      "seoPath": "technology/cables/cable-management"
+     }
+    ]
+   },
+   {
+    "name": "TVs",
+    "seoPath": "technology/tvs",
+    "children": [
+     {
+      "name": "Smart TVs",
+      "seoPath": "technology/tvs/smart-tvs"
+     },
+     {
+      "name": "TV Wall Mounts",
+      "seoPath": "technology/tvs/tv-wall-mounts"
+     },
+     {
+      "name": "Universal Remotes",
+      "seoPath": "technology/tvs/universal-remotes"
+     },
+     {
+      "name": "Blu-ray & DVD Players",
+      "seoPath": "technology/tvs/blu-ray-dvd-players"
+     },
+     {
+      "name": "Samsung TVs",
+      "seoPath": "technology/tvs/samsung-tvs"
+     },
+     {
+      "name": "22 - 32 inch TVs",
+      "seoPath": "technology/tvs/22-32-inch-tvs"
+     },
+     {
+      "name": "40 - 50 inch TVs",
+      "seoPath": "technology/tvs/40-50-inch-tvs"
+     },
+     {
+      "name": "55 - 60 inch TVs",
+      "seoPath": "technology/tvs/55-60-inch-tvs"
+     },
+     {
+      "name": "65 - 70 inch TVs",
+      "seoPath": "technology/tvs/65-70-inch-tvs"
+     },
+     {
+      "name": "75 inch + TVs",
+      "seoPath": "technology/tvs/75-inch-plus--tvs"
+     },
+     {
+      "name": "Google Chromecast",
+      "seoPath": "technology/tvs/google-chromecast"
+     },
+     {
+      "name": "Amazon Fire TV Stick",
+      "seoPath": "technology/tvs/amazon-fire-tv-stick"
+     },
+     {
+      "name": "Apple TV",
+      "seoPath": "technology/tvs/apple-tv"
+     },
+     {
+      "name": "4K TVs",
+      "seoPath": "technology/tvs/4k-tvs"
+     }
+    ]
+   },
+   {
+    "name": "Appliances",
+    "seoPath": "technology/appliances",
+    "children": [
+     {
+      "name": "All Appliances",
+      "seoPath": "technology/appliances/all-appliances"
+     },
+     {
+      "name": "Dyson Vacuum Cleaners",
+      "seoPath": "technology/appliances/dyson-vacuum-cleaners"
+     },
+     {
+      "name": "Vacuum Cleaners",
+      "seoPath": "technology/appliances/vacuum-cleaners"
+     },
+     {
+      "name": "Coffee Machines & Coffee Grinders",
+      "seoPath": "technology/appliances/coffee-machines-coffee-grinders"
+     },
+     {
+      "name": "Kettles & Hot Water Urns",
+      "seoPath": "technology/appliances/kettles-hot-water-urns"
+     },
+     {
+      "name": "Robot Vacuum Cleaners",
+      "seoPath": "technology/appliances/robot-vacuum-cleaners"
+     },
+     {
+      "name": "Air Purifiers",
+      "seoPath": "technology/appliances/air-purifiers"
+     },
+     {
+      "name": "Toasters & Sandwich Press",
+      "seoPath": "technology/appliances/toasters-sandwich-press"
+     },
+     {
+      "name": "Microwaves & Toaster Ovens",
+      "seoPath": "technology/appliances/microwaves-toaster-ovens"
+     },
+     {
+      "name": "Air Fryers",
+      "seoPath": "technology/appliances/air-fryers"
+     },
+     {
+      "name": "Heaters",
+      "seoPath": "technology/appliances/heaters"
+     },
+     {
+      "name": "Dehumidifiers",
+      "seoPath": "technology/appliances/dehumidifiers"
+     },
+     {
+      "name": "Humidifiers",
+      "seoPath": "technology/appliances/humidifiers"
+     },
+     {
+      "name": "Garment Care",
+      "seoPath": "technology/appliances/garment-care"
+     },
+     {
+      "name": "Fans",
+      "seoPath": "technology/appliances/fans",
+      "children": [
+       {
+        "name": "All Fans",
+        "seoPath": "technology/appliances/fans/all-fans"
+       },
+       {
+        "name": "Tower Fans",
+        "seoPath": "technology/appliances/fans/tower-fans"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Internet & Wifi",
+    "seoPath": "technology/internet-wifi",
+    "children": [
+     {
+      "name": "All Wifi Modems & Routers",
+      "seoPath": "technology/internet-wifi/all-wifi-modems-routers"
+     },
+     {
+      "name": "Wifi Mesh Systems",
+      "seoPath": "technology/internet-wifi/wifi-mesh-systems"
+     },
+     {
+      "name": "NBN Modem Routers",
+      "seoPath": "technology/internet-wifi/nbn-modem-routers"
+     },
+     {
+      "name": "Network Switches",
+      "seoPath": "technology/internet-wifi/network-switches"
+     },
+     {
+      "name": "Wireless Access Points",
+      "seoPath": "technology/internet-wifi/wireless-access-points"
+     },
+     {
+      "name": "Wifi Extenders",
+      "seoPath": "technology/internet-wifi/wifi-extenders"
+     },
+     {
+      "name": "Wifi 7",
+      "seoPath": "technology/internet-wifi/wifi-7"
+     },
+     {
+      "name": "Routers",
+      "seoPath": "technology/internet-wifi/routers"
+     },
+     {
+      "name": "USB Wifi + PCIe Adapters",
+      "seoPath": "technology/internet-wifi/usb-wifi-plus--pcie-adapters"
+     },
+     {
+      "name": "Mobile Broadband & Portable Wifi",
+      "seoPath": "technology/internet-wifi/mobile-broadband-portable-wifi"
+     },
+     {
+      "name": "Powerline Adapters",
+      "seoPath": "technology/internet-wifi/powerline-adapters"
+     },
+     {
+      "name": "Wifi 6",
+      "seoPath": "technology/internet-wifi/wifi-6"
+     }
+    ]
+   },
+   {
+    "name": "Cameras",
+    "seoPath": "technology/cameras",
+    "children": [
+     {
+      "name": "All Cameras",
+      "seoPath": "technology/cameras/all-cameras"
+     },
+     {
+      "name": "Instant Cameras",
+      "seoPath": "technology/cameras/instant-cameras"
+     },
+     {
+      "name": "Instant Film",
+      "seoPath": "technology/cameras/instant-film"
+     },
+     {
+      "name": "Camera Bags and Accessories",
+      "seoPath": "technology/cameras/camera-bags-and-accessories"
+     },
+     {
+      "name": "Digital Cameras",
+      "seoPath": "technology/cameras/digital-cameras"
+     },
+     {
+      "name": "GoPro Cameras",
+      "seoPath": "technology/cameras/gopro-cameras"
+     },
+     {
+      "name": "Disposable Cameras",
+      "seoPath": "technology/cameras/disposable-cameras"
+     },
+     {
+      "name": "Tripods",
+      "seoPath": "technology/cameras/tripods"
+     },
+     {
+      "name": "Instant Photo Printers",
+      "seoPath": "technology/cameras/instant-photo-printers"
+     },
+     {
+      "name": "Dash Cameras",
+      "seoPath": "technology/cameras/dash-cameras"
+     },
+     {
+      "name": "Action Cameras",
+      "seoPath": "technology/cameras/action-cameras"
+     },
+     {
+      "name": "Ring Lights",
+      "seoPath": "technology/cameras/ring-lights"
+     },
+     {
+      "name": "Drones & Drone Accessories",
+      "seoPath": "technology/cameras/drones-drone-accessories"
+     },
+     {
+      "name": "Film Cameras",
+      "seoPath": "technology/cameras/film-cameras"
+     },
+     {
+      "name": "Kids Cameras",
+      "seoPath": "technology/cameras/kids-cameras"
+     }
+    ]
+   },
+   {
+    "name": "Shredders",
+    "seoPath": "technology/shredders"
+   },
+   {
+    "name": "Audio & Speakers",
+    "seoPath": "technology/audio-speakers",
+    "children": [
+     {
+      "name": "Wireless & Bluetooth Speakers",
+      "seoPath": "technology/audio-speakers/wireless-bluetooth-speakers"
+     },
+     {
+      "name": "Microphones",
+      "seoPath": "technology/audio-speakers/microphones"
+     },
+     {
+      "name": "Computer Speakers",
+      "seoPath": "technology/audio-speakers/computer-speakers"
+     },
+     {
+      "name": "Smart Speakers",
+      "seoPath": "technology/audio-speakers/smart-speakers"
+     },
+     {
+      "name": "Voice Recorders",
+      "seoPath": "technology/audio-speakers/voice-recorders"
+     },
+     {
+      "name": "Sound Bars",
+      "seoPath": "technology/audio-speakers/sound-bars"
+     },
+     {
+      "name": "Radios",
+      "seoPath": "technology/audio-speakers/radios"
+     },
+     {
+      "name": "UHF Radios",
+      "seoPath": "technology/audio-speakers/uhf-radios"
+     }
+    ]
+   },
+   {
+    "name": "Chargers",
+    "seoPath": "technology/chargers",
+    "children": [
+     {
+      "name": "USB Wall Chargers",
+      "seoPath": "technology/chargers/usb-wall-chargers"
+     },
+     {
+      "name": "Wireless Chargers",
+      "seoPath": "technology/chargers/wireless-chargers"
+     },
+     {
+      "name": "iPhone Chargers",
+      "seoPath": "technology/chargers/iphone-chargers"
+     },
+     {
+      "name": "Laptop Chargers",
+      "seoPath": "technology/chargers/laptop-chargers"
+     },
+     {
+      "name": "Car Phone Chargers",
+      "seoPath": "technology/chargers/car-phone-chargers"
+     },
+     {
+      "name": "USB Charging Stations & Hubs",
+      "seoPath": "technology/chargers/usb-charging-stations-hubs"
+     },
+     {
+      "name": "MagSafe Chargers",
+      "seoPath": "technology/chargers/magsafe-chargers"
+     },
+     {
+      "name": "Apple Watch Chargers",
+      "seoPath": "technology/chargers/apple-watch-chargers"
+     },
+     {
+      "name": "GaN Wall Chargers",
+      "seoPath": "technology/chargers/gan-wall-chargers"
+     },
+     {
+      "name": "Multi-Port Chargers",
+      "seoPath": "technology/chargers/multi-port-chargers"
+     },
+     {
+      "name": "USB-C Chargers",
+      "seoPath": "technology/chargers/usb-c-chargers"
+     }
+    ]
+   },
+   {
+    "name": "Software",
+    "seoPath": "technology/software",
+    "children": [
+     {
+      "name": "All Software",
+      "seoPath": "technology/software/all-software"
+     },
+     {
+      "name": "Microsoft 365",
+      "seoPath": "technology/software/microsoft-365"
+     },
+     {
+      "name": "Trend Micro Antivirus",
+      "seoPath": "technology/software/trend-micro-antivirus"
+     },
+     {
+      "name": "Microsoft Windows",
+      "seoPath": "technology/software/microsoft-windows"
+     },
+     {
+      "name": "Adobe",
+      "seoPath": "technology/software/adobe"
+     },
+     {
+      "name": "Norton Antivirus",
+      "seoPath": "technology/software/norton-antivirus"
+     }
+    ]
+   },
+   {
+    "name": "Scanners",
+    "seoPath": "technology/scanners"
+   },
+   {
+    "name": "Smart Home",
+    "seoPath": "technology/smart-home",
+    "children": [
+     {
+      "name": "All Smart Home",
+      "seoPath": "technology/smart-home/all-smart-home"
+     },
+     {
+      "name": "Google Assistant",
+      "seoPath": "technology/smart-home/google-assistant"
+     },
+     {
+      "name": "Security Cameras",
+      "seoPath": "technology/smart-home/security-cameras"
+     },
+     {
+      "name": "Apple HomeView",
+      "seoPath": "technology/smart-home/apple-homeview"
+     },
+     {
+      "name": "Apple HomePod",
+      "seoPath": "technology/smart-home/apple-homepod"
+     },
+     {
+      "name": "Amazon Alexa",
+      "seoPath": "technology/smart-home/amazon-alexa"
+     },
+     {
+      "name": "Key Finders & Bluetooth Trackers",
+      "seoPath": "technology/smart-home/key-finders-bluetooth-trackers"
+     },
+     {
+      "name": "Video Doorbells",
+      "seoPath": "technology/smart-home/video-doorbells"
+     },
+     {
+      "name": "Wifi Aircon Controller",
+      "seoPath": "technology/smart-home/wifi-aircon-controller"
+     },
+     {
+      "name": "Smart Lights",
+      "seoPath": "technology/smart-home/smart-lights"
+     },
+     {
+      "name": "Smart Door Locks",
+      "seoPath": "technology/smart-home/smart-door-locks"
+     },
+     {
+      "name": "Pet Tech",
+      "seoPath": "technology/smart-home/pet-tech"
+     },
+     {
+      "name": "Baby Monitors",
+      "seoPath": "technology/smart-home/baby-monitors"
+     }
+    ]
+   },
+   {
+    "name": "Projectors",
+    "seoPath": "technology/projectors",
+    "children": [
+     {
+      "name": "All Projectors",
+      "seoPath": "technology/projectors/all-projectors"
+     },
+     {
+      "name": "Mini Projectors",
+      "seoPath": "technology/projectors/mini-projectors"
+     },
+     {
+      "name": "Projector Screens",
+      "seoPath": "technology/projectors/projector-screens"
+     },
+     {
+      "name": "Home Projectors",
+      "seoPath": "technology/projectors/home-projectors"
+     },
+     {
+      "name": "Portable Projectors",
+      "seoPath": "technology/projectors/portable-projectors"
+     },
+     {
+      "name": "Smart Projectors",
+      "seoPath": "technology/projectors/smart-projectors"
+     }
+    ]
+   },
+   {
+    "name": "Fitness Trackers & Wearables",
+    "seoPath": "technology/fitness-trackers-wearables",
+    "children": [
+     {
+      "name": "All Wearables",
+      "seoPath": "technology/fitness-trackers-wearables/all-wearables"
+     },
+     {
+      "name": "All Fitness Trackers",
+      "seoPath": "technology/fitness-trackers-wearables/all-fitness-trackers"
+     },
+     {
+      "name": "Fitbit Fitness Tracker",
+      "seoPath": "technology/fitness-trackers-wearables/fitbit-fitness-tracker"
+     },
+     {
+      "name": "Garmin Fitness Tracker",
+      "seoPath": "technology/fitness-trackers-wearables/garmin-fitness-tracker"
+     },
+     {
+      "name": "Samsung Fitness Tracker",
+      "seoPath": "technology/fitness-trackers-wearables/samsung-fitness-tracker"
+     },
+     {
+      "name": "Kids Fitness Tracker",
+      "seoPath": "technology/fitness-trackers-wearables/kids-fitness-tracker"
+     },
+     {
+      "name": "Smart Rings",
+      "seoPath": "technology/fitness-trackers-wearables/smart-rings"
+     },
+     {
+      "name": "AI Glasses",
+      "seoPath": "technology/fitness-trackers-wearables/ai-glasses"
+     }
+    ]
+   },
+   {
+    "name": "Home & Office Phones",
+    "seoPath": "technology/home-office-phones",
+    "children": [
+     {
+      "name": "Cordless Phones",
+      "seoPath": "technology/home-office-phones/cordless-phones"
+     },
+     {
+      "name": "Corded Phones",
+      "seoPath": "technology/home-office-phones/corded-phones"
+     }
+    ]
+   },
+   {
+    "name": "Health Technology",
+    "seoPath": "technology/health-technology",
+    "children": [
+     {
+      "name": "Beauty & Wellness",
+      "seoPath": "technology/health-technology/beauty-wellness"
+     },
+     {
+      "name": "Blood Pressure Monitors",
+      "seoPath": "technology/health-technology/blood-pressure-monitors"
+     },
+     {
+      "name": "Massage Guns",
+      "seoPath": "technology/health-technology/massage-guns"
+     },
+     {
+      "name": "Smart Scales",
+      "seoPath": "technology/health-technology/smart-scales"
+     }
+    ]
+   },
+   {
+    "name": "Batteries",
+    "seoPath": "technology/batteries",
+    "children": [
+     {
+      "name": "All Batteries",
+      "seoPath": "technology/batteries/all-batteries"
+     },
+     {
+      "name": "AAA Batteries",
+      "seoPath": "technology/batteries/aaa-batteries"
+     },
+     {
+      "name": "AA Batteries",
+      "seoPath": "technology/batteries/aa-batteries"
+     },
+     {
+      "name": "Coin & Specialty Batteries",
+      "seoPath": "technology/batteries/coin-specialty-batteries"
+     },
+     {
+      "name": "Rechargeable Batteries",
+      "seoPath": "technology/batteries/rechargeable-batteries"
+     },
+     {
+      "name": "9V Batteries",
+      "seoPath": "technology/batteries/9v-batteries"
+     },
+     {
+      "name": "C Batteries",
+      "seoPath": "technology/batteries/c-batteries"
+     },
+     {
+      "name": "D Batteries",
+      "seoPath": "technology/batteries/d-batteries"
+     },
+     {
+      "name": "Energizer Batteries",
+      "seoPath": "technology/batteries/energizer-batteries"
+     }
+    ]
+   },
+   {
+    "name": "Mobile Payment & POS Solutions",
+    "seoPath": "technology/mobile-payment-pos-solutions",
+    "children": [
+     {
+      "name": "Credit Card Readers",
+      "seoPath": "technology/mobile-payment-pos-solutions/credit-card-readers"
+     },
+     {
+      "name": "Cash Registers and Drawers",
+      "seoPath": "technology/mobile-payment-pos-solutions/cash-registers-and-drawers"
+     },
+     {
+      "name": "Barcode Scanners",
+      "seoPath": "technology/mobile-payment-pos-solutions/barcode-scanners"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Office Supplies",
+  "seoPath": "office-supplies",
+  "children": [
+   {
+    "name": "Pens",
+    "seoPath": "office-supplies/pens",
+    "children": [
+     {
+      "name": "Ballpoint Pens",
+      "seoPath": "office-supplies/pens/ballpoint-pens"
+     },
+     {
+      "name": "Gel Pens",
+      "seoPath": "office-supplies/pens/gel-pens"
+     },
+     {
+      "name": "Pen Refills",
+      "seoPath": "office-supplies/pens/pen-refills"
+     },
+     {
+      "name": "Rollerball Pens",
+      "seoPath": "office-supplies/pens/rollerball-pens"
+     },
+     {
+      "name": "Erasable Pens",
+      "seoPath": "office-supplies/pens/erasable-pens"
+     },
+     {
+      "name": "Fineliner Pens",
+      "seoPath": "office-supplies/pens/fineliner-pens"
+     },
+     {
+      "name": "Luxury Pens",
+      "seoPath": "office-supplies/pens/luxury-pens"
+     },
+     {
+      "name": "Fountain Pens",
+      "seoPath": "office-supplies/pens/fountain-pens"
+     }
+    ]
+   },
+   {
+    "name": "Markers & Highlighters",
+    "seoPath": "office-supplies/markers-highlighters",
+    "children": [
+     {
+      "name": "Permanent Markers",
+      "seoPath": "office-supplies/markers-highlighters/permanent-markers"
+     },
+     {
+      "name": "Highlighters",
+      "seoPath": "office-supplies/markers-highlighters/highlighters"
+     },
+     {
+      "name": "Whiteboard Markers",
+      "seoPath": "office-supplies/markers-highlighters/whiteboard-markers"
+     },
+     {
+      "name": "Paint & Liquid Chalk Markers",
+      "seoPath": "office-supplies/markers-highlighters/paint-liquid-chalk-markers"
+     },
+     {
+      "name": "Posca Pens",
+      "seoPath": "office-supplies/markers-highlighters/posca-pens"
+     },
+     {
+      "name": "Coloured Markers",
+      "seoPath": "office-supplies/markers-highlighters/coloured-markers"
+     }
+    ]
+   },
+   {
+    "name": "Desktop Organisation & Desk Accessories",
+    "seoPath": "office-supplies/desktop-organisation-desk-accessories",
+    "children": [
+     {
+      "name": "Desk Organisers",
+      "seoPath": "office-supplies/desktop-organisation-desk-accessories/desk-organisers"
+     },
+     {
+      "name": "Magazine Holders",
+      "seoPath": "office-supplies/desktop-organisation-desk-accessories/magazine-holders"
+     },
+     {
+      "name": "Document Trays",
+      "seoPath": "office-supplies/desktop-organisation-desk-accessories/document-trays"
+     },
+     {
+      "name": "Pen Cups",
+      "seoPath": "office-supplies/desktop-organisation-desk-accessories/pen-cups"
+     },
+     {
+      "name": "Bookends",
+      "seoPath": "office-supplies/desktop-organisation-desk-accessories/bookends"
+     },
+     {
+      "name": "File Organisers",
+      "seoPath": "office-supplies/desktop-organisation-desk-accessories/file-organisers"
+     }
+    ]
+   },
+   {
+    "name": "Pencils",
+    "seoPath": "office-supplies/pencils",
+    "children": [
+     {
+      "name": "Mechanical Pencils",
+      "seoPath": "office-supplies/pencils/mechanical-pencils"
+     },
+     {
+      "name": "Graphite Pencils",
+      "seoPath": "office-supplies/pencils/graphite-pencils"
+     },
+     {
+      "name": "Pencil Sharpeners",
+      "seoPath": "office-supplies/pencils/pencil-sharpeners"
+     }
+    ]
+   },
+   {
+    "name": "Notebooks & Journals",
+    "seoPath": "office-supplies/notebooks-journals",
+    "children": [
+     {
+      "name": "Notebooks",
+      "seoPath": "office-supplies/notebooks-journals/notebooks"
+     },
+     {
+      "name": "Address Books",
+      "seoPath": "office-supplies/notebooks-journals/address-books"
+     },
+     {
+      "name": "Notepads",
+      "seoPath": "office-supplies/notebooks-journals/notepads"
+     },
+     {
+      "name": "Journals",
+      "seoPath": "office-supplies/notebooks-journals/journals"
+     },
+     {
+      "name": "Graph Pads & Grid Books",
+      "seoPath": "office-supplies/notebooks-journals/graph-pads-grid-books"
+     }
+    ]
+   },
+   {
+    "name": "Adhesive Notes",
+    "seoPath": "office-supplies/adhesive-notes",
+    "children": [
+     {
+      "name": "Sticky Notes",
+      "seoPath": "office-supplies/adhesive-notes/sticky-notes"
+     },
+     {
+      "name": "Sticky Tabs",
+      "seoPath": "office-supplies/adhesive-notes/sticky-tabs"
+     }
+    ]
+   },
+   {
+    "name": "Calculators",
+    "seoPath": "office-supplies/calculators",
+    "children": [
+     {
+      "name": "Scientific Calculators",
+      "seoPath": "office-supplies/calculators/scientific-calculators"
+     },
+     {
+      "name": "Desktop Calculators",
+      "seoPath": "office-supplies/calculators/desktop-calculators"
+     },
+     {
+      "name": "Financial Calculators",
+      "seoPath": "office-supplies/calculators/financial-calculators"
+     },
+     {
+      "name": "Graphing Calculators",
+      "seoPath": "office-supplies/calculators/graphing-calculators"
+     }
+    ]
+   },
+   {
+    "name": "Pencil Cases",
+    "seoPath": "office-supplies/pencil-cases"
+   },
+   {
+    "name": "Document Filing & Folders",
+    "seoPath": "office-supplies/document-filing-folders",
+    "children": [
+     {
+      "name": "Archive Boxes",
+      "seoPath": "office-supplies/document-filing-folders/archive-boxes"
+     },
+     {
+      "name": "Document Wallets",
+      "seoPath": "office-supplies/document-filing-folders/document-wallets"
+     },
+     {
+      "name": "Display Books & Refills",
+      "seoPath": "office-supplies/document-filing-folders/display-books-refills"
+     },
+     {
+      "name": "Clipboards & Clipfolders",
+      "seoPath": "office-supplies/document-filing-folders/clipboards-clipfolders"
+     },
+     {
+      "name": "Plastic Sleeves & Sheet Protectors",
+      "seoPath": "office-supplies/document-filing-folders/plastic-sleeves-sheet-protectors"
+     },
+     {
+      "name": "Manila Folders",
+      "seoPath": "office-supplies/document-filing-folders/manila-folders"
+     },
+     {
+      "name": "Suspension Files",
+      "seoPath": "office-supplies/document-filing-folders/suspension-files"
+     },
+     {
+      "name": "Document Boxes",
+      "seoPath": "office-supplies/document-filing-folders/document-boxes"
+     },
+     {
+      "name": "Letter Files",
+      "seoPath": "office-supplies/document-filing-folders/letter-files"
+     },
+     {
+      "name": "Expanding Files",
+      "seoPath": "office-supplies/document-filing-folders/expanding-files"
+     },
+     {
+      "name": "Lateral Files",
+      "seoPath": "office-supplies/document-filing-folders/lateral-files"
+     }
+    ]
+   },
+   {
+    "name": "Labels, Label Makers & Tapes",
+    "seoPath": "office-supplies/labels--label-makers-tapes",
+    "children": [
+     {
+      "name": "Organisation Labels",
+      "seoPath": "office-supplies/labels--label-makers-tapes/organisation-labels"
+     },
+     {
+      "name": "Address Labels",
+      "seoPath": "office-supplies/labels--label-makers-tapes/address-labels"
+     },
+     {
+      "name": "Shipping Labels",
+      "seoPath": "office-supplies/labels--label-makers-tapes/shipping-labels"
+     },
+     {
+      "name": "Round Dots",
+      "seoPath": "office-supplies/labels--label-makers-tapes/round-dots"
+     },
+     {
+      "name": "Price Labels & Guns",
+      "seoPath": "office-supplies/labels--label-makers-tapes/price-labels-guns"
+     },
+     {
+      "name": "Hazard Weight Labels",
+      "seoPath": "office-supplies/labels--label-makers-tapes/hazard-weight-labels"
+     },
+     {
+      "name": "Thermal Labels",
+      "seoPath": "office-supplies/labels--label-makers-tapes/thermal-labels"
+     },
+     {
+      "name": "Handheld Label Makers",
+      "seoPath": "office-supplies/labels--label-makers-tapes/handheld-label-makers"
+     }
+    ]
+   },
+   {
+    "name": "Binders & Binder Accessories",
+    "seoPath": "office-supplies/binders-binder-accessories",
+    "children": [
+     {
+      "name": "Ring Binders",
+      "seoPath": "office-supplies/binders-binder-accessories/ring-binders"
+     },
+     {
+      "name": "Lever Arch Files & Folders",
+      "seoPath": "office-supplies/binders-binder-accessories/lever-arch-files-folders"
+     },
+     {
+      "name": "Tab Dividers",
+      "seoPath": "office-supplies/binders-binder-accessories/tab-dividers"
+     },
+     {
+      "name": "Zipper Binders",
+      "seoPath": "office-supplies/binders-binder-accessories/zipper-binders"
+     }
+    ]
+   },
+   {
+    "name": "Tape Dispensers & Tape",
+    "seoPath": "office-supplies/tape-dispensers-tape",
+    "children": [
+     {
+      "name": "Clear Adhesive Tape",
+      "seoPath": "office-supplies/tape-dispensers-tape/clear-adhesive-tape"
+     },
+     {
+      "name": "Packaging Tape",
+      "seoPath": "office-supplies/tape-dispensers-tape/packaging-tape"
+     },
+     {
+      "name": "Tape Dispensers",
+      "seoPath": "office-supplies/tape-dispensers-tape/tape-dispensers"
+     },
+     {
+      "name": "Double Sided Tape",
+      "seoPath": "office-supplies/tape-dispensers-tape/double-sided-tape"
+     },
+     {
+      "name": "Washi Tape",
+      "seoPath": "office-supplies/tape-dispensers-tape/washi-tape"
+     },
+     {
+      "name": "Mounting Tapes",
+      "seoPath": "office-supplies/tape-dispensers-tape/mounting-tapes"
+     },
+     {
+      "name": "Masking Tape",
+      "seoPath": "office-supplies/tape-dispensers-tape/masking-tape"
+     }
+    ]
+   },
+   {
+    "name": "Diaries & Year Planners",
+    "seoPath": "office-supplies/diaries-year-planners",
+    "children": [
+     {
+      "name": "Calendar Year Diaries",
+      "seoPath": "office-supplies/diaries-year-planners/calendar-year-diaries"
+     },
+     {
+      "name": "Calendars",
+      "seoPath": "office-supplies/diaries-year-planners/calendars"
+     },
+     {
+      "name": "Planners",
+      "seoPath": "office-supplies/diaries-year-planners/planners"
+     },
+     {
+      "name": "Compendiums & Organisers",
+      "seoPath": "office-supplies/diaries-year-planners/compendiums-organisers"
+     },
+     {
+      "name": "Diary Accessories",
+      "seoPath": "office-supplies/diaries-year-planners/diary-accessories"
+     },
+     {
+      "name": "Undated Diaries",
+      "seoPath": "office-supplies/diaries-year-planners/undated-diaries"
+     }
+    ]
+   },
+   {
+    "name": "Whiteboards & Boards",
+    "seoPath": "office-supplies/whiteboards-boards",
+    "children": [
+     {
+      "name": "Whiteboards",
+      "seoPath": "office-supplies/whiteboards-boards/whiteboards"
+     },
+     {
+      "name": "Cork Boards",
+      "seoPath": "office-supplies/whiteboards-boards/cork-boards"
+     },
+     {
+      "name": "Planning Boards",
+      "seoPath": "office-supplies/whiteboards-boards/planning-boards"
+     },
+     {
+      "name": "Fabric & Notice Boards",
+      "seoPath": "office-supplies/whiteboards-boards/fabric-notice-boards"
+     },
+     {
+      "name": "Whiteboard Accessories",
+      "seoPath": "office-supplies/whiteboards-boards/whiteboard-accessories"
+     },
+     {
+      "name": "Flipcharts",
+      "seoPath": "office-supplies/whiteboards-boards/flipcharts"
+     },
+     {
+      "name": "Glass Boards",
+      "seoPath": "office-supplies/whiteboards-boards/glass-boards"
+     },
+     {
+      "name": "Chalkboards",
+      "seoPath": "office-supplies/whiteboards-boards/chalkboards"
+     }
+    ]
+   },
+   {
+    "name": "Adhesives",
+    "seoPath": "office-supplies/adhesives",
+    "children": [
+     {
+      "name": "Glue",
+      "seoPath": "office-supplies/adhesives/glue"
+     },
+     {
+      "name": "Velcro Hook & Loop",
+      "seoPath": "office-supplies/adhesives/velcro-hook-loop"
+     },
+     {
+      "name": "Blu Tack",
+      "seoPath": "office-supplies/adhesives/blu-tack"
+     }
+    ]
+   },
+   {
+    "name": "Correction Tape, Pens & Fluid",
+    "seoPath": "office-supplies/correction-tape--pens-fluid"
+   },
+   {
+    "name": "Scissors",
+    "seoPath": "office-supplies/scissors"
+   },
+   {
+    "name": "Key Tags, Key Rings & Carabiners",
+    "seoPath": "office-supplies/key-tags--key-rings-carabiners"
+   },
+   {
+    "name": "ID & Conference Supplies",
+    "seoPath": "office-supplies/id-conference-supplies",
+    "children": [
+     {
+      "name": "ID Card Holders",
+      "seoPath": "office-supplies/id-conference-supplies/id-card-holders"
+     },
+     {
+      "name": "Name Badges",
+      "seoPath": "office-supplies/id-conference-supplies/name-badges"
+     },
+     {
+      "name": "Lanyards",
+      "seoPath": "office-supplies/id-conference-supplies/lanyards"
+     },
+     {
+      "name": "Retractable Badge Reels",
+      "seoPath": "office-supplies/id-conference-supplies/retractable-badge-reels"
+     },
+     {
+      "name": "Business Card & Holders Cases",
+      "seoPath": "office-supplies/id-conference-supplies/business-card-holders-cases"
+     },
+     {
+      "name": "Wristbands",
+      "seoPath": "office-supplies/id-conference-supplies/wristbands"
+     },
+     {
+      "name": "Name Plates",
+      "seoPath": "office-supplies/id-conference-supplies/name-plates"
+     }
+    ]
+   },
+   {
+    "name": "Staplers & Staple Guns",
+    "seoPath": "office-supplies/staplers-staple-guns"
+   },
+   {
+    "name": "Guillotines",
+    "seoPath": "office-supplies/guillotines"
+   },
+   {
+    "name": "Trimmers",
+    "seoPath": "office-supplies/trimmers"
+   },
+   {
+    "name": "Laminating",
+    "seoPath": "office-supplies/laminating",
+    "children": [
+     {
+      "name": "Laminators",
+      "seoPath": "office-supplies/laminating/laminators"
+     },
+     {
+      "name": "Laminating Pouches",
+      "seoPath": "office-supplies/laminating/laminating-pouches"
+     }
+    ]
+   },
+   {
+    "name": "Pins, Clips & Fasteners",
+    "seoPath": "office-supplies/pins--clips-fasteners",
+    "children": [
+     {
+      "name": "Foldback Clips & Slide Clips",
+      "seoPath": "office-supplies/pins--clips-fasteners/foldback-clips-slide-clips"
+     },
+     {
+      "name": "Drawing Pins",
+      "seoPath": "office-supplies/pins--clips-fasteners/drawing-pins"
+     },
+     {
+      "name": "Paper Clips",
+      "seoPath": "office-supplies/pins--clips-fasteners/paper-clips"
+     },
+     {
+      "name": "Paper Fasteners",
+      "seoPath": "office-supplies/pins--clips-fasteners/paper-fasteners"
+     },
+     {
+      "name": "Bulldog Clips",
+      "seoPath": "office-supplies/pins--clips-fasteners/bulldog-clips"
+     }
+    ]
+   },
+   {
+    "name": "Magnets",
+    "seoPath": "office-supplies/magnets"
+   },
+   {
+    "name": "Hole Punches",
+    "seoPath": "office-supplies/hole-punches"
+   },
+   {
+    "name": "Stamps & Ink Pads",
+    "seoPath": "office-supplies/stamps-ink-pads"
+   },
+   {
+    "name": "Binding",
+    "seoPath": "office-supplies/binding",
+    "children": [
+     {
+      "name": "Binding Machines",
+      "seoPath": "office-supplies/binding/binding-machines"
+     },
+     {
+      "name": "Binding Combs",
+      "seoPath": "office-supplies/binding/binding-combs"
+     },
+     {
+      "name": "Binding Covers",
+      "seoPath": "office-supplies/binding/binding-covers"
+     }
+    ]
+   },
+   {
+    "name": "Rulers",
+    "seoPath": "office-supplies/rulers"
+   },
+   {
+    "name": "Rubber Bands",
+    "seoPath": "office-supplies/rubber-bands"
+   },
+   {
+    "name": "Erasers",
+    "seoPath": "office-supplies/erasers"
+   },
+   {
+    "name": "Luggage & Travel Accessories",
+    "seoPath": "office-supplies/luggage-travel-accessories",
+    "children": [
+     {
+      "name": "Travel Accessories",
+      "seoPath": "office-supplies/luggage-travel-accessories/travel-accessories"
+     },
+     {
+      "name": "Travel Wallets & Passport Holders",
+      "seoPath": "office-supplies/luggage-travel-accessories/travel-wallets-passport-holders"
+     },
+     {
+      "name": "Suitcases",
+      "seoPath": "office-supplies/luggage-travel-accessories/suitcases"
+     },
+     {
+      "name": "Luggage Tags",
+      "seoPath": "office-supplies/luggage-travel-accessories/luggage-tags"
+     },
+     {
+      "name": "Luggage Locks",
+      "seoPath": "office-supplies/luggage-travel-accessories/luggage-locks"
+     },
+     {
+      "name": "Travel Adaptors",
+      "seoPath": "office-supplies/luggage-travel-accessories/office-supplies-luggage-travel-accessories-travel-adapters"
+     },
+     {
+      "name": "Travel Pillows",
+      "seoPath": "office-supplies/luggage-travel-accessories/travel-pillows"
+     }
+    ]
+   },
+   {
+    "name": "Compasses and Protractors",
+    "seoPath": "office-supplies/compasses-and-protractors"
+   }
+  ]
+ },
+ {
+  "name": "Furniture",
+  "seoPath": "furniture",
+  "children": [
+   {
+    "name": "Chairs & Seating",
+    "seoPath": "furniture/chairs-seating",
+    "children": [
+     {
+      "name": "All Chairs",
+      "seoPath": "furniture/chairs-seating/all-chairs"
+     },
+     {
+      "name": "Desk Chairs",
+      "seoPath": "furniture/chairs-seating/desk-chairs"
+     },
+     {
+      "name": "Ergonomic Chairs",
+      "seoPath": "furniture/chairs-seating/ergonomic-chairs"
+     },
+     {
+      "name": "Gaming Chairs",
+      "seoPath": "furniture/chairs-seating/gaming-chairs"
+     },
+     {
+      "name": "Chair Mats",
+      "seoPath": "furniture/chairs-seating/chair-mats"
+     },
+     {
+      "name": "Armrests, Chair Bases & Office Chair Wheels",
+      "seoPath": "furniture/chairs-seating/armrests--chair-bases-office-chair-wheels"
+     },
+     {
+      "name": "Lumbar Support",
+      "seoPath": "furniture/chairs-seating/lumbar-support"
+     },
+     {
+      "name": "Dining Chairs",
+      "seoPath": "furniture/chairs-seating/dining-chairs"
+     },
+     {
+      "name": "Footrests",
+      "seoPath": "furniture/chairs-seating/footrests"
+     },
+     {
+      "name": "Stools",
+      "seoPath": "furniture/chairs-seating/stools"
+     },
+     {
+      "name": "Sit Stand & Drafting Chairs",
+      "seoPath": "furniture/chairs-seating/sit-stand-drafting-chairs"
+     },
+     {
+      "name": "Lounge Chairs",
+      "seoPath": "furniture/chairs-seating/lounge-chairs"
+     },
+     {
+      "name": "Stacking & Folding Chairs",
+      "seoPath": "furniture/chairs-seating/stacking-folding-chairs"
+     }
+    ]
+   },
+   {
+    "name": "Desks & Tables",
+    "seoPath": "furniture/desks-tables",
+    "children": [
+     {
+      "name": "All Desks",
+      "seoPath": "furniture/desks-tables/all-desks"
+     },
+     {
+      "name": "Office Desks",
+      "seoPath": "furniture/desks-tables/office-desks"
+     },
+     {
+      "name": "Standing Desks",
+      "seoPath": "furniture/desks-tables/standing-desks"
+     },
+     {
+      "name": "Gaming Desks",
+      "seoPath": "furniture/desks-tables/gaming-desks"
+     },
+     {
+      "name": "Folding & Trestle Tables",
+      "seoPath": "furniture/desks-tables/folding-trestle-tables"
+     },
+     {
+      "name": "Meeting Tables & Reception Desks",
+      "seoPath": "furniture/desks-tables/meeting-tables-reception-desks"
+     },
+     {
+      "name": "Desk Risers",
+      "seoPath": "furniture/desks-tables/desk-risers"
+     },
+     {
+      "name": "Desk Partitions & Dividers",
+      "seoPath": "furniture/desks-tables/desk-partitions-dividers"
+     },
+     {
+      "name": "Desks with Storage",
+      "seoPath": "furniture/desks-tables/desks-with-storage"
+     },
+     {
+      "name": "Corner & L-Shaped Desks",
+      "seoPath": "furniture/desks-tables/corner-l-shaped-desks"
+     },
+     {
+      "name": "Small Desks",
+      "seoPath": "furniture/desks-tables/small-desks"
+     }
+    ]
+   },
+   {
+    "name": "Home & Office Storage Furniture",
+    "seoPath": "furniture/home-office-storage-furniture",
+    "children": [
+     {
+      "name": "Bookcases",
+      "seoPath": "furniture/home-office-storage-furniture/bookcases"
+     },
+     {
+      "name": "Office Cabinets & Cupboards",
+      "seoPath": "furniture/home-office-storage-furniture/office-cabinets-cupboards"
+     },
+     {
+      "name": "Shelves",
+      "seoPath": "furniture/home-office-storage-furniture/shelves"
+     },
+     {
+      "name": "Plastic Storage",
+      "seoPath": "furniture/home-office-storage-furniture/plastic-storage"
+     },
+     {
+      "name": "Felt Pads",
+      "seoPath": "furniture/home-office-storage-furniture/felt-pads"
+     },
+     {
+      "name": "Storage Cubes",
+      "seoPath": "furniture/home-office-storage-furniture/storage-cubes"
+     }
+    ]
+   },
+   {
+    "name": "Kids Furniture",
+    "seoPath": "furniture/kids-furniture",
+    "children": [
+     {
+      "name": "Student Desks & Kids Tables",
+      "seoPath": "furniture/kids-furniture/student-desks-kids-tables"
+     },
+     {
+      "name": "Student & Kids Chairs",
+      "seoPath": "furniture/kids-furniture/student-kids-chairs"
+     },
+     {
+      "name": "Kids Storage",
+      "seoPath": "furniture/kids-furniture/kids-storage"
+     }
+    ]
+   },
+   {
+    "name": "Drawers",
+    "seoPath": "furniture/drawers",
+    "children": [
+     {
+      "name": "Filing Cabinets",
+      "seoPath": "furniture/drawers/filing-cabinets"
+     },
+     {
+      "name": "Office Drawers",
+      "seoPath": "furniture/drawers/office-drawers"
+     }
+    ]
+   },
+   {
+    "name": "Secure Storage",
+    "seoPath": "furniture/secure-storage",
+    "children": [
+     {
+      "name": "Safes",
+      "seoPath": "furniture/secure-storage/safes"
+     },
+     {
+      "name": "Lock Boxes",
+      "seoPath": "furniture/secure-storage/lock-boxes"
+     },
+     {
+      "name": "Key Cabinets",
+      "seoPath": "furniture/secure-storage/key-cabinets"
+     }
+    ]
+   },
+   {
+    "name": "Decor",
+    "seoPath": "furniture/decor",
+    "children": [
+     {
+      "name": "Photo Frames & Photo Albums",
+      "seoPath": "furniture/decor/photo-frames-photo-albums",
+      "children": [
+       {
+        "name": "A1 Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/a1-frames"
+       },
+       {
+        "name": "A2 Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/a2-frames"
+       },
+       {
+        "name": "A3 Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/a3-frames"
+       },
+       {
+        "name": "A4 Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/a4-frames"
+       },
+       {
+        "name": "4x6 Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/4x6-frames"
+       },
+       {
+        "name": "5x7 Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/5x7-frames"
+       },
+       {
+        "name": "8x10 Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/8x10-frames"
+       },
+       {
+        "name": "16x20 Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/16x20-frames"
+       },
+       {
+        "name": "Digital Photo Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/digital-photo-frames"
+       },
+       {
+        "name": "Photo Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/photo-frames"
+       },
+       {
+        "name": "Poster Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/poster-frames"
+       },
+       {
+        "name": "Certificate Frames",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/certificate-frames"
+       },
+       {
+        "name": "Photo Albums",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/photo-albums"
+       },
+       {
+        "name": "Wall Hooks & Adhesive Hooks",
+        "seoPath": "furniture/decor/photo-frames-photo-albums/wall-hooks-adhesive-hooks"
+       }
+      ]
+     },
+     {
+      "name": "Clocks",
+      "seoPath": "furniture/decor/clocks"
+     },
+     {
+      "name": "Lamps",
+      "seoPath": "furniture/decor/lamps"
+     },
+     {
+      "name": "Light Bulbs",
+      "seoPath": "furniture/decor/light-bulbs"
+     },
+     {
+      "name": "Artificial Plants",
+      "seoPath": "furniture/decor/artificial-plants"
+     }
+    ]
+   },
+   {
+    "name": "Lockers",
+    "seoPath": "furniture/lockers"
+   },
+   {
+    "name": "Office Pods",
+    "seoPath": "furniture/office-pods"
+   }
+  ]
+ },
+ {
+  "name": "Paper",
+  "seoPath": "paper",
+  "children": [
+   {
+    "name": "A4 Copy Paper",
+    "seoPath": "paper/a4-copy-paper"
+   },
+   {
+    "name": "A3 Copy Paper",
+    "seoPath": "paper/a3-copy-paper"
+   },
+   {
+    "name": "A5 Copy Paper",
+    "seoPath": "paper/a5-copy-paper"
+   },
+   {
+    "name": "Recycled Copy Paper",
+    "seoPath": "paper/recycled-copy-paper"
+   },
+   {
+    "name": "Tinted Paper",
+    "seoPath": "paper/tinted-paper"
+   },
+   {
+    "name": "Register Rolls",
+    "seoPath": "paper/register-rolls"
+   },
+   {
+    "name": "Photo Paper",
+    "seoPath": "paper/photo-paper"
+   },
+   {
+    "name": "Wide Format Paper",
+    "seoPath": "paper/wide-format-paper"
+   },
+   {
+    "name": "Business Cards & Forms",
+    "seoPath": "paper/business-cards-forms"
+   },
+   {
+    "name": "Dot Matrix Paper",
+    "seoPath": "paper/dot-matrix-paper"
+   }
+  ]
+ },
+ {
+  "name": "Ink & Toner",
+  "seoPath": "ink-toner",
+  "children": [
+   {
+    "name": "Ink Cartridges",
+    "seoPath": "ink-toner/ink-cartridges",
+    "children": [
+     {
+      "name": "Brother Ink Cartridges",
+      "seoPath": "ink-toner/ink-cartridges/brother-ink-cartridges"
+     },
+     {
+      "name": "Canon Ink Cartridges",
+      "seoPath": "ink-toner/ink-cartridges/canon-ink-cartridges"
+     },
+     {
+      "name": "Epson Ink Cartridges",
+      "seoPath": "ink-toner/ink-cartridges/epson-ink-cartridges"
+     },
+     {
+      "name": "HP Ink Cartridges",
+      "seoPath": "ink-toner/ink-cartridges/hp-ink-cartridges"
+     },
+     {
+      "name": "Calidad Ink Cartridges",
+      "seoPath": "ink-toner/ink-cartridges/calidad-ink-cartridges"
+     }
+    ]
+   },
+   {
+    "name": "CISS (Continuous Ink Supply System)",
+    "seoPath": "ink-toner/ciss--continuous-ink-supply-system-",
+    "children": [
+     {
+      "name": "Brother Ink Refills",
+      "seoPath": "ink-toner/ciss--continuous-ink-supply-system-/brother-ink-refills"
+     },
+     {
+      "name": "Canon Ink Refills",
+      "seoPath": "ink-toner/ciss--continuous-ink-supply-system-/canon-ink-refills"
+     },
+     {
+      "name": "Epson Ink Refills",
+      "seoPath": "ink-toner/ciss--continuous-ink-supply-system-/epson-ink-refills"
+     },
+     {
+      "name": "HP Ink Refills",
+      "seoPath": "ink-toner/ciss--continuous-ink-supply-system-/hp-ink-refills"
+     }
+    ]
+   },
+   {
+    "name": "Toner Cartridges & Printer Drums",
+    "seoPath": "ink-toner/toner-cartridges-printer-drums",
+    "children": [
+     {
+      "name": "Brother Toner",
+      "seoPath": "ink-toner/toner-cartridges-printer-drums/brother-toner"
+     },
+     {
+      "name": "HP Toner",
+      "seoPath": "ink-toner/toner-cartridges-printer-drums/hp-toner"
+     },
+     {
+      "name": "Canon Toner",
+      "seoPath": "ink-toner/toner-cartridges-printer-drums/canon-toner"
+     },
+     {
+      "name": "Keytek Toner",
+      "seoPath": "ink-toner/toner-cartridges-printer-drums/keytek-toner"
+     },
+     {
+      "name": "Xerox Toner",
+      "seoPath": "ink-toner/toner-cartridges-printer-drums/xerox-toner"
+     },
+     {
+      "name": "Lexmark Toner",
+      "seoPath": "ink-toner/toner-cartridges-printer-drums/lexmark-toner"
+     },
+     {
+      "name": "OKI Toner",
+      "seoPath": "ink-toner/toner-cartridges-printer-drums/oki-toner"
+     }
+    ]
+   },
+   {
+    "name": "Printing Ribbons & Fax Refills",
+    "seoPath": "ink-toner/printing-ribbons-fax-refills"
+   }
+  ]
+ },
+ {
+  "name": "Art & Craft Supplies",
+  "seoPath": "art-supplies",
+  "children": [
+   {
+    "name": "Craft",
+    "seoPath": "art-supplies/craft",
+    "children": [
+     {
+      "name": "Craft Machines",
+      "seoPath": "art-supplies/craft/craft-machines",
+      "children": [
+       {
+        "name": "Cricut Machines & Consumables",
+        "seoPath": "art-supplies/craft/craft-machines/cricut-machines-consumables"
+       },
+       {
+        "name": "Qcut Machines & Consumables",
+        "seoPath": "art-supplies/craft/craft-machines/qcut-machines-consumables"
+       },
+       {
+        "name": "Laser Cutters & Engravers",
+        "seoPath": "art-supplies/craft/craft-machines/laser-cutters-engravers"
+       }
+      ]
+     },
+     {
+      "name": "Coloured Cardboard",
+      "seoPath": "art-supplies/craft/coloured-cardboard"
+     },
+     {
+      "name": "Craft Packaging",
+      "seoPath": "art-supplies/craft/craft-packaging"
+     },
+     {
+      "name": "Scrapbooking Supplies",
+      "seoPath": "art-supplies/craft/scrapbooking-supplies"
+     },
+     {
+      "name": "Craft Kits",
+      "seoPath": "art-supplies/craft/craft-kits"
+     },
+     {
+      "name": "Craft Tools",
+      "seoPath": "art-supplies/craft/craft-tools"
+     },
+     {
+      "name": "Jewellery Making",
+      "seoPath": "art-supplies/craft/jewellery-making"
+     },
+     {
+      "name": "Knitting, Yarn & Crochet",
+      "seoPath": "art-supplies/craft/knitting--yarn-crochet",
+      "children": [
+       {
+        "name": "Yarn",
+        "seoPath": "art-supplies/craft/knitting--yarn-crochet/yarn"
+       },
+       {
+        "name": "Crochet Hooks",
+        "seoPath": "art-supplies/craft/knitting--yarn-crochet/crochet-hooks"
+       },
+       {
+        "name": "Knitting Needles",
+        "seoPath": "art-supplies/craft/knitting--yarn-crochet/knitting-needles"
+       }
+      ]
+     },
+     {
+      "name": "Craft Paper",
+      "seoPath": "art-supplies/craft/craft-paper"
+     },
+     {
+      "name": "Wooden Letters & Shapes",
+      "seoPath": "art-supplies/craft/wooden-letters-shapes"
+     },
+     {
+      "name": "Stencilling",
+      "seoPath": "art-supplies/craft/stencilling"
+     },
+     {
+      "name": "Ribbons & Twines",
+      "seoPath": "art-supplies/craft/ribbons-twines"
+     },
+     {
+      "name": "Origami",
+      "seoPath": "art-supplies/craft/origami"
+     },
+     {
+      "name": "Invitation Card Paper",
+      "seoPath": "art-supplies/craft/invitation-card-paper"
+     },
+     {
+      "name": "Candle Making",
+      "seoPath": "art-supplies/craft/candle-making"
+     },
+     {
+      "name": "Resin",
+      "seoPath": "art-supplies/craft/resin"
+     }
+    ]
+   },
+   {
+    "name": "Kids Art & Craft",
+    "seoPath": "art-supplies/kids-art-craft",
+    "children": [
+     {
+      "name": "Drawing & Colouring",
+      "seoPath": "art-supplies/kids-art-craft/drawing-colouring",
+      "children": [
+       {
+        "name": "Kids Colouring Markers",
+        "seoPath": "art-supplies/kids-art-craft/drawing-colouring/kids-colouring-markers"
+       },
+       {
+        "name": "Kids Colouring Pencils",
+        "seoPath": "art-supplies/kids-art-craft/drawing-colouring/kids-colouring-pencils"
+       },
+       {
+        "name": "Colouring Books",
+        "seoPath": "art-supplies/kids-art-craft/drawing-colouring/colouring-books"
+       },
+       {
+        "name": "Watercolouring Books",
+        "seoPath": "art-supplies/kids-art-craft/drawing-colouring/watercolouring-books"
+       },
+       {
+        "name": "Sticker Books",
+        "seoPath": "art-supplies/kids-art-craft/drawing-colouring/sticker-books"
+       },
+       {
+        "name": "Crayons",
+        "seoPath": "art-supplies/kids-art-craft/drawing-colouring/crayons"
+       },
+       {
+        "name": "Kids Pastels",
+        "seoPath": "art-supplies/kids-art-craft/drawing-colouring/kids-pastels"
+       },
+       {
+        "name": "Chalk",
+        "seoPath": "art-supplies/kids-art-craft/drawing-colouring/chalk"
+       }
+      ]
+     },
+     {
+      "name": "Kids Craft Supplies",
+      "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies",
+      "children": [
+       {
+        "name": "Pipe Cleaners",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/pipe-cleaners"
+       },
+       {
+        "name": "Googly Eyes",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/googly-eyes"
+       },
+       {
+        "name": "Pom Poms",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/pom-poms"
+       },
+       {
+        "name": "Feathers",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/feathers"
+       },
+       {
+        "name": "Kids Craft Paper",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/kids-craft-paper"
+       },
+       {
+        "name": "Craft Glue",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/craft-glue"
+       },
+       {
+        "name": "Popsicle Sticks",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/popsicle-sticks"
+       },
+       {
+        "name": "Craft Blanks",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/craft-blanks"
+       },
+       {
+        "name": "Kids Stamps",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/kids-stamps"
+       },
+       {
+        "name": "Kids Stickers",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/kids-stickers"
+       },
+       {
+        "name": "Rhinestones and Jewels",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/rhinestones-and-jewels"
+       },
+       {
+        "name": "Beads, Ribbon & Embellishments",
+        "seoPath": "art-supplies/kids-art-craft/kids-craft-supplies/beads-ribbon-embellishments"
+       }
+      ]
+     },
+     {
+      "name": "Kids Easels",
+      "seoPath": "art-supplies/kids-art-craft/kids-easels"
+     },
+     {
+      "name": "Kids Painting Supplies",
+      "seoPath": "art-supplies/kids-art-craft/kids-painting-supplies",
+      "children": [
+       {
+        "name": "Kids Paint Accessories",
+        "seoPath": "art-supplies/kids-art-craft/kids-painting-supplies/kids-paint-accessories"
+       },
+       {
+        "name": "Kids Paint",
+        "seoPath": "art-supplies/kids-art-craft/kids-painting-supplies/kids-paint"
+       }
+      ]
+     },
+     {
+      "name": "Kids Modelling & Sculpting",
+      "seoPath": "art-supplies/kids-art-craft/kids-modelling-sculpting",
+      "children": [
+       {
+        "name": "Air Dry Clay",
+        "seoPath": "art-supplies/kids-art-craft/kids-modelling-sculpting/air-dry-clay"
+       },
+       {
+        "name": "Playdough & Tools",
+        "seoPath": "art-supplies/kids-art-craft/kids-modelling-sculpting/playdough-tools"
+       },
+       {
+        "name": "Plasticine",
+        "seoPath": "art-supplies/kids-art-craft/kids-modelling-sculpting/plasticine"
+       },
+       {
+        "name": "Kids Modelling Clay",
+        "seoPath": "art-supplies/kids-art-craft/kids-modelling-sculpting/kids-modelling-clay"
+       },
+       {
+        "name": "Slime and Putty",
+        "seoPath": "art-supplies/kids-art-craft/kids-modelling-sculpting/slime-and-putty"
+       }
+      ]
+     },
+     {
+      "name": "Kids Craft Kits",
+      "seoPath": "art-supplies/kids-art-craft/kids-craft-kits"
+     }
+    ]
+   },
+   {
+    "name": "Drawing",
+    "seoPath": "art-supplies/drawing",
+    "children": [
+     {
+      "name": "Art Markers",
+      "seoPath": "art-supplies/drawing/art-markers",
+      "children": [
+       {
+        "name": "All Art Markers",
+        "seoPath": "art-supplies/drawing/art-markers/all-art-markers"
+       },
+       {
+        "name": "Paint Pens",
+        "seoPath": "art-supplies/drawing/art-markers/paint-pens"
+       },
+       {
+        "name": "Alcohol Markers",
+        "seoPath": "art-supplies/drawing/art-markers/alcohol-markers"
+       },
+       {
+        "name": "Acrylic Markers",
+        "seoPath": "art-supplies/drawing/art-markers/acrylic-markers"
+       },
+       {
+        "name": "Copic Markers",
+        "seoPath": "art-supplies/drawing/art-markers/copic-markers"
+       }
+      ]
+     },
+     {
+      "name": "Art Pencils",
+      "seoPath": "art-supplies/drawing/art-pencils",
+      "children": [
+       {
+        "name": "All Art Pencils",
+        "seoPath": "art-supplies/drawing/art-pencils/all-art-pencils"
+       },
+       {
+        "name": "Watercolour Pencils",
+        "seoPath": "art-supplies/drawing/art-pencils/watercolour-pencils"
+       },
+       {
+        "name": "Charcoal Pencils & Sticks",
+        "seoPath": "art-supplies/drawing/art-pencils/charcoal-pencils-sticks"
+       },
+       {
+        "name": "Coloured Pencils",
+        "seoPath": "art-supplies/drawing/art-pencils/coloured-pencils"
+       }
+      ]
+     },
+     {
+      "name": "Drawing Accessories",
+      "seoPath": "art-supplies/drawing/drawing-accessories"
+     },
+     {
+      "name": "Pastels",
+      "seoPath": "art-supplies/drawing/pastels"
+     },
+     {
+      "name": "Inks",
+      "seoPath": "art-supplies/drawing/inks"
+     },
+     {
+      "name": "Calligraphy",
+      "seoPath": "art-supplies/drawing/calligraphy"
+     },
+     {
+      "name": "Adult Colouring Books",
+      "seoPath": "art-supplies/drawing/adult-colouring-books"
+     }
+    ]
+   },
+   {
+    "name": "Paint & Mediums",
+    "seoPath": "art-supplies/paint-mediums",
+    "children": [
+     {
+      "name": "All Paints & Mediums",
+      "seoPath": "art-supplies/paint-mediums/all-paints-mediums"
+     },
+     {
+      "name": "Paint",
+      "seoPath": "art-supplies/paint-mediums/paint",
+      "children": [
+       {
+        "name": "Acrylic Paints",
+        "seoPath": "art-supplies/paint-mediums/paint/acrylic-paints"
+       },
+       {
+        "name": "Spray Paints",
+        "seoPath": "art-supplies/paint-mediums/paint/spray-paints"
+       },
+       {
+        "name": "Paint Sets",
+        "seoPath": "art-supplies/paint-mediums/paint/paint-sets"
+       },
+       {
+        "name": "Watercolour Paints",
+        "seoPath": "art-supplies/paint-mediums/paint/watercolour-paints"
+       },
+       {
+        "name": "Oil Paints",
+        "seoPath": "art-supplies/paint-mediums/paint/oil-paints"
+       },
+       {
+        "name": "Gouache Paints",
+        "seoPath": "art-supplies/paint-mediums/paint/gouache-paints"
+       },
+       {
+        "name": "Pigment Powders",
+        "seoPath": "art-supplies/paint-mediums/paint/pigment-powders"
+       },
+       {
+        "name": "Glass Paint",
+        "seoPath": "art-supplies/paint-mediums/paint/glass-paint"
+       },
+       {
+        "name": "Fabric Paint",
+        "seoPath": "art-supplies/paint-mediums/paint/fabric-paint"
+       },
+       {
+        "name": "Chalk Paint",
+        "seoPath": "art-supplies/paint-mediums/paint/chalk-paint"
+       },
+       {
+        "name": "Porcelain Paint",
+        "seoPath": "art-supplies/paint-mediums/paint/porcelain-paint"
+       }
+      ]
+     },
+     {
+      "name": "Paint Mediums",
+      "seoPath": "art-supplies/paint-mediums/paint-mediums-additives",
+      "children": [
+       {
+        "name": "Acrylic Pouring Mediums",
+        "seoPath": "art-supplies/paint-mediums/paint-mediums-additives/acrylic-pouring-mediums"
+       },
+       {
+        "name": "Oil Mediums",
+        "seoPath": "art-supplies/paint-mediums/paint-mediums-additives/oil-mediums"
+       },
+       {
+        "name": "Paint Cleaners (Medium)",
+        "seoPath": "art-supplies/paint-mediums/paint-mediums-additives/paint-cleaners-medium"
+       },
+       {
+        "name": "Fixatives",
+        "seoPath": "art-supplies/paint-mediums/paint-mediums-additives/fixatives"
+       },
+       {
+        "name": "Watercolour Mediums",
+        "seoPath": "art-supplies/paint-mediums/paint-mediums-additives/watercolour-mediums"
+       },
+       {
+        "name": "Varnishes",
+        "seoPath": "art-supplies/paint-mediums/paint-mediums-additives/varnishes"
+       },
+       {
+        "name": "Impasto & Pastes",
+        "seoPath": "art-supplies/paint-mediums/paint-mediums-additives/impasto-pastes"
+       },
+       {
+        "name": "Primers & Gesso",
+        "seoPath": "art-supplies/paint-mediums/paint-mediums-additives/primers-gesso"
+       }
+      ]
+     },
+     {
+      "name": "Paint Brushes",
+      "seoPath": "art-supplies/paint-mediums/paint-brushes"
+     },
+     {
+      "name": "Painting Tools",
+      "seoPath": "art-supplies/paint-mediums/painting-tools"
+     },
+     {
+      "name": "Paint Palettes",
+      "seoPath": "art-supplies/paint-mediums/paint-palettes"
+     },
+     {
+      "name": "Paint By Numbers Kits",
+      "seoPath": "art-supplies/paint-mediums/paint-by-numbers-kits"
+     }
+    ]
+   },
+   {
+    "name": "Art Surfaces",
+    "seoPath": "art-supplies/art-surfaces",
+    "children": [
+     {
+      "name": "All Art Surfaces",
+      "seoPath": "art-supplies/art-surfaces/all-art-surfaces"
+     },
+     {
+      "name": "Canvas",
+      "seoPath": "art-supplies/art-surfaces/canvas",
+      "children": [
+       {
+        "name": "Stretched Canvas",
+        "seoPath": "art-supplies/art-surfaces/canvas/stretched-canvas"
+       },
+       {
+        "name": "Canvas Boards",
+        "seoPath": "art-supplies/art-surfaces/canvas/canvas-boards"
+       },
+       {
+        "name": "Canvas Roll",
+        "seoPath": "art-supplies/art-surfaces/canvas/canvas-roll"
+       },
+       {
+        "name": "Canvas Pads",
+        "seoPath": "art-supplies/art-surfaces/canvas/canvas-pads"
+       }
+      ]
+     },
+     {
+      "name": "Visual Diaries",
+      "seoPath": "art-supplies/art-surfaces/visual-diaries"
+     },
+     {
+      "name": "Sketchbooks",
+      "seoPath": "art-supplies/art-surfaces/sketchbooks"
+     },
+     {
+      "name": "Art Pads",
+      "seoPath": "art-supplies/art-surfaces/art-pads",
+      "children": [
+       {
+        "name": "Watercolour Pads",
+        "seoPath": "art-supplies/art-surfaces/art-pads/watercolour-pads"
+       },
+       {
+        "name": "Tracing Pads",
+        "seoPath": "art-supplies/art-surfaces/art-pads/tracing-pads"
+       },
+       {
+        "name": "Bleedproof Pads",
+        "seoPath": "art-supplies/art-surfaces/art-pads/bleedproof-pads"
+       },
+       {
+        "name": "Mixed Media Pads",
+        "seoPath": "art-supplies/art-surfaces/art-pads/mixed-media-pads"
+       },
+       {
+        "name": "Acrylic Pads",
+        "seoPath": "art-supplies/art-surfaces/art-pads/acrylic-pads"
+       },
+       {
+        "name": "Graph Pads",
+        "seoPath": "art-supplies/art-surfaces/art-pads/graph-pads"
+       },
+       {
+        "name": "Pastel Pads",
+        "seoPath": "art-supplies/art-surfaces/art-pads/pastel-pads"
+       },
+       {
+        "name": "Cartridge Pads",
+        "seoPath": "art-supplies/art-surfaces/art-pads/cartridge-pads"
+       },
+       {
+        "name": "Sketching & Drawing Pads",
+        "seoPath": "art-supplies/art-surfaces/art-pads/sketching-drawing-pads"
+       }
+      ]
+     },
+     {
+      "name": "Art Paper",
+      "seoPath": "art-supplies/art-surfaces/art-paper",
+      "children": [
+       {
+        "name": "Art Paper Packs",
+        "seoPath": "art-supplies/art-surfaces/art-paper/art-paper-packs"
+       },
+       {
+        "name": "Loose Sheet Art Paper",
+        "seoPath": "art-supplies/art-surfaces/art-paper/loose-sheet-art-paper"
+       },
+       {
+        "name": "Watercolour Paper",
+        "seoPath": "art-supplies/art-surfaces/art-paper/watercolour-paper"
+       }
+      ]
+     },
+     {
+      "name": "Art Boards",
+      "seoPath": "art-supplies/art-surfaces/art-boards",
+      "children": [
+       {
+        "name": "Foam Art Boards",
+        "seoPath": "art-supplies/art-surfaces/art-boards/foam-art-boards"
+       },
+       {
+        "name": "Mount Boards",
+        "seoPath": "art-supplies/art-surfaces/art-boards/mount-boards"
+       }
+      ]
+     },
+     {
+      "name": "Coloured Paper",
+      "seoPath": "art-supplies/art-surfaces/coloured-paper"
+     }
+    ]
+   },
+   {
+    "name": "Portfolios",
+    "seoPath": "art-supplies/portfolios"
+   },
+   {
+    "name": "Art Sets",
+    "seoPath": "art-supplies/art-sets"
+   },
+   {
+    "name": "Modelling & Sculpting",
+    "seoPath": "art-supplies/modelling-sculpting",
+    "children": [
+     {
+      "name": "Modelling Accessories",
+      "seoPath": "art-supplies/modelling-sculpting/modelling-accessories"
+     },
+     {
+      "name": "Modelling Clay",
+      "seoPath": "art-supplies/modelling-sculpting/modelling-clay"
+     }
+    ]
+   },
+   {
+    "name": "Easels",
+    "seoPath": "art-supplies/easels"
+   },
+   {
+    "name": "Printmaking Supplies",
+    "seoPath": "art-supplies/printmaking-supplies"
+   }
+  ]
+ },
+ {
+  "name": "Workplace Supplies",
+  "seoPath": "workplace-supplies",
+  "children": [
+   {
+    "name": "Business Essentials",
+    "seoPath": "workplace-supplies/business-essentials",
+    "children": [
+     {
+      "name": "Business IT & Printing Supplies",
+      "seoPath": "workplace-supplies/business-essentials/business-it-printing-supplies"
+     },
+     {
+      "name": "Office Supplies for Business",
+      "seoPath": "workplace-supplies/business-essentials/office-supplies-for-business"
+     },
+     {
+      "name": "Workplace Furniture & Fit-Outs",
+      "seoPath": "workplace-supplies/business-essentials/workplace-furniture-fit-outs"
+     },
+     {
+      "name": "Workplace Hygiene & Breakroom",
+      "seoPath": "workplace-supplies/business-essentials/workplace-hygiene-breakroom"
+     },
+     {
+      "name": "Business Filing & Organisation",
+      "seoPath": "workplace-supplies/business-essentials/business-filing-organisation"
+     },
+     {
+      "name": "Business Mailing & Packaging",
+      "seoPath": "workplace-supplies/business-essentials/business-mailing-packaging"
+     },
+     {
+      "name": "Meeting & Presentation Supplies",
+      "seoPath": "workplace-supplies/business-essentials/meeting-presentation-supplies"
+     },
+     {
+      "name": "Workplace Safety, PPE & First Aid",
+      "seoPath": "workplace-supplies/business-essentials/workplace-safety--ppe-first-aid"
+     }
+    ]
+   },
+   {
+    "name": "Food & Snacks",
+    "seoPath": "workplace-supplies/food-snacks",
+    "children": [
+     {
+      "name": "Biscuits",
+      "seoPath": "workplace-supplies/food-snacks/biscuits"
+     },
+     {
+      "name": "Chips",
+      "seoPath": "workplace-supplies/food-snacks/chips"
+     },
+     {
+      "name": "Confectionery",
+      "seoPath": "workplace-supplies/food-snacks/confectionery",
+      "children": [
+       {
+        "name": "Chocolate",
+        "seoPath": "workplace-supplies/food-snacks/confectionery/chocolate"
+       },
+       {
+        "name": "Lollies",
+        "seoPath": "workplace-supplies/food-snacks/confectionery/lollies"
+       },
+       {
+        "name": "Mints",
+        "seoPath": "workplace-supplies/food-snacks/confectionery/mints"
+       }
+      ]
+     },
+     {
+      "name": "Crackers",
+      "seoPath": "workplace-supplies/food-snacks/crackers"
+     },
+     {
+      "name": "Muesli Bars",
+      "seoPath": "workplace-supplies/food-snacks/muesli-bars"
+     },
+     {
+      "name": "Nuts",
+      "seoPath": "workplace-supplies/food-snacks/nuts"
+     }
+    ]
+   },
+   {
+    "name": "Lunch Boxes, Bags & Water Bottles",
+    "seoPath": "workplace-supplies/lunch-boxes--bags-water-bottles",
+    "children": [
+     {
+      "name": "Drink Bottles",
+      "seoPath": "workplace-supplies/lunch-boxes--bags-water-bottles/drink-bottles"
+     },
+     {
+      "name": "Lunch Boxes",
+      "seoPath": "workplace-supplies/lunch-boxes--bags-water-bottles/lunch-boxes-accessories"
+     },
+     {
+      "name": "Insulated Lunch Bags",
+      "seoPath": "workplace-supplies/lunch-boxes--bags-water-bottles/insulated-lunch-bags"
+     },
+     {
+      "name": "Insulated Flasks & Cups",
+      "seoPath": "workplace-supplies/lunch-boxes--bags-water-bottles/insulated-flasks-cups"
+     },
+     {
+      "name": "Lunch Box Accessories",
+      "seoPath": "workplace-supplies/lunch-boxes--bags-water-bottles/lunch-box-accessories"
+     }
+    ]
+   },
+   {
+    "name": "Tea, Coffee & Beverages",
+    "seoPath": "workplace-supplies/tea--coffee-beverages",
+    "children": [
+     {
+      "name": "Coffee",
+      "seoPath": "workplace-supplies/tea--coffee-beverages/coffee",
+      "children": [
+       {
+        "name": "Coffee Capsules & Pods",
+        "seoPath": "workplace-supplies/tea--coffee-beverages/coffee/coffee-capsules-pods"
+       },
+       {
+        "name": "Instant Coffee",
+        "seoPath": "workplace-supplies/tea--coffee-beverages/coffee/instant-coffee"
+       },
+       {
+        "name": "Coffee Sachets",
+        "seoPath": "workplace-supplies/tea--coffee-beverages/coffee/coffee-sachets"
+       },
+       {
+        "name": "Ground & Bean Coffee",
+        "seoPath": "workplace-supplies/tea--coffee-beverages/coffee/ground-bean-coffee"
+       }
+      ]
+     },
+     {
+      "name": "Bottled Water",
+      "seoPath": "workplace-supplies/tea--coffee-beverages/bottled-water"
+     },
+     {
+      "name": "Tea",
+      "seoPath": "workplace-supplies/tea--coffee-beverages/tea",
+      "children": [
+       {
+        "name": "Black Tea",
+        "seoPath": "workplace-supplies/tea--coffee-beverages/tea/black-tea"
+       },
+       {
+        "name": "Herbal & Fruit Tea",
+        "seoPath": "workplace-supplies/tea--coffee-beverages/tea/herbal-fruit-tea"
+       },
+       {
+        "name": "Green Tea",
+        "seoPath": "workplace-supplies/tea--coffee-beverages/tea/green-tea"
+       }
+      ]
+     },
+     {
+      "name": "Hot Chocolate",
+      "seoPath": "workplace-supplies/tea--coffee-beverages/hot-chocolate"
+     },
+     {
+      "name": "Sugar & Sweeteners",
+      "seoPath": "workplace-supplies/tea--coffee-beverages/sugar-sweeteners"
+     },
+     {
+      "name": "Soft Drinks",
+      "seoPath": "workplace-supplies/tea--coffee-beverages/soft-drinks"
+     },
+     {
+      "name": "SodaStream",
+      "seoPath": "workplace-supplies/tea--coffee-beverages/sodastream"
+     },
+     {
+      "name": "UHT Milk & Powder",
+      "seoPath": "workplace-supplies/tea--coffee-beverages/uht-milk-powder"
+     }
+    ]
+   },
+   {
+    "name": "Cleaning Supplies",
+    "seoPath": "workplace-supplies/cleaning-supplies",
+    "children": [
+     {
+      "name": "Cleaning Wipes, Liquids & Sprays",
+      "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays",
+      "children": [
+       {
+        "name": "Disinfectant & Cleaning Wipes",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/disinfectant-cleaning-wipes"
+       },
+       {
+        "name": "Air Fresheners",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/air-fresheners"
+       },
+       {
+        "name": "Disinfectants, Bleach & Mould Killers",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/disinfectants--bleach-mould-killers"
+       },
+       {
+        "name": "Multi Purpose Cleaners",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/multi-purpose-cleaners"
+       },
+       {
+        "name": "Dishwasher Detergent",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/dishwasher-detergent"
+       },
+       {
+        "name": "Floor Cleaners",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/floor-cleaners"
+       },
+       {
+        "name": "Window & Glass Cleaning Products",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/window-glass-cleaning-products"
+       },
+       {
+        "name": "Laundry Detergent & Liquid",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/laundry-detergent-liquid"
+       },
+       {
+        "name": "Fabric & Metal Cleaners",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/fabric-metal-cleaners"
+       },
+       {
+        "name": "Eco Cleaning Products",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/eco-cleaning-products"
+       },
+       {
+        "name": "Toilet Cleaner",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-wipes--liquids-sprays/toilet-cleaner"
+       }
+      ]
+     },
+     {
+      "name": "Handwash & Sanitisers",
+      "seoPath": "workplace-supplies/cleaning-supplies/handwash-sanitisers"
+     },
+     {
+      "name": "Cleaning Equipment",
+      "seoPath": "workplace-supplies/cleaning-supplies/cleaning-equipment",
+      "children": [
+       {
+        "name": "Cleaning Appliances",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-equipment/cleaning-appliances"
+       },
+       {
+        "name": "Sponges & Cloths",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-equipment/sponges-cloths"
+       },
+       {
+        "name": "Brooms, Dustpans & Dusters",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-equipment/brooms--dustpans-dusters"
+       },
+       {
+        "name": "Cleaning Brushes",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-equipment/cleaning-brushes"
+       },
+       {
+        "name": "Mops, Buckets & Squeegees",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-equipment/mops--buckets-squeegees"
+       },
+       {
+        "name": "Cleaning Gloves",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-equipment/cleaning-gloves"
+       },
+       {
+        "name": "Spray Bottles",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-equipment/spray-bottles"
+       },
+       {
+        "name": "Cleaning Trolleys",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-equipment/cleaning-trolleys"
+       },
+       {
+        "name": "Toilet Brushes",
+        "seoPath": "workplace-supplies/cleaning-supplies/cleaning-equipment/toilet-brushes"
+       }
+      ]
+     },
+     {
+      "name": "Professional Hand Hygiene Supplies",
+      "seoPath": "workplace-supplies/cleaning-supplies/professional-bathroom-cleaning-supplies",
+      "children": [
+       {
+        "name": "Professional Hand Towel Dispensers and Refills",
+        "seoPath": "workplace-supplies/cleaning-supplies/professional-bathroom-cleaning-supplies/professional-hand-towel-dispensers-and-refills"
+       },
+       {
+        "name": "Professional Toilet Paper Dispensers and Refills",
+        "seoPath": "workplace-supplies/cleaning-supplies/professional-bathroom-cleaning-supplies/professional-toilet-paper-dispensers-and-refills"
+       },
+       {
+        "name": "Professional Centrefeed & Roll Dispensers and Refills",
+        "seoPath": "workplace-supplies/cleaning-supplies/professional-bathroom-cleaning-supplies/professional-centrefeed-roll-dispensers-and-refills"
+       },
+       {
+        "name": "Professional Soap & Sanitiser Dispensers",
+        "seoPath": "workplace-supplies/cleaning-supplies/professional-bathroom-cleaning-supplies/professional-soap-sanitiser-dispensers"
+       }
+      ]
+     },
+     {
+      "name": "Bathroom Supplies by Brand",
+      "seoPath": "workplace-supplies/cleaning-supplies/bathroom-supplies-by-brand",
+      "children": [
+       {
+        "name": "Kimberly Clark Dispensers",
+        "seoPath": "workplace-supplies/cleaning-supplies/bathroom-supplies-by-brand/kimberly-clark-dispensers"
+       },
+       {
+        "name": "Kleenex Paper Towels",
+        "seoPath": "workplace-supplies/cleaning-supplies/bathroom-supplies-by-brand/kleenex-paper-towels"
+       },
+       {
+        "name": "Tork Paper Towels",
+        "seoPath": "workplace-supplies/cleaning-supplies/bathroom-supplies-by-brand/tork-paper-towels"
+       },
+       {
+        "name": "Solvol Hand Cleaner",
+        "seoPath": "workplace-supplies/cleaning-supplies/bathroom-supplies-by-brand/solvol-hand-cleaner"
+       }
+      ]
+     },
+     {
+      "name": "Pest Control",
+      "seoPath": "workplace-supplies/cleaning-supplies/pest-control"
+     }
+    ]
+   },
+   {
+    "name": "Mail & Packaging Supplies",
+    "seoPath": "workplace-supplies/mail-packaging-supplies",
+    "children": [
+     {
+      "name": "Envelopes",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/envelopes"
+     },
+     {
+      "name": "Postage Stamps",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/postage-stamps"
+     },
+     {
+      "name": "Bubble Wrap",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/bubble-wrap"
+     },
+     {
+      "name": "Butchers Paper & Packaging",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/butchers-paper-packaging"
+     },
+     {
+      "name": "Packing Peanuts",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/packing-peanuts"
+     },
+     {
+      "name": "Pallet Wrapping",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/pallet-wrapping",
+      "children": [
+       {
+        "name": "Pallet Straps",
+        "seoPath": "workplace-supplies/mail-packaging-supplies/pallet-wrapping/pallet-straps"
+       },
+       {
+        "name": "Pallet Wrap",
+        "seoPath": "workplace-supplies/mail-packaging-supplies/pallet-wrapping/pallet-wrap"
+       },
+       {
+        "name": "Shrink Wrap Machines",
+        "seoPath": "workplace-supplies/mail-packaging-supplies/pallet-wrapping/shrink-wrap-machines"
+       },
+       {
+        "name": "Stretch Wrap",
+        "seoPath": "workplace-supplies/mail-packaging-supplies/pallet-wrapping/stretch-wrap"
+       }
+      ]
+     },
+     {
+      "name": "Boxes",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/boxes",
+      "children": [
+       {
+        "name": "Moving Boxes",
+        "seoPath": "workplace-supplies/mail-packaging-supplies/boxes/moving-boxes"
+       },
+       {
+        "name": "Mailing & Shipping Boxes",
+        "seoPath": "workplace-supplies/mail-packaging-supplies/boxes/mailing-shipping-boxes"
+       },
+       {
+        "name": "Pallet Boxes",
+        "seoPath": "workplace-supplies/mail-packaging-supplies/boxes/pallet-boxes"
+       }
+      ]
+     },
+     {
+      "name": "Padded Mailers",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/padded-mailers"
+     },
+     {
+      "name": "Satchels",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/satchels"
+     },
+     {
+      "name": "Mailing Tubes",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/mailing-tubes"
+     },
+     {
+      "name": "Shipping Tags",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/shipping-tags"
+     },
+     {
+      "name": "Postal Scales",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/postal-scales"
+     },
+     {
+      "name": "Moving Accessories",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/moving-accessories"
+     },
+     {
+      "name": "String",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/string"
+     },
+     {
+      "name": "Utility Knives",
+      "seoPath": "workplace-supplies/mail-packaging-supplies/utility-knives"
+     }
+    ]
+   },
+   {
+    "name": "Water & Water Dispensers",
+    "seoPath": "workplace-supplies/water-water-dispensers"
+   },
+   {
+    "name": "Toilet Paper, Paper Towels & Tissues",
+    "seoPath": "workplace-supplies/toilet-paper--paper-towels-tissues",
+    "children": [
+     {
+      "name": "Toilet Paper",
+      "seoPath": "workplace-supplies/toilet-paper--paper-towels-tissues/toilet-paper"
+     },
+     {
+      "name": "Paper Towels & Holders",
+      "seoPath": "workplace-supplies/toilet-paper--paper-towels-tissues/paper-towels-dispensers"
+     },
+     {
+      "name": "Tissues",
+      "seoPath": "workplace-supplies/toilet-paper--paper-towels-tissues/tissues"
+     }
+    ]
+   },
+   {
+    "name": "First Aid Supplies",
+    "seoPath": "workplace-supplies/first-aid-supplies",
+    "children": [
+     {
+      "name": "First Aid Refills Supplies",
+      "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies",
+      "children": [
+       {
+        "name": "Suncare & Insect Repellent",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies/suncare-insect-repellent"
+       },
+       {
+        "name": "First Aid Instruments & Equipment",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies/first-aid-instruments-equipment"
+       },
+       {
+        "name": "Adhesive Bandages",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies/adhesive-bandages"
+       },
+       {
+        "name": "Bandages, Dressings & Swabs",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies/bandages--dressings-swabs"
+       },
+       {
+        "name": "Eye Care",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies/eye-care"
+       },
+       {
+        "name": "Medicines",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies/medicines"
+       },
+       {
+        "name": "Sprains & Strains",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies/sprains-strains"
+       },
+       {
+        "name": "Sharps Containers",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies/sharps-containers"
+       },
+       {
+        "name": "Antiseptics & Creams",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies/antiseptics-creams"
+       },
+       {
+        "name": "Burns Treatment",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-refills-supplies/burns-treatment"
+       }
+      ]
+     },
+     {
+      "name": "First Aid Kits",
+      "seoPath": "workplace-supplies/first-aid-supplies/first-aid-kits",
+      "children": [
+       {
+        "name": "Workplace First Aid Kits",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-kits/workplace-first-aid-kits"
+       },
+       {
+        "name": "Personal First Aid Kits",
+        "seoPath": "workplace-supplies/first-aid-supplies/first-aid-kits/personal-first-aid-kits"
+       }
+      ]
+     },
+     {
+      "name": "Defibrillators",
+      "seoPath": "workplace-supplies/first-aid-supplies/defibrillators"
+     },
+     {
+      "name": "Health Monitors",
+      "seoPath": "workplace-supplies/first-aid-supplies/health-monitors"
+     }
+    ]
+   },
+   {
+    "name": "Bins & Liners",
+    "seoPath": "workplace-supplies/bins-liners",
+    "children": [
+     {
+      "name": "Bin Liners",
+      "seoPath": "workplace-supplies/bins-liners/bin-liners"
+     },
+     {
+      "name": "Rubbish Bins",
+      "seoPath": "workplace-supplies/bins-liners/rubbish-bins"
+     }
+    ]
+   },
+   {
+    "name": "Retail Supplies",
+    "seoPath": "workplace-supplies/retail-supplies",
+    "children": [
+     {
+      "name": "Shop Signage",
+      "seoPath": "workplace-supplies/retail-supplies/shop-signage"
+     },
+     {
+      "name": "Brochure Holders & Stands",
+      "seoPath": "workplace-supplies/retail-supplies/brochure-holders-stands"
+     },
+     {
+      "name": "Paper Bags & Shopping Bags",
+      "seoPath": "workplace-supplies/retail-supplies/paper-bags-shopping-bags"
+     },
+     {
+      "name": "Invoice Books & Log Books",
+      "seoPath": "workplace-supplies/retail-supplies/invoice-books-log-books"
+     },
+     {
+      "name": "Resealable Bags",
+      "seoPath": "workplace-supplies/retail-supplies/resealable-bags"
+     }
+    ]
+   },
+   {
+    "name": "Trolleys, Steps & Ladders",
+    "seoPath": "workplace-supplies/trolleys--steps-ladders",
+    "children": [
+     {
+      "name": "Hand Trolleys",
+      "seoPath": "workplace-supplies/trolleys--steps-ladders/hand-trolleys"
+     },
+     {
+      "name": "Ladders, Steps & Stools",
+      "seoPath": "workplace-supplies/trolleys--steps-ladders/ladders--steps-stools"
+     }
+    ]
+   },
+   {
+    "name": "Workplace Safety & Equipment",
+    "seoPath": "workplace-supplies/workplace-safety-equipment",
+    "children": [
+     {
+      "name": "Personal Protective Equipment (PPE)",
+      "seoPath": "workplace-supplies/workplace-safety-equipment/personal-protective-equipment--ppe-",
+      "children": [
+       {
+        "name": "Body Protection",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/personal-protective-equipment--ppe-/body-protection"
+       },
+       {
+        "name": "Respiratory & Face Masks",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/personal-protective-equipment--ppe-/respiratory-face-masks"
+       },
+       {
+        "name": "Earmuffs & Earplugs",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/personal-protective-equipment--ppe-/earmuffs-earplugs"
+       },
+       {
+        "name": "Hard Hats & Bump Caps",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/personal-protective-equipment--ppe-/hard-hats-bump-caps"
+       },
+       {
+        "name": "HI-Vis Workwear",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/personal-protective-equipment--ppe-/hi-vis-workwear"
+       },
+       {
+        "name": "Safety Glasses & Goggles",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/personal-protective-equipment--ppe-/safety-glasses-goggles"
+       },
+       {
+        "name": "Safety Gloves",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/personal-protective-equipment--ppe-/safety-gloves"
+       }
+      ]
+     },
+     {
+      "name": "Site Safety",
+      "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety",
+      "children": [
+       {
+        "name": "Fire Safety",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety/fire-safety",
+        "children": [
+         {
+          "name": "Smoke Alarms",
+          "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety/fire-safety/smoke-alarms"
+         },
+         {
+          "name": "Fire Extinguishers",
+          "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety/fire-safety/fire-extinguishers"
+         },
+         {
+          "name": "Fire Blankets & Kits",
+          "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety/fire-safety/fire-blankets-kits"
+         }
+        ]
+       },
+       {
+        "name": "Safety Signs",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety/safety-signs"
+       },
+       {
+        "name": "Safety Tape & Treads",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety/safety-tape-treads"
+       },
+       {
+        "name": "Cones & Bollards",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety/cones-bollards"
+       },
+       {
+        "name": "Spill Containment",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety/spill-containment"
+       },
+       {
+        "name": "Breathalysers",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety/breathalysers"
+       },
+       {
+        "name": "Registers & Compliance Documents",
+        "seoPath": "workplace-supplies/workplace-safety-equipment/site-safety/registers-compliance-documents"
+       }
+      ]
+     },
+     {
+      "name": "Hardware",
+      "seoPath": "workplace-supplies/workplace-safety-equipment/hardware"
+     },
+     {
+      "name": "Magnifying Glass",
+      "seoPath": "workplace-supplies/workplace-safety-equipment/magnifying-glass"
+     },
+     {
+      "name": "Reading Glasses",
+      "seoPath": "workplace-supplies/workplace-safety-equipment/reading-glasses"
+     }
+    ]
+   },
+   {
+    "name": "Personal Hygiene",
+    "seoPath": "workplace-supplies/personal-hygiene"
+   },
+   {
+    "name": "Business Books",
+    "seoPath": "workplace-supplies/business-books"
+   },
+   {
+    "name": "Catering Supplies & Kitchenware",
+    "seoPath": "workplace-supplies/catering-supplies-kitchenware",
+    "children": [
+     {
+      "name": "Disposable Coffee & Paper Cups",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/disposable-coffee-paper-cups"
+     },
+     {
+      "name": "Disposable Cutlery",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/disposable-cutlery"
+     },
+     {
+      "name": "Kitchen Roll & Paper Towels",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/kitchen-roll-paper-towels"
+     },
+     {
+      "name": "Disposable Plates & Bowls",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/disposable-plates-bowls"
+     },
+     {
+      "name": "Food Storage",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/food-storage"
+     },
+     {
+      "name": "Sandwich Bags",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/sandwich-bags"
+     },
+     {
+      "name": "Napkins & Napkin Dispensers",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/napkins-napkin-dispensers"
+     },
+     {
+      "name": "Kitchenware",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/kitchenware"
+     },
+     {
+      "name": "Cling Wrap, Aluminium Foil & Baking Paper",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/cling-wrap--aluminium-foil-baking-paper"
+     },
+     {
+      "name": "Drinking Glasses & Water Jugs",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/drinking-glasses-water-jugs"
+     },
+     {
+      "name": "Insulated Flasks & Travel Mugs",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/insulated-flasks-travel-mugs"
+     },
+     {
+      "name": "Food Packaging",
+      "seoPath": "workplace-supplies/catering-supplies-kitchenware/food-packaging"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Education",
+  "seoPath": "education",
+  "children": [
+   {
+    "name": "School Essentials",
+    "seoPath": "education/school-essentials",
+    "children": [
+     {
+      "name": "Exercise Books",
+      "seoPath": "education/school-essentials/exercise-books",
+      "children": [
+       {
+        "name": "A4 Exercise Books",
+        "seoPath": "education/school-essentials/exercise-books/a4-exercise-books"
+       },
+       {
+        "name": "A5 Exercise Books",
+        "seoPath": "education/school-essentials/exercise-books/a5-exercise-books"
+       },
+       {
+        "name": "Dotted Thirds",
+        "seoPath": "education/school-essentials/exercise-books/dotted-thirds"
+       },
+       {
+        "name": "9x7 Small Exercise Books",
+        "seoPath": "education/school-essentials/exercise-books/9x7-small-exercise-books"
+       },
+       {
+        "name": "Loose Leaf Exam Paper",
+        "seoPath": "education/school-essentials/exercise-books/loose-leaf-exam-paper"
+       },
+       {
+        "name": "Binder Books",
+        "seoPath": "education/school-essentials/exercise-books/binder-books"
+       },
+       {
+        "name": "QLD Exercise Books",
+        "seoPath": "education/school-essentials/exercise-books/qld-exercise-books"
+       },
+       {
+        "name": "Graph Science Books",
+        "seoPath": "education/school-essentials/exercise-books/graph-science-books"
+       },
+       {
+        "name": "Music Books",
+        "seoPath": "education/school-essentials/exercise-books/music-books"
+       },
+       {
+        "name": "NSW Exercise Books",
+        "seoPath": "education/school-essentials/exercise-books/nsw-exercise-books"
+       },
+       {
+        "name": "Botany & Project Books",
+        "seoPath": "education/school-essentials/exercise-books/botany-project-books"
+       }
+      ]
+     },
+     {
+      "name": "Book Covers",
+      "seoPath": "education/school-essentials/book-covers"
+     },
+     {
+      "name": "Dictionaries & Thesauruses",
+      "seoPath": "education/school-essentials/dictionaries-thesauruses"
+     },
+     {
+      "name": "Scrapbooks",
+      "seoPath": "education/school-essentials/scrapbooks"
+     },
+     {
+      "name": "Shop By Grade",
+      "seoPath": "education/school-essentials/shop-by-grade",
+      "children": [
+       {
+        "name": "Preschool",
+        "seoPath": "education/school-essentials/shop-by-grade/preschool"
+       },
+       {
+        "name": "Prep - Grade 2",
+        "seoPath": "education/school-essentials/shop-by-grade/prep-grade-2"
+       },
+       {
+        "name": "Grade 3-6",
+        "seoPath": "education/school-essentials/shop-by-grade/grade-3-6"
+       },
+       {
+        "name": "Year 7-9",
+        "seoPath": "education/school-essentials/shop-by-grade/year-7-9"
+       },
+       {
+        "name": "Year 10-12",
+        "seoPath": "education/school-essentials/shop-by-grade/year-10-12"
+       }
+      ]
+     },
+     {
+      "name": "Student Personalised Stationery",
+      "seoPath": "education/school-essentials/student-personalised-stationery"
+     },
+     {
+      "name": "Labels & Name Tags",
+      "seoPath": "education/school-essentials/labels-name-tags"
+     },
+     {
+      "name": "School Bags & Travel",
+      "seoPath": "education/school-essentials/education-kids-school-bags",
+      "children": [
+       {
+        "name": "Kids School Bags",
+        "seoPath": "education/school-essentials/education-kids-school-bags/kids-school-bags"
+       },
+       {
+        "name": "Chair Bags",
+        "seoPath": "education/school-essentials/education-kids-school-bags/chair-bags"
+       },
+       {
+        "name": "Library Bags",
+        "seoPath": "education/school-essentials/education-kids-school-bags/library-bags"
+       }
+      ]
+     },
+     {
+      "name": "Kids Lunch Boxes & Drink Bottles",
+      "seoPath": "education/school-essentials/kids-lunch-boxes-drink-bottles",
+      "children": [
+       {
+        "name": "Kids Lunch Boxes & Bags",
+        "seoPath": "education/school-essentials/kids-lunch-boxes-drink-bottles/kids-lunch-boxes-bags"
+       },
+       {
+        "name": "Kids Drink Bottles",
+        "seoPath": "education/school-essentials/kids-lunch-boxes-drink-bottles/kids-drink-bottles"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "School Tech Essentials",
+    "seoPath": "education/school-tech-essentials"
+   },
+   {
+    "name": "Workbooks",
+    "seoPath": "education/workbooks",
+    "children": [
+     {
+      "name": "All Workbooks",
+      "seoPath": "education/workbooks/all-workbooks"
+     },
+     {
+      "name": "English & Literacy",
+      "seoPath": "education/workbooks/english-literacy"
+     },
+     {
+      "name": "Handwriting Books",
+      "seoPath": "education/workbooks/handwriting-books"
+     },
+     {
+      "name": "Math & Numeracy Books",
+      "seoPath": "education/workbooks/math-numeracy-books"
+     },
+     {
+      "name": "NAPLAN",
+      "seoPath": "education/workbooks/naplan"
+     },
+     {
+      "name": "Health & Wellbeing",
+      "seoPath": "education/workbooks/health-wellbeing"
+     },
+     {
+      "name": "Teacher Resources",
+      "seoPath": "education/workbooks/teacher-resources"
+     },
+     {
+      "name": "Social Science & Humanities",
+      "seoPath": "education/workbooks/social-science-humanities"
+     },
+     {
+      "name": "Times Tables",
+      "seoPath": "education/workbooks/times-tables"
+     },
+     {
+      "name": "Story Books",
+      "seoPath": "education/workbooks/story-books"
+     }
+    ]
+   },
+   {
+    "name": "STEM",
+    "seoPath": "education/stem",
+    "children": [
+     {
+      "name": "Microscopes & Lab Gear",
+      "seoPath": "education/stem/microscopes-lab-gear"
+     },
+     {
+      "name": "STEM Kits",
+      "seoPath": "education/stem/stem-kits",
+      "children": [
+       {
+        "name": "Science Activity Kits",
+        "seoPath": "education/stem/stem-kits/science-activity-kits"
+       },
+       {
+        "name": "Coding & Robotics",
+        "seoPath": "education/stem/stem-kits/coding-robotics"
+       },
+       {
+        "name": "Engineering & Construction",
+        "seoPath": "education/stem/stem-kits/engineering-construction"
+       }
+      ]
+     },
+     {
+      "name": "Anatomy & Medicine",
+      "seoPath": "education/stem/anatomy-medicine"
+     },
+     {
+      "name": "Atlases",
+      "seoPath": "education/stem/atlases"
+     },
+     {
+      "name": "World Globes",
+      "seoPath": "education/stem/world-globes"
+     },
+     {
+      "name": "World Maps",
+      "seoPath": "education/stem/world-maps"
+     }
+    ]
+   },
+   {
+    "name": "Early Learning & Play",
+    "seoPath": "education/early-learning-play",
+    "children": [
+     {
+      "name": "Kids Educational Toys",
+      "seoPath": "education/early-learning-play/kids-educational-toys"
+     },
+     {
+      "name": "Kids Puzzles",
+      "seoPath": "education/early-learning-play/kids-puzzles"
+     },
+     {
+      "name": "Sensory Toys",
+      "seoPath": "education/early-learning-play/sensory-toys"
+     },
+     {
+      "name": "Wooden Toys",
+      "seoPath": "education/early-learning-play/wooden-toys"
+     },
+     {
+      "name": "Building Blocks and Construction Toys",
+      "seoPath": "education/early-learning-play/building-blocks-and-construction-toys"
+     },
+     {
+      "name": "Kids Costumes",
+      "seoPath": "education/early-learning-play/kids-costumes"
+     },
+     {
+      "name": "Flash Cards",
+      "seoPath": "education/early-learning-play/flash-cards"
+     },
+     {
+      "name": "Educational Placemats",
+      "seoPath": "education/early-learning-play/educational-placemats"
+     },
+     {
+      "name": "Wall Charts",
+      "seoPath": "education/early-learning-play/wall-charts"
+     },
+     {
+      "name": "Kids Musical Instruments",
+      "seoPath": "education/early-learning-play/kids-musical-instruments"
+     },
+     {
+      "name": "Tonies",
+      "seoPath": "education/early-learning-play/tonies",
+      "children": [
+       {
+        "name": "Toniebox",
+        "seoPath": "education/early-learning-play/tonies/toniebox"
+       },
+       {
+        "name": "Tonies Characters",
+        "seoPath": "education/early-learning-play/tonies/tonies-characters"
+       },
+       {
+        "name": "Tonies Books",
+        "seoPath": "education/early-learning-play/tonies/tonies-books"
+       },
+       {
+        "name": "Tonies Accessories",
+        "seoPath": "education/early-learning-play/tonies/tonies-accessories"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Merit & Reward",
+    "seoPath": "education/merit-reward",
+    "children": [
+     {
+      "name": "Merit Stickers & Stamps",
+      "seoPath": "education/merit-reward/merit-stickers-stamps"
+     },
+     {
+      "name": "Reward & Chore Charts",
+      "seoPath": "education/merit-reward/reward-chore-charts"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Print + Create",
+  "seoPath": "pcc",
+  "children": [
+   {
+    "name": "Same Day Printing",
+    "seoPath": "pcc/same-day-printing"
+   },
+   {
+    "name": "Document Printing & Finishing",
+    "seoPath": "pcc/document-printing-finishing"
+   },
+   {
+    "name": "Wall Art",
+    "seoPath": "pcc/wall-art"
+   },
+   {
+    "name": "Poster Printing",
+    "seoPath": "pcc/poster-printing"
+   },
+   {
+    "name": "Marketing Materials",
+    "seoPath": "pcc/marketing-materials"
+   },
+   {
+    "name": "Portable Displays & Stands",
+    "seoPath": "pcc/portable-displays-stands"
+   },
+   {
+    "name": "Photo Prints",
+    "seoPath": "pcc/photo-prints"
+   },
+   {
+    "name": "Business Cards",
+    "seoPath": "pcc/business-cards"
+   },
+   {
+    "name": "Banners & Signs",
+    "seoPath": "pcc/banners-signs"
+   },
+   {
+    "name": "Cards & Events Stationery",
+    "seoPath": "pcc/cards-events-stationery"
+   },
+   {
+    "name": "Wedding Planning",
+    "seoPath": "pcc/wedding-planning"
+   },
+   {
+    "name": "Photo Gifts",
+    "seoPath": "pcc/photo-gifts"
+   },
+   {
+    "name": "Photo Books",
+    "seoPath": "pcc/photo-books"
+   },
+   {
+    "name": "Business Stationery",
+    "seoPath": "pcc/business-stationery"
+   },
+   {
+    "name": "Labels, Stamps & Stickers",
+    "seoPath": "pcc/labels--stamps-stickers"
+   },
+   {
+    "name": "Clothing Printing",
+    "seoPath": "pcc/clothing-printing"
+   },
+   {
+    "name": "Plan Printing",
+    "seoPath": "pcc/plan-printing"
+   },
+   {
+    "name": "Custom Packaging & Labelling",
+    "seoPath": "pcc/custom-packaging-labelling"
+   },
+   {
+    "name": "Sticker Signs & Decals",
+    "seoPath": "pcc/sticker-signs-decals"
+   },
+   {
+    "name": "Photo Frames & Albums",
+    "seoPath": "pcc/photo-frames-albums",
+    "children": [
+     {
+      "name": "Wood Photo Frame",
+      "seoPath": "pcc/photo-frames-albums/wood-photo-frame"
+     }
+    ]
+   },
+   {
+    "name": "Custom Screen Protectors",
+    "seoPath": "pcc/custom-screen-protectors"
+   }
+  ]
+ },
+ {
+  "name": "Gifting",
+  "seoPath": "gifting",
+  "children": [
+   {
+    "name": "Gift Cards",
+    "seoPath": "gifting/gift-cards",
+    "children": [
+     {
+      "name": "All Gift Cards",
+      "seoPath": "gifting/gift-cards/all-gift-cards"
+     },
+     {
+      "name": "Visa Gift Cards",
+      "seoPath": "gifting/gift-cards/visa-gift-cards"
+     },
+     {
+      "name": "Ultimate Gift Cards",
+      "seoPath": "gifting/gift-cards/ultimate-gift-cards"
+     },
+     {
+      "name": "Apple Gift Cards",
+      "seoPath": "gifting/gift-cards/apple-gift-cards"
+     },
+     {
+      "name": "Officeworks Gift Cards",
+      "seoPath": "gifting/gift-cards/officeworks-gift-cards"
+     },
+     {
+      "name": "Gaming Gift Cards",
+      "seoPath": "gifting/gift-cards/gaming-gift-cards"
+     }
+    ]
+   },
+   {
+    "name": "Cards & Wrapping Paper",
+    "seoPath": "gifting/cards-wrapping-paper",
+    "children": [
+     {
+      "name": "Gift Wrap",
+      "seoPath": "gifting/cards-wrapping-paper/gift-wrap"
+     },
+     {
+      "name": "Gift Boxes",
+      "seoPath": "gifting/cards-wrapping-paper/gift-boxes"
+     },
+     {
+      "name": "Gift Bags",
+      "seoPath": "gifting/cards-wrapping-paper/gift-bags"
+     },
+     {
+      "name": "Gift Tags",
+      "seoPath": "gifting/cards-wrapping-paper/gift-tags"
+     },
+     {
+      "name": "Cards",
+      "seoPath": "gifting/cards-wrapping-paper/cards"
+     },
+     {
+      "name": "Christmas Wrapping Paper",
+      "seoPath": "gifting/cards-wrapping-paper/christmas-wrapping-paper"
+     },
+     {
+      "name": "Christmas Cards",
+      "seoPath": "gifting/cards-wrapping-paper/christmas-cards"
+     }
+    ]
+   },
+   {
+    "name": "Tech Gifts",
+    "seoPath": "gifting/tech-gifts"
+   },
+   {
+    "name": "Gifts For Kids",
+    "seoPath": "gifting/gifts-for-kids"
+   },
+   {
+    "name": "Gifts For Him",
+    "seoPath": "gifting/gifts-for-him"
+   },
+   {
+    "name": "Gifts For Her",
+    "seoPath": "gifting/gifts-for-her"
+   },
+   {
+    "name": "Gifts For Dad",
+    "seoPath": "gifting/gifts-for-dad"
+   },
+   {
+    "name": "Gifts For Mum",
+    "seoPath": "gifting/gifts-for-mum"
+   },
+   {
+    "name": "Gifts By Price",
+    "seoPath": "gifting/gifts-by-price",
+    "children": [
+     {
+      "name": "Gifts $10 and Under",
+      "seoPath": "gifting/gifts-by-price/gifts-under--10"
+     },
+     {
+      "name": "Gifts $20 and Under",
+      "seoPath": "gifting/gifts-by-price/gifts-under--20"
+     },
+     {
+      "name": "Gifts $30 and Under",
+      "seoPath": "gifting/gifts-by-price/gifts-under--30"
+     },
+     {
+      "name": "Gifts $50 and Under",
+      "seoPath": "gifting/gifts-by-price/gifts-under--50"
+     },
+     {
+      "name": "Gifts $100 and Under",
+      "seoPath": "gifting/gifts-by-price/gifts-under--100"
+     }
+    ]
+   },
+   {
+    "name": "Creative Gifts",
+    "seoPath": "gifting/creative-gifts"
+   },
+   {
+    "name": "Novelty Gifts",
+    "seoPath": "gifting/novelty-gifts"
+   },
+   {
+    "name": "Teacher Gifts",
+    "seoPath": "gifting/teacher-gifts"
+   },
+   {
+    "name": "Corporate Gifts",
+    "seoPath": "gifting/corporate-gifts"
+   },
+   {
+    "name": "Kris Kringle Gifts",
+    "seoPath": "gifting/kris-kringle-gifts"
+   },
+   {
+    "name": "Christmas Gifts",
+    "seoPath": "gifting/christmas-gifts"
+   }
+  ]
+ },
+ {
+  "name": "Pop Culture & Collectables",
+  "seoPath": "collectables",
+  "children": [
+   {
+    "name": "Shop by License",
+    "seoPath": "collectables/shop-by-license",
+    "children": [
+     {
+      "name": "Bluey",
+      "seoPath": "collectables/shop-by-license/bluey"
+     },
+     {
+      "name": "Care Bears",
+      "seoPath": "collectables/shop-by-license/care-bears"
+     },
+     {
+      "name": "Disney",
+      "seoPath": "collectables/shop-by-license/disney"
+     },
+     {
+      "name": "Disney Princesses",
+      "seoPath": "collectables/shop-by-license/disney-princesses"
+     },
+     {
+      "name": "Frozen",
+      "seoPath": "collectables/shop-by-license/frozen"
+     },
+     {
+      "name": "Harry Potter",
+      "seoPath": "collectables/shop-by-license/harry-potter"
+     },
+     {
+      "name": "Hello Kitty",
+      "seoPath": "collectables/shop-by-license/hello-kitty"
+     },
+     {
+      "name": "Jurassic World",
+      "seoPath": "collectables/shop-by-license/jurassic-world"
+     },
+     {
+      "name": "KPop Demon Hunters",
+      "seoPath": "collectables/shop-by-license/kpop-demon-hunters"
+     },
+     {
+      "name": "Lilo & Stitch",
+      "seoPath": "collectables/shop-by-license/lilo-stitch"
+     },
+     {
+      "name": "Miffy",
+      "seoPath": "collectables/shop-by-license/miffy"
+     },
+     {
+      "name": "Moana",
+      "seoPath": "collectables/shop-by-license/moana"
+     },
+     {
+      "name": "My Little Pony",
+      "seoPath": "collectables/shop-by-license/my-little-pony"
+     },
+     {
+      "name": "Naruto",
+      "seoPath": "collectables/shop-by-license/naruto"
+     },
+     {
+      "name": "One Piece",
+      "seoPath": "collectables/shop-by-license/one-piece"
+     },
+     {
+      "name": "Pokémon",
+      "seoPath": "collectables/shop-by-license/pokemon"
+     },
+     {
+      "name": "Snoopy",
+      "seoPath": "collectables/shop-by-license/snoopy"
+     },
+     {
+      "name": "Sonic",
+      "seoPath": "collectables/shop-by-license/sonic"
+     },
+     {
+      "name": "Spider-Man vs Hulk",
+      "seoPath": "collectables/shop-by-license/spider-man-vs-hulk"
+     },
+     {
+      "name": "Star Wars",
+      "seoPath": "collectables/shop-by-license/star-wars"
+     },
+     {
+      "name": "The Powerpuff Girls",
+      "seoPath": "collectables/shop-by-license/the-powerpuff-girls"
+     },
+     {
+      "name": "Toy Story",
+      "seoPath": "collectables/shop-by-license/toy-story"
+     },
+     {
+      "name": "Transformers",
+      "seoPath": "collectables/shop-by-license/transformers"
+     },
+     {
+      "name": "Winnie the Pooh",
+      "seoPath": "collectables/shop-by-license/winnie-the-pooh"
+     }
+    ]
+   },
+   {
+    "name": "Blind Boxes & Bags",
+    "seoPath": "collectables/blind-boxes-bags"
+   },
+   {
+    "name": "Funko Pop!",
+    "seoPath": "collectables/funko-pop-"
+   },
+   {
+    "name": "Squishies",
+    "seoPath": "collectables/squishies"
+   },
+   {
+    "name": "Plushies",
+    "seoPath": "collectables/plushies"
+   },
+   {
+    "name": "Model Kits",
+    "seoPath": "collectables/model-kits"
+   },
+   {
+    "name": "Games & Puzzles",
+    "seoPath": "collectables/games-puzzles",
+    "children": [
+     {
+      "name": "Board Games",
+      "seoPath": "collectables/games-puzzles/board-games"
+     },
+     {
+      "name": "Card Games",
+      "seoPath": "collectables/games-puzzles/card-games"
+     },
+     {
+      "name": "Jigsaw Puzzles",
+      "seoPath": "collectables/games-puzzles/jigsaw-puzzles"
+     }
+    ]
+   },
+   {
+    "name": "Trading Cards",
+    "seoPath": "collectables/trading-cards",
+    "children": [
+     {
+      "name": "All Trading Cards",
+      "seoPath": "collectables/trading-cards/all-trading-cards"
+     },
+     {
+      "name": "Pokémon TCG",
+      "seoPath": "collectables/trading-cards/pokemon-tcg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Tech Help",
+  "seoPath": "tech-help",
+  "children": [
+   {
+    "name": "All Tech Services",
+    "seoPath": "tech-help/all-tech-services"
+   },
+   {
+    "name": "Setup Services",
+    "seoPath": "tech-help/setup-services"
+   },
+   {
+    "name": "Tech Support",
+    "seoPath": "tech-help/tech-support"
+   },
+   {
+    "name": "Upgrade Services",
+    "seoPath": "tech-help/upgrade-services"
+   },
+   {
+    "name": "Cybersecurity Services",
+    "seoPath": "tech-help/cybersecurity-services"
+   }
+  ]
+ },
+ {
+  "name": "What's New",
+  "seoPath": "whats-new"
+ },
+ {
+  "name": "Clearance",
+  "seoPath": "clearance"
+ },
+ {
+  "name": "Price Dropped",
+  "seoPath": "price-drop"
+ },
+ {
+  "name": "Deals",
+  "seoPath": "deals"
+ },
+ {
+  "name": "Everyday Low Prices",
+  "seoPath": "everyday-low-prices"
+ },
+ {
+  "name": "Price Checked Price Dropped",
+  "seoPath": "price-checked-price-dropped"
+ }
+]

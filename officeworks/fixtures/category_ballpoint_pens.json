@@ -1,0 +1,25 @@
+{
+ "id": "Web_BALLPOINT_PENS",
+ "name": "Ballpoint Pens",
+ "title": "Ballpoint Pens | Shop All Colours & Packs | Officeworks",
+ "webId": "Web_BALLPOINT_PENS",
+ "description": "Need to stock up on your collection of ballpoint pens? Look no further than our extensive range of long-lasting ballpoint pens with easy grip and smooth ink flow. They’ll have you well prepared for any school projects, office tasks or home stationery requirements.",
+ "shortDescription": "Explore ballpoint pens at Officeworks, including blue, black, and red ballpoint pens. Shop top brands like BIC, PaperMate, and Pilot in-store or online.",
+ "seoPath": "office-supplies/pens/ballpoint-pens",
+ "thumbnail": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/Category_400x400/ballpoint_pens.jpg",
+ "children": [],
+ "breadcrumbs": [
+  {
+   "title": "Office Supplies",
+   "url": "office-supplies"
+  },
+  {
+   "title": "Pens",
+   "url": "office-supplies/pens"
+  },
+  {
+   "title": "Ballpoint Pens",
+   "url": "office-supplies/pens/ballpoint-pens"
+  }
+ ]
+}

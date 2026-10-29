@@ -1,0 +1,101 @@
+{
+ "id": "W320",
+ "partnerId": "10222610",
+ "name": "Russell St, Melbourne Officeworks",
+ "status": "Active",
+ "openingDate": "2009-08-03",
+ "priorityNotificationText": "",
+ "address": {
+  "street": "QV Centre Russell Street",
+  "locatedIn": "",
+  "suburb": "Melbourne",
+  "postCode": "3000",
+  "state": "VIC"
+ },
+ "location": {
+  "longitude": "144.966529600",
+  "latitude": "-37.810134900",
+  "distance": 0
+ },
+ "contact": {
+  "phone": "(03) 8665 6400",
+  "fax": "(03) 8665 6470",
+  "email": "RussellStreetMelbourne.Manager@officeworks.com.au"
+ },
+ "openingHours": [
+  {
+   "dayOfWeek": "Mon",
+   "open": "8am",
+   "close": "7pm"
+  },
+  {
+   "dayOfWeek": "Tue",
+   "open": "8am",
+   "close": "7pm"
+  },
+  {
+   "dayOfWeek": "Wed",
+   "open": "8am",
+   "close": "7pm"
+  },
+  {
+   "dayOfWeek": "Thu",
+   "open": "8am",
+   "close": "7pm"
+  },
+  {
+   "dayOfWeek": "Fri",
+   "open": "8am",
+   "close": "7pm"
+  },
+  {
+   "dayOfWeek": "Sat",
+   "open": "9am",
+   "close": "5pm"
+  },
+  {
+   "dayOfWeek": "Sun",
+   "open": "9am",
+   "close": "5pm"
+  }
+ ],
+ "exceptionHours": [],
+ "services": {
+  "restrictedShopping": false,
+  "contactlessClickAndCollect": false,
+  "clickAndCollect": true,
+  "assembleIt": true,
+  "deliverIt": false,
+  "courtesyTrailer": false,
+  "printAndCopy": true,
+  "managedPrint": false,
+  "rentIt": false,
+  "techServices": false,
+  "specialOrder": false,
+  "parcelDelivery": false,
+  "storePickup": true,
+  "parking": true,
+  "extraCover": true,
+  "meetingRooms": false,
+  "officeFitout": false,
+  "freeInternet": false,
+  "wifi": true,
+  "inkToner": true,
+  "mobileMuster": false,
+  "bringITBack": false,
+  "batteryRecycling": false,
+  "businessSpecialist": false,
+  "penRecycling": true,
+  "threeDPrint": false,
+  "instoreCafe": false,
+  "playground": false,
+  "dataStorage": true,
+  "expressDelivery": true,
+  "extendedRangeFastPrint": false,
+  "standardRangeFastPrint": false,
+  "uberStore": true
+ },
+ "messages": {
+  "activities": ""
+ }
+}

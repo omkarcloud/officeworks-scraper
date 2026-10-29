@@ -1,0 +1,14 @@
+{
+ "INLOG4459": {
+  "price": 3900,
+  "gstRate": 10,
+  "tax": 355,
+  "hasBusinessPrice": false
+ },
+ "LOM280BLK": {
+  "price": 3500,
+  "gstRate": 10,
+  "tax": 318,
+  "hasBusinessPrice": false
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "reviewSummary": {
+  "numReviews": 76,
+  "primaryRating": {
+   "distribution": [
+    {
+     "key": 5,
+     "count": 56
+    },
+    {
+     "key": 4,
+     "count": 5
+    },
+    {
+     "key": 3,
+     "count": 1
+    },
+    {
+     "key": 2,
+     "count": 4
+    },
+    {
+     "key": 1,
+     "count": 10
+    }
+   ],
+   "average": 4.2237,
+   "missing": 0,
+   "ratingRange": 5
+  },
+  "recommended": {
+   "distribution": [
+    {
+     "count": 43,
+     "key": true
+    },
+    {
+     "count": 12,
+     "key": false
+    }
+   ],
+   "missing": 21
+  }
+ },
+ "questionSummary": {
+  "numQuestions": 51,
+  "numAnswers": 57
+ }
+}

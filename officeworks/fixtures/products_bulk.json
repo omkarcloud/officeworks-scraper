@@ -1,0 +1,1854 @@
+[
+ {
+  "productType": "STANDARD",
+  "attachments": {
+   "video": [],
+   "doc": []
+  },
+  "attributes": [
+   {
+    "id": "caseQuantity",
+    "name": "Numerator",
+    "value": "10"
+   },
+   {
+    "id": "sellableUnitOfMeasure",
+    "name": "Sellable Unit of Measure",
+    "value": "Single Unit"
+   },
+   {
+    "id": "unitsPerPack",
+    "name": "Units Per Pack/Carton",
+    "value": "1"
+   },
+   {
+    "id": "dangerousLithium",
+    "name": "Contains Lithium Batteries",
+    "value": "No"
+   },
+   {
+    "id": "caseGTIN",
+    "name": "GTIN",
+    "value": "10097855107500"
+   },
+   {
+    "id": "manufacturerPartNumber",
+    "name": "Part Number",
+    "value": "910-004295"
+   },
+   {
+    "id": "longProductCopy",
+    "name": "Long Product Copy",
+    "value": "The asymmetric shape of the Logitech M280 Wireless Mouse is designed to keep you comfortable. With curved, soft rubber grips and a wide scrolling wheel, holding and operating the mouse is smooth and easy. Plus, the energy efficient design means that you can go for longer between battery changes."
+   },
+   {
+    "id": "status",
+    "name": "Status",
+    "value": "De-ranging - Replen from DC"
+   },
+   {
+    "id": "operatingHand",
+    "name": "Operating Hand",
+    "value": "Right"
+   },
+   {
+    "id": "priceDroppedType",
+    "name": "Ticket - Ticket Type",
+    "value": "Deals"
+   },
+   {
+    "id": "crosssellVisible",
+    "name": "Cross Sell Visible",
+    "value": "Yes"
+   },
+   {
+    "id": "statusChannelD1",
+    "name": "Stores Channel - D1",
+    "value": "N-Not for Reorder"
+   },
+   {
+    "id": "marketplaceKmartCategory",
+    "name": "Marketplace - Kmart Category",
+    "value": "TECHNOLOGY-OFFICE-TECH-COMPUTER-ACCESSORIES-MOUSE"
+   },
+   {
+    "id": "priceDroppedEndDate",
+    "name": "Ticket - End Date",
+    "value": "2026-06-30"
+   },
+   {
+    "id": "priceDroppedStartDate",
+    "name": "Ticket - Start Date",
+    "value": "2026-05-28"
+   },
+   {
+    "id": "statusChannelD2",
+    "name": "Online Channel - D2",
+    "value": "N-Not for Reorder"
+   },
+   {
+    "id": "modelNumber",
+    "name": "Model Number",
+    "value": "M280"
+   },
+   {
+    "id": "loyaltyEligibleProduct",
+    "name": "Loyalty Awards – Eligible",
+    "value": "Yes"
+   },
+   {
+    "id": "edlpPrice",
+    "name": "Latest EDLP Sale Price",
+    "value": "35.00"
+   },
+   {
+    "id": "marketplaceUberTop",
+    "name": "Marketplace - Uber Top-Level Category",
+    "value": "Technology"
+   },
+   {
+    "id": "marketplaceUberSecond",
+    "name": "Marketplace - Uber Second-Level Category",
+    "value": "Keyboards, Mice, USB Hubs & POS Solutions"
+   },
+   {
+    "id": "productGrade",
+    "name": "Product Grade",
+    "value": "A - Extra Extra Small"
+   },
+   {
+    "id": "deliveryMethod",
+    "name": "Delivery Method",
+    "value": "XDock_CFC ASN (Restricted)"
+   },
+   {
+    "id": "rangedChannel",
+    "name": "OW Ranged",
+    "value": "Both"
+   },
+   {
+    "id": "productCode",
+    "name": "OW Product Code",
+    "value": "LOM280BLK"
+   },
+   {
+    "id": "gstExempt",
+    "name": "Pricing..GST Exempt",
+    "value": "No"
+   },
+   {
+    "id": "marketplaceReturnsWindow",
+    "name": "Company Returns Window",
+    "value": "30 days"
+   },
+   {
+    "id": "height",
+    "name": "Product Height (mm)",
+    "value": "105.35 mm"
+   },
+   {
+    "id": "depth",
+    "name": "Product Depth (mm)",
+    "value": "38.39 mm"
+   },
+   {
+    "id": "marketplaceSellerName",
+    "name": "Company Name",
+    "value": "Officeworks"
+   },
+   {
+    "id": "productType",
+    "name": "Product Type",
+    "value": "STANDARD"
+   },
+   {
+    "id": "marketplaceReturnsPolicy",
+    "name": "Company Returns Policy",
+    "value": "https://www.officeworks.com.au/information/policies/return-policy"
+   },
+   {
+    "id": "colourVariantRender",
+    "name": "Colour Variant Render",
+    "value": "Text"
+   },
+   {
+    "id": "deliveryMinDays",
+    "name": "Minimum Delivery Days",
+    "value": "9"
+   },
+   {
+    "id": "marketplaceSellerURL",
+    "name": "Company Website",
+    "value": "https://www.officeworks.com.au"
+   },
+   {
+    "id": "width",
+    "name": "Product Width (mm)",
+    "value": "67.89 mm"
+   },
+   {
+    "id": "deliveryMaxDays",
+    "name": "Maximum Delivery Days",
+    "value": "17"
+   },
+   {
+    "id": "weight",
+    "name": "Product Weight (kg)",
+    "value": "0.91 kg"
+   },
+   {
+    "id": "expressDeliveryBuffer",
+    "name": "Express Delivery Stock Buffer",
+    "value": "1"
+   },
+   {
+    "id": "eofyProduct",
+    "name": "EOFY Product",
+    "value": "Yes"
+   },
+   {
+    "id": "rangedOnline",
+    "name": "Available Online",
+    "value": "Yes"
+   },
+   {
+    "id": "expressDelivery",
+    "name": "Express Delivery",
+    "value": "Yes"
+   },
+   {
+    "id": "rangedRetail",
+    "name": "Available In Store",
+    "value": "Yes"
+   },
+   {
+    "id": "retailPackageWeight",
+    "name": "Gross Weight",
+    "value": "0.132 kg"
+   },
+   {
+    "id": "marketplaceUberBuffer",
+    "name": "Marketplace - Uber Stock Buffer",
+    "value": "1"
+   },
+   {
+    "id": "merchCat",
+    "name": "Merchandise Category",
+    "value": "TECAMIC"
+   },
+   {
+    "id": "devicePlusType",
+    "name": "Upgrade + Eligible - Device Type",
+    "value": "Accessory"
+   },
+   {
+    "id": "extendedReturnsExcluded",
+    "name": "Extended Returns Excluded",
+    "value": "Yes - Excluded"
+   },
+   {
+    "id": "erpCreateDate",
+    "name": "Date Created",
+    "value": "2014-09-24"
+   },
+   {
+    "id": "loyaltyRedeemableProduct",
+    "name": "Loyalty Awards – Redeemable",
+    "value": "Yes"
+   },
+   {
+    "id": "warranty",
+    "name": "Manufacturer's Warranty",
+    "value": "12 month"
+   },
+   {
+    "id": "retailPackageWidth",
+    "name": "Width",
+    "value": "126 mm"
+   },
+   {
+    "id": "priceBVI",
+    "name": "Price Business Value Indicator (BVI) Product",
+    "value": "Yes"
+   },
+   {
+    "id": "retailPackageHeight",
+    "name": "Height",
+    "value": "200 mm"
+   },
+   {
+    "id": "retailPackageLength",
+    "name": "Length",
+    "value": "83 mm"
+   },
+   {
+    "id": "gtin",
+    "name": "Barcode",
+    "value": "097855107503"
+   },
+   {
+    "id": "marketplaceKmartBuffer",
+    "name": "Marketplace - Kmart Stock Buffer",
+    "value": "1"
+   },
+   {
+    "id": "shortProductTitle",
+    "name": "Product description",
+    "value": "Logitech M280 Wireless Mouse Black"
+   },
+   {
+    "id": "packQuantity",
+    "name": "Pack/Carton Quantity",
+    "value": "1"
+   },
+   {
+    "id": "manufacturer",
+    "name": "Manufacturer",
+    "value": "Logitech (F00223)"
+   },
+   {
+    "id": "salesIncentiveEligible",
+    "name": "Sales Incentive Eligible",
+    "value": "Yes"
+   },
+   {
+    "id": "productMerchHierFolderPath",
+    "name": "MerchHierarchy Folder Path",
+    "value": "Merchandise Hierarchy/Current/TE Computers & Print/TE3 PC Accessories & Storage/TECA Computer Accessories/TECAMIC Mice"
+   },
+   {
+    "id": "marketplaceKmartComplianceFurniture",
+    "name": "Marketplace - Kmart Compliance Furniture (CALC)",
+    "value": "No"
+   },
+   {
+    "id": "marketplaceFABS",
+    "name": "Marketplace - OW Long Copy and FABs (CALC)",
+    "value": "<p>The asymmetric shape of the Logitech M280 Wireless Mouse is designed to keep you comfortable. With curved, soft rubber grips and a wide scrolling wheel, holding and operating the mouse is smooth and easy. Plus, the energy efficient design means that you can go for longer between battery changes.</p> <br><b> Features</b> <br><ul><li>The comfortable right handed design has curved, soft rubber grips.<li>This mouse has a battery life of up to 24 months and energy saving features such as auto sleep when not in use.<li>It comes with a USB Nano receiver for reliable wireless connectivity.<li>It's also available in other colours to match your personal style.<li>The mouse has a smart, black design.</ul> <br>"
+   },
+   {
+    "id": "webProductSeo",
+    "name": "Web Product SEO",
+    "value": "Officeworks won't be beaten on Logitech M280 Wireless Mouse Black prices with our Price Beat Guarantee, 2-hour Click & Collect, and fast delivery options."
+   },
+   {
+    "id": "titleLong",
+    "name": "OW Long Product Title",
+    "value": "Logitech M280 Wireless Mouse Black"
+   },
+   {
+    "id": "shortProductTitleCalc",
+    "name": "Product description",
+    "value": "Logitech M280 Wireless Mouse Black"
+   },
+   {
+    "id": "pphFolderName",
+    "name": "PPH Folder Name",
+    "value": "Mouse Peripherals"
+   },
+   {
+    "id": "marketplaceKmartStockDistribution",
+    "name": "Marketplace - Kmart Stock Distribution (CALC)",
+    "value": "NATIONAL"
+   },
+   {
+    "id": "parentProductId",
+    "name": "Parent Product ID",
+    "value": "Family_502046"
+   },
+   {
+    "id": "parentProductObj",
+    "name": "Parent Product Object",
+    "value": "Product Family"
+   },
+   {
+    "id": "productWebHierFolderPath",
+    "name": "WebHierarchy Folder Path",
+    "value": "Web Hierarchy/OW Default Web/Technology/Computer Accessories/All Computer Accessories;Web Hierarchy/OW Default Web/Workplace Supplies/Business Essentials/Business IT & Printing Supplies;Web Hierarchy/OW Default Web/Technology/Computer Accessories/Mice"
+   },
+   {
+    "id": "marketplaceLongProductTitle",
+    "name": "Marketplace - Long Product Title (CALC)",
+    "value": "Logitech M280 Wireless Mouse Black"
+   },
+   {
+    "id": "urlKeyword",
+    "name": "Web URL Keyword",
+    "value": "logitech-m280-wireless-mouse-black-lom280blk"
+   },
+   {
+    "id": "brandlogo",
+    "name": "Brand Logo",
+    "value": "Logitech.png"
+   },
+   {
+    "id": "marketplaceKmartOnePass",
+    "name": "Marketplace - Kmart OnePass Eligible (CALC)",
+    "value": "Yes"
+   },
+   {
+    "id": "webPageTitle",
+    "name": "Web Page Title",
+    "value": "Logitech M280 Wireless Mouse Black | Officeworks"
+   },
+   {
+    "id": "descriptionMeta",
+    "name": "Web Meta Description Calc",
+    "value": "The asymmetric shape of the Logitech M280 Wireless Mouse is designed to keep you comfortable. With curved, soft rubber grips and a wide scrolling wheel, holding and operating the mouse is smooth and easy. Plus, the energy efficient design means that you can go for longer between battery changes."
+   },
+   {
+    "id": "brand",
+    "name": "Brand",
+    "value": "Logitech"
+   },
+   {
+    "id": "devicensureEligible",
+    "name": "DevicEnsure Eligible",
+    "value": "No"
+   },
+   {
+    "id": "fabpoint02",
+    "name": "FAB Point",
+    "value": "This mouse has a battery life of up to 24 months and energy saving features such as auto sleep when not in use."
+   },
+   {
+    "id": "fabpoint03",
+    "name": "FAB Point",
+    "value": "It comes with a USB Nano receiver for reliable wireless connectivity."
+   },
+   {
+    "id": "marketplaceOpenAICheckout",
+    "name": "Marketplace - OpenAI Checkout Availability (CALC)",
+    "value": "Yes"
+   },
+   {
+    "id": "marketplaceOpenAISearch",
+    "name": "Marketplace - OpenAI Search Availability (CALC)",
+    "value": "Yes"
+   },
+   {
+    "id": "fabpoint01",
+    "name": "FAB Point",
+    "value": "The comfortable right handed design has curved, soft rubber grips."
+   },
+   {
+    "id": "descriptionLong",
+    "name": "Web Extract Long Marketing Calc",
+    "value": "The asymmetric shape of the Logitech M280 Wireless Mouse is designed to keep you comfortable. With curved, soft rubber grips and a wide scrolling wheel, holding and operating the mouse is smooth and easy. Plus, the energy efficient design means that you can go for longer between battery changes."
+   },
+   {
+    "id": "fabhtmlBottom",
+    "name": "FAB Bottom",
+    "value": "<li>You can purchase Extra Cover for this product which will provide you with an extended warranty. For more information, please click <a href=\"https://www.officeworks.com.au/services/extra-cover\">here</a>.<p> When it's time to replace the batteries in this product, you can<a href=\"https://www.officeworks.com.au/shop/officeworks/c/technology/batteries-power-supplies/batteries\">browse our range</a> to find the right option for your needs.</li>"
+   },
+   {
+    "id": "competitorTags",
+    "name": "Competitor Tags",
+    "value": "2484994<multisep/>5096700<multisep/>7048408<multisep/>18679858<multisep/>18822778<multisep/>25000339<multisep/>87252978<multisep/>LOG-910003412<multisep/>Office Technology Products"
+   },
+   {
+    "id": "marketplaceUber",
+    "name": "Marketplace - Uber Availability (CALC)",
+    "value": "Yes"
+   },
+   {
+    "id": "fabpoint08",
+    "name": "FAB Point",
+    "value": "The mouse has a smart, black design."
+   },
+   {
+    "id": "reservationEligible",
+    "name": "Reservation Eligible",
+    "value": "Yes"
+   },
+   {
+    "id": "fabpoint07",
+    "name": "FAB Point",
+    "value": "It's also available in other colours to match your personal style."
+   },
+   {
+    "id": "productVolume",
+    "name": "Product Volume (Cubic cm)",
+    "value": "274.5734"
+   },
+   {
+    "id": "productFamilyCode",
+    "name": "Parent Product Family Code / Name",
+    "value": "LOM280FAM - LOGI M280 WIRELESS MOUSE FAM"
+   },
+   {
+    "id": "webHierName",
+    "name": "WebHierarchy Folder",
+    "value": "All Computer Accessories, Business IT & Printing Supplies, Mice"
+   },
+   {
+    "id": "colourVariant",
+    "name": "Colour",
+    "value": "Black"
+   },
+   {
+    "id": "apiModelId",
+    "name": "WEB_ID",
+    "value": "LOM280BLK"
+   },
+   {
+    "id": "colour",
+    "name": "Colour",
+    "value": "Black"
+   },
+   {
+    "id": "warrantyLogo",
+    "name": "Warranty Logo",
+    "value": "12_month"
+   },
+   {
+    "id": "totalIndividualUnits",
+    "name": "Total Individual Units",
+    "value": "1"
+   },
+   {
+    "id": "marketplaceKmart",
+    "name": "Marketplace - Kmart Availability (CALC)",
+    "value": "Yes"
+   },
+   {
+    "id": "publishedWeb",
+    "name": "Published Web",
+    "value": "Yes"
+   },
+   {
+    "id": "marketplaceKmartLogisticsClass",
+    "name": "Marketplace - Kmart Logistics Class (CALC)",
+    "value": "FLAT"
+   },
+   {
+    "id": "retailPackageVolume",
+    "name": "Volume",
+    "value": "2091.6 cm³"
+   }
+  ],
+  "brand": {
+   "name": "Logitech",
+   "logo": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/BrandLogo/Logitech.png",
+   "seoPath": "logitech",
+   "sponsoredPageUrl": "https://www.officeworks.com.au/campaigns/brands/logitech#/",
+   "published": true
+  },
+  "breadcrumbs": [
+   {
+    "title": "Technology",
+    "url": "technology"
+   },
+   {
+    "title": "Computer Accessories",
+    "url": "technology/computer-accessories"
+   },
+   {
+    "title": "All Computer Accessories",
+    "url": "technology/computer-accessories/all-computer-accessories"
+   }
+  ],
+  "category": [
+   {
+    "id": "Web_ALL_COMP_ACC",
+    "title": "All Computer Accessories",
+    "url": "technology/computer-accessories/all-computer-accessories"
+   },
+   {
+    "id": "Web_ALL_MICE",
+    "title": "Mice",
+    "url": "technology/computer-accessories/mice"
+   },
+   {
+    "id": "Web_BUSINESS_IT_&_PRINTING_SUPPLIES",
+    "title": "Business IT & Printing Supplies",
+    "url": "workplace-supplies/business-essentials/business-it-printing-supplies"
+   }
+  ],
+  "webHierarchy": "Web Hierarchy/OW Default Web/Technology/Computer Accessories/All Computer Accessories;Web Hierarchy/OW Default Web/Workplace Supplies/Business Essentials/Business IT & Printing Supplies;Web Hierarchy/OW Default Web/Technology/Computer Accessories/Mice",
+  "accessories": [
+   {
+    "sku": "INLOG4459",
+    "name": "Logitech Desk Mat Dark Rose",
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG4459_logitech_desk_mat_dark_rose.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG4459_logitech_desk_mat_dark_rose.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG4459_logitech_desk_mat_dark_rose.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "rangedOnline": true,
+    "productType": "STANDARD",
+    "seoPath": "/shop/officeworks/p/logitech-desk-mat-dark-rose-inlog4459",
+    "category": {
+     "id": "Web_COMPUTER ACCESSORIES_NEW",
+     "webId": "Web_COMPUTER ACCESSORIES_NEW",
+     "name": "Computer Accessories",
+     "seoPath": "technology/computer-accessories",
+     "published": true,
+     "level": 2
+    },
+    "order": "1"
+   },
+   {
+    "sku": "INLOG4460",
+    "name": "Logitech Desk Mat Mid Grey",
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG4460_logitech_desk_mat_mid_grey.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG4460_logitech_desk_mat_mid_grey.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG4460_logitech_desk_mat_mid_grey.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "rangedOnline": true,
+    "productType": "STANDARD",
+    "seoPath": "/shop/officeworks/p/logitech-desk-mat-mid-grey-inlog4460",
+    "category": {
+     "id": "Web_COMPUTER ACCESSORIES_NEW",
+     "webId": "Web_COMPUTER ACCESSORIES_NEW",
+     "name": "Computer Accessories",
+     "seoPath": "technology/computer-accessories",
+     "published": true,
+     "level": 2
+    },
+    "order": "2"
+   },
+   {
+    "sku": "INLOG8144",
+    "name": "Logitech Mouse Pad Blue Grey",
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG8144_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG8144_B_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG8144_C_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG8144_D_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG8144_E_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG8144_F_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG8144_G_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG8144_H_logitech_mouse_pad_blue_grey.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG8144_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG8144_B_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG8144_C_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG8144_D_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG8144_E_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG8144_F_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG8144_G_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG8144_H_logitech_mouse_pad_blue_grey.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG8144_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG8144_B_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG8144_C_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG8144_D_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG8144_E_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG8144_F_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG8144_G_logitech_mouse_pad_blue_grey.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG8144_H_logitech_mouse_pad_blue_grey.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "rangedOnline": true,
+    "productType": "STANDARD",
+    "seoPath": "/shop/officeworks/p/logitech-mouse-pad-blue-grey-inlog8144",
+    "category": {
+     "id": "Web_COMPUTER ACCESSORIES_NEW",
+     "webId": "Web_COMPUTER ACCESSORIES_NEW",
+     "name": "Computer Accessories",
+     "seoPath": "technology/computer-accessories",
+     "published": true,
+     "level": 2
+    },
+    "order": "3"
+   },
+   {
+    "sku": "INLOG8142",
+    "name": "Logitech Mouse Pad Graphite",
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG8142_logitech_mouse_pad_graphite.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG8142_logitech_mouse_pad_graphite.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG8142_logitech_mouse_pad_graphite.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "rangedOnline": true,
+    "productType": "STANDARD",
+    "seoPath": "/shop/officeworks/p/logitech-mouse-pad-graphite-inlog8142",
+    "category": {
+     "id": "Web_COMPUTER ACCESSORIES_NEW",
+     "webId": "Web_COMPUTER ACCESSORIES_NEW",
+     "name": "Computer Accessories",
+     "seoPath": "technology/computer-accessories",
+     "published": true,
+     "level": 2
+    },
+    "order": "4"
+   },
+   {
+    "sku": "INLOG4458",
+    "name": "Logitech Desk Mat Lilac",
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG4458_logitech_desk_mat_lavender.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG4458_logitech_desk_mat_lavender.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG4458_logitech_desk_mat_lavender.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "rangedOnline": true,
+    "productType": "STANDARD",
+    "seoPath": "/shop/officeworks/p/logitech-desk-mat-lilac-inlog4458",
+    "category": {
+     "id": "WEB_GIFTS_HER",
+     "webId": "Web_GIFTS_HER",
+     "name": "Gifts For Her",
+     "seoPath": "gifting/gifts-for-her",
+     "published": true,
+     "level": 2
+    },
+    "order": "5"
+   },
+   {
+    "sku": "INLOG8143",
+    "name": "Logitech Mouse Pad Dark Rose",
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG8143_logitech_mouse_pad_dark_rose.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG8143_logitech_mouse_pad_dark_rose.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG8143_logitech_mouse_pad_dark_rose.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "rangedOnline": true,
+    "productType": "STANDARD",
+    "seoPath": "/shop/officeworks/p/logitech-mouse-pad-dark-rose-inlog8143",
+    "category": {
+     "id": "WEB_GIFTS_HER",
+     "webId": "Web_GIFTS_HER",
+     "name": "Gifts For Her",
+     "seoPath": "gifting/gifts-for-her",
+     "published": true,
+     "level": 2
+    },
+    "order": "6"
+   },
+   {
+    "sku": "3M0412254",
+    "name": "Post-It Tabletop Pad",
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/3M0412254_post_it_tabletop_pad.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/3M0412254_B_post_it_self_stick_table_top_pad_508_x_584_mm.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/3M0412254_C_post_it_self_stick_table_top_pad_508_x_584_mm.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/3M0412254_post_it_tabletop_pad.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/3M0412254_B_post_it_self_stick_table_top_pad_508_x_584_mm.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/3M0412254_C_post_it_self_stick_table_top_pad_508_x_584_mm.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/3M0412254_post_it_tabletop_pad.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/3M0412254_B_post_it_self_stick_table_top_pad_508_x_584_mm.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/3M0412254_C_post_it_self_stick_table_top_pad_508_x_584_mm.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "rangedOnline": true,
+    "productType": "STANDARD",
+    "seoPath": "/shop/officeworks/p/post-it-tabletop-pad-3m0412254",
+    "category": {
+     "id": "WEB_WHITEBOARDS_BOARDS",
+     "webId": "Web_WHITEBOARDS_BOARDS",
+     "name": "Whiteboards & Boards",
+     "seoPath": "office-supplies/whiteboards-boards",
+     "published": true,
+     "level": 2
+    },
+    "order": "7"
+   }
+  ],
+  "description": {
+   "shortDescription": "",
+   "longDescription": "The asymmetric shape of the Logitech M280 Wireless Mouse is designed to keep you comfortable. With curved, soft rubber grips and a wide scrolling wheel, holding and operating the mouse is smooth and easy. Plus, the energy efficient design means that you can go for longer between battery changes."
+  },
+  "descriptionMeta": "Officeworks won't be beaten on Logitech M280 Wireless Mouse Black prices with our Price Beat Guarantee, 2-hour Click & Collect, and fast delivery options.",
+  "family": [
+   {
+    "sku": "LOM280BLK",
+    "seoUrl": "/shop/officeworks/p/logitech-m280-wireless-mouse-black-lom280blk",
+    "identifyingAttributes": {
+     "Colour": "Black"
+    },
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_B_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_C_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_D_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_E.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_F.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_G.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_B_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_C_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_D_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_E.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_F.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_G.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_B_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_C_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_D_logitech_m280_wireless_mouse_black.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_E.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_F.jpg",
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_G.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "thumbnailVariants": [
+     {
+      "variantType": "pack",
+      "url": ""
+     },
+     {
+      "variantType": "colour",
+      "url": ""
+     }
+    ],
+    "defaultValue": true
+   }
+  ],
+  "familyAttrs": {
+   "Colour": [
+    "Black"
+   ]
+  },
+  "ranged": {
+   "inStore": true,
+   "online": true
+  },
+  "rangedOnline": true,
+  "rangedRetail": true,
+  "published": true,
+  "fab": [
+   "The comfortable right handed design has curved, soft rubber grips.",
+   "This mouse has a battery life of up to 24 months and energy saving features such as auto sleep when not in use.",
+   "It comes with a USB Nano receiver for reliable wireless connectivity.",
+   "It's also available in other colours to match your personal style.",
+   "The mouse has a smart, black design."
+  ],
+  "images": {
+   "thumb": [
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_B_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_C_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_D_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_E.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_F.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/LOM280BLK_G.jpg"
+   ],
+   "preview": [
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_B_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_C_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_D_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_E.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_F.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_G.jpg"
+   ],
+   "full": [
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_B_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_C_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_D_logitech_m280_wireless_mouse_black.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_E.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_F.jpg",
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_G.jpg"
+   ],
+   "threeSixty": {
+    "thumb": [],
+    "preview": [],
+    "full": []
+   },
+   "view360": []
+  },
+  "itemsPerUnit": null,
+  "totalUnits": null,
+  "name": "Logitech M280 Wireless Mouse Black",
+  "productOptions": [
+   {
+    "sku": "ECRPLAC50",
+    "type": "Extra Cover Product Link",
+    "name": "Add Extra Cover",
+    "description": "This product is eligible for Extra Cover. Extra Cover provides protection against electrical or mechanical faults for up to 3 years, inclusive of manufacturer’s warranty. Replacement Plans are applicable for products priced below $1000 and approved claims will result in a replacement item or an OW gift card valued up to the original purchase price. Repair Plans are applicable for products above $1000 and approved claims will result in product repairs for up to 3 separate faults. Please consider the<a href=\"https://www.officeworks.com.au/services/extra-cover\">Extra Cover terms and conditions</a> to decide if coverage is right for you.",
+    "productType": "WARRANTY"
+   }
+  ],
+  "ribbon": "",
+  "sku": "LOM280BLK",
+  "specs": [
+   {
+    "group": "General",
+    "attributes": [
+     {
+      "name": "Brand",
+      "value": "Logitech"
+     },
+     {
+      "name": "Manufacturer's Warranty",
+      "value": "12 month"
+     },
+     {
+      "name": "Barcode",
+      "value": "097855107503"
+     },
+     {
+      "name": "Descriptive Colour",
+      "value": "Black"
+     },
+     {
+      "name": "Ergonomic Design",
+      "value": "Yes"
+     },
+     {
+      "name": "Included Accessories",
+      "value": "Nano receiver"
+     },
+     {
+      "name": "Model Number",
+      "value": "M280"
+     },
+     {
+      "name": "Product Dimensions (mm)",
+      "value": "67.89W x 38.39D x 105.35H mm"
+     },
+     {
+      "name": "Product Weight (kg)",
+      "value": "0.91 kg"
+     }
+    ]
+   },
+   {
+    "group": "Compatibility",
+    "attributes": [
+     {
+      "name": "OS Required",
+      "value": "Microsoft Windows 10, Microsoft Windows 8, Microsoft Windows Vista, Microsoft Windows 7, Apple Mac OS X 10.5 or later, Linux kernel 2.6 or later"
+     }
+    ]
+   },
+   {
+    "group": "Connectivity",
+    "attributes": [
+     {
+      "name": "Device Connection",
+      "value": "Wireless"
+     },
+     {
+      "name": "Interface",
+      "value": "2.4 GHz"
+     }
+    ]
+   },
+   {
+    "group": "Manufacturer",
+    "attributes": [
+     {
+      "name": "Country of Manufacture",
+      "value": "China"
+     },
+     {
+      "name": "Part Number",
+      "value": "910-004295"
+     }
+    ]
+   },
+   {
+    "group": "Performance",
+    "attributes": [
+     {
+      "name": "Operating Hand",
+      "value": "Right"
+     }
+    ]
+   },
+   {
+    "group": "Power",
+    "attributes": [
+     {
+      "name": "Number of Batteries Required",
+      "value": "1"
+     },
+     {
+      "name": "Supported Battery Type",
+      "value": "AA"
+     }
+    ]
+   },
+   {
+    "group": "Quantity",
+    "attributes": [
+     {
+      "name": "Units Per Pack/Carton",
+      "value": "1"
+     },
+     {
+      "name": "Pack/Carton Quantity",
+      "value": "1"
+     },
+     {
+      "name": "Total Individual Units",
+      "value": "1"
+     },
+     {
+      "name": "Sellable Unit of Measure",
+      "value": "Single Unit"
+     }
+    ]
+   }
+  ],
+  "seoPath": "/shop/officeworks/p/logitech-m280-wireless-mouse-black-lom280blk",
+  "substitutes": [
+   "LEN300WLBK"
+  ],
+  "review": {
+   "count": "76",
+   "range": "5",
+   "averageRating": "4.2237"
+  },
+  "gtin": "097855107503",
+  "edlpPrice": "35.00",
+  "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/LOM280BLK_logitech_m280_wireless_mouse_black.jpg",
+  "urlKeyword": "logitech-m280-wireless-mouse-black-lom280blk",
+  "fabTexts": {
+   "bottom": "<li>You can purchase Extra Cover for this product which will provide you with an extended warranty. For more information, please click <a href=\"https://www.officeworks.com.au/services/extra-cover\">here</a>.<p> When it's time to replace the batteries in this product, you can<a href=\"https://www.officeworks.com.au/shop/officeworks/c/technology/batteries-power-supplies/batteries\">browse our range</a> to find the right option for your needs.</li>"
+  },
+  "warrantyLogoImage": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/WarrantyLogo/12_month.png",
+  "environmentLogoImages": [],
+  "safetyLogoFabImages": [],
+  "safetyLogoPdpImages": [],
+  "paymentExclusion": [],
+  "deliveryMethodExclusion": [],
+  "preorderProduct": false,
+  "manufacturerPartNumber": "910-004295"
+ },
+ {
+  "productType": "STANDARD",
+  "attachments": {
+   "video": [],
+   "doc": []
+  },
+  "attributes": [
+   {
+    "id": "marketplaceSellerName",
+    "name": "Company Name",
+    "value": "Officeworks"
+   },
+   {
+    "id": "caseQuantity",
+    "name": "Numerator",
+    "value": "20"
+   },
+   {
+    "id": "productType",
+    "name": "Product Type",
+    "value": "STANDARD"
+   },
+   {
+    "id": "marketplaceReturnsPolicy",
+    "name": "Company Returns Policy",
+    "value": "https://www.officeworks.com.au/information/policies/return-policy"
+   },
+   {
+    "id": "colourVariantRender",
+    "name": "Colour Variant Render",
+    "value": "Text"
+   },
+   {
+    "id": "deliveryMinDays",
+    "name": "Minimum Delivery Days",
+    "value": "7"
+   },
+   {
+    "id": "marketplaceSellerURL",
+    "name": "Company Website",
+    "value": "https://www.officeworks.com.au"
+   },
+   {
+    "id": "sellableUnitOfMeasure",
+    "name": "Sellable Unit of Measure",
+    "value": "Single Unit"
+   },
+   {
+    "id": "width",
+    "name": "Product Width (mm)",
+    "value": "700 mm"
+   },
+   {
+    "id": "deliveryMaxDays",
+    "name": "Maximum Delivery Days",
+    "value": "17"
+   },
+   {
+    "id": "unitsPerPack",
+    "name": "Units Per Pack/Carton",
+    "value": "1"
+   },
+   {
+    "id": "weight",
+    "name": "Product Weight (kg)",
+    "value": "0.286 kg"
+   },
+   {
+    "id": "caseGTIN",
+    "name": "GTIN",
+    "value": "10097855171655"
+   },
+   {
+    "id": "expressDeliveryBuffer",
+    "name": "Express Delivery Stock Buffer",
+    "value": "1"
+   },
+   {
+    "id": "manufacturerPartNumber",
+    "name": "Part Number",
+    "value": "956-000045"
+   },
+   {
+    "id": "rangedOnline",
+    "name": "Available Online",
+    "value": "Yes"
+   },
+   {
+    "id": "expressDelivery",
+    "name": "Express Delivery",
+    "value": "Yes"
+   },
+   {
+    "id": "longProductCopy",
+    "name": "Long Product Copy",
+    "value": "This Logitech Desk Mat protects your desk while enhancing the aesthetic of your workspace. Large enough to house your keyboard and mouse, the spill-proof coating withstands accidental mishaps, while the anti-slip base prevents movement on any surface."
+   },
+   {
+    "id": "status",
+    "name": "Status",
+    "value": "Active"
+   },
+   {
+    "id": "rangedRetail",
+    "name": "Available In Store",
+    "value": "Yes"
+   },
+   {
+    "id": "retailPackageWeight",
+    "name": "Gross Weight",
+    "value": "0.37 kg"
+   },
+   {
+    "id": "marketplaceUberBuffer",
+    "name": "Marketplace - Uber Stock Buffer",
+    "value": "1"
+   },
+   {
+    "id": "merchCat",
+    "name": "Merchandise Category",
+    "value": "TECAMOU"
+   },
+   {
+    "id": "priceDroppedType",
+    "name": "Ticket - Ticket Type",
+    "value": "Deals"
+   },
+   {
+    "id": "priceCategory",
+    "name": "Price Category",
+    "value": "Key Value Item"
+   },
+   {
+    "id": "marketplaceKmartCategory",
+    "name": "Marketplace - Kmart Category",
+    "value": "HOME-LIVING-STATIONERY-BOOKS-STATIONERY-SUPPLIES-GENERAL-STATIONERY"
+   },
+   {
+    "id": "erpCreateDate",
+    "name": "Date Created",
+    "value": "2022-02-10"
+   },
+   {
+    "id": "priceDroppedEndDate",
+    "name": "Ticket - End Date",
+    "value": "2026-10-05"
+   },
+   {
+    "id": "priceDroppedStartDate",
+    "name": "Ticket - Start Date",
+    "value": "2026-10-01"
+   },
+   {
+    "id": "loyaltyRedeemableProduct",
+    "name": "Loyalty Awards – Redeemable",
+    "value": "Yes"
+   },
+   {
+    "id": "loyaltyEligibleProduct",
+    "name": "Loyalty Awards – Eligible",
+    "value": "Yes"
+   },
+   {
+    "id": "edlpPrice",
+    "name": "Latest EDLP Sale Price",
+    "value": "39.00"
+   },
+   {
+    "id": "marketplaceUberTop",
+    "name": "Marketplace - Uber Top-Level Category",
+    "value": "Stationery, Art, Education & Office Supplies"
+   },
+   {
+    "id": "retailPackageWidth",
+    "name": "Width",
+    "value": "68 mm"
+   },
+   {
+    "id": "retailPackageHeight",
+    "name": "Height",
+    "value": "67 mm"
+   },
+   {
+    "id": "marketplaceUberSecond",
+    "name": "Marketplace - Uber Second-Level Category",
+    "value": "Desk Organisation & Decor"
+   },
+   {
+    "id": "retailPackageLength",
+    "name": "Length",
+    "value": "338 mm"
+   },
+   {
+    "id": "productGrade",
+    "name": "Product Grade",
+    "value": "A - Extra Extra Small"
+   },
+   {
+    "id": "deliveryMethod",
+    "name": "Delivery Method",
+    "value": "XDock_CFC ASN (Restricted)"
+   },
+   {
+    "id": "gtin",
+    "name": "Barcode",
+    "value": "097855171658"
+   },
+   {
+    "id": "rangedChannel",
+    "name": "OW Ranged",
+    "value": "Both"
+   },
+   {
+    "id": "marketplaceKmartBuffer",
+    "name": "Marketplace - Kmart Stock Buffer",
+    "value": "1"
+   },
+   {
+    "id": "productCode",
+    "name": "OW Product Code",
+    "value": "INLOG4459"
+   },
+   {
+    "id": "gstExempt",
+    "name": "Pricing..GST Exempt",
+    "value": "No"
+   },
+   {
+    "id": "shortProductTitle",
+    "name": "Product description",
+    "value": "Logitech Desk Mat Dark Rose"
+   },
+   {
+    "id": "marketplaceReturnsWindow",
+    "name": "Company Returns Window",
+    "value": "30 days"
+   },
+   {
+    "id": "packQuantity",
+    "name": "Pack/Carton Quantity",
+    "value": "1"
+   },
+   {
+    "id": "height",
+    "name": "Product Height (mm)",
+    "value": "300 mm"
+   },
+   {
+    "id": "depth",
+    "name": "Product Depth (mm)",
+    "value": "2 mm"
+   },
+   {
+    "id": "manufacturer",
+    "name": "Manufacturer",
+    "value": "Logitech (F00223)"
+   },
+   {
+    "id": "salesIncentiveEligible",
+    "name": "Sales Incentive Eligible",
+    "value": "Yes"
+   },
+   {
+    "id": "productMerchHierFolderPath",
+    "name": "MerchHierarchy Folder Path",
+    "value": "Merchandise Hierarchy/Current/TE Computers & Print/TE3 PC Accessories & Storage/TECA Computer Accessories/TECAMOU Mouse & Wrist Pads"
+   },
+   {
+    "id": "marketplaceKmartComplianceFurniture",
+    "name": "Marketplace - Kmart Compliance Furniture (CALC)",
+    "value": "No"
+   },
+   {
+    "id": "marketplaceFABS",
+    "name": "Marketplace - OW Long Copy and FABs (CALC)",
+    "value": "<p>This Logitech Desk Mat protects your desk while enhancing the aesthetic of your workspace. Large enough to house your keyboard and mouse, the spill-proof coating withstands accidental mishaps, while the anti-slip base prevents movement on any surface.</p> <br><b> Features</b> <br><ul><li>This desk mat measures 700 W x 300 D x 300 H mm.<li>It has a comfortable, spill-resistant nylon and polyester surface that features anti-fray stitching.<li>The anti-slip base is made from 72% natural rubber.<li>It has an attractive dark rose design.<li>It comes with a 1 year warranty.</ul> <br>"
+   },
+   {
+    "id": "webProductSeo",
+    "name": "Web Product SEO",
+    "value": "Officeworks won't be beaten on Logitech Desk Mat Dark Rose prices with our Price Beat Guarantee, 2-hour Click & Collect, and fast delivery options."
+   },
+   {
+    "id": "titleLong",
+    "name": "OW Long Product Title",
+    "value": "Logitech Desk Mat Dark Rose"
+   },
+   {
+    "id": "shortProductTitleCalc",
+    "name": "Product description",
+    "value": "Logitech Desk Mat Dark Rose"
+   },
+   {
+    "id": "pphFolderName",
+    "name": "PPH Folder Name",
+    "value": "Mouse and Wrist Pads"
+   },
+   {
+    "id": "marketplaceKmartStockDistribution",
+    "name": "Marketplace - Kmart Stock Distribution (CALC)",
+    "value": "NATIONAL"
+   },
+   {
+    "id": "parentProductId",
+    "name": "Parent Product ID",
+    "value": "Family_1892513"
+   },
+   {
+    "id": "parentProductObj",
+    "name": "Parent Product Object",
+    "value": "Product Family"
+   },
+   {
+    "id": "productWebHierFolderPath",
+    "name": "WebHierarchy Folder Path",
+    "value": "Web Hierarchy/OW Default Web/Technology/Computer Accessories/All Computer Accessories;Web Hierarchy/OW Default Web/Technology/Computer Accessories/Mouse Pads"
+   },
+   {
+    "id": "marketplaceLongProductTitle",
+    "name": "Marketplace - Long Product Title (CALC)",
+    "value": "Logitech Desk Mat Dark Rose"
+   },
+   {
+    "id": "urlKeyword",
+    "name": "Web URL Keyword",
+    "value": "logitech-desk-mat-dark-rose-inlog4459"
+   },
+   {
+    "id": "brandlogo",
+    "name": "Brand Logo",
+    "value": "Logitech.png"
+   },
+   {
+    "id": "marketplaceKmartOnePass",
+    "name": "Marketplace - Kmart OnePass Eligible (CALC)",
+    "value": "Yes"
+   },
+   {
+    "id": "webPageTitle",
+    "name": "Web Page Title",
+    "value": "Logitech Desk Mat Dark Rose | Officeworks"
+   },
+   {
+    "id": "descriptionMeta",
+    "name": "Web Meta Description Calc",
+    "value": "This Logitech Desk Mat protects your desk while enhancing the aesthetic of your workspace. Large enough to house your keyboard and mouse, the spill-proof coating withstands accidental mishaps, while the anti-slip base prevents movement on any surface."
+   },
+   {
+    "id": "brand",
+    "name": "Brand",
+    "value": "Logitech"
+   },
+   {
+    "id": "devicensureEligible",
+    "name": "DevicEnsure Eligible",
+    "value": "No"
+   },
+   {
+    "id": "fabpoint03",
+    "name": "FAB Point",
+    "value": "It has a comfortable, spill-resistant nylon and polyester surface that features anti-fray stitching."
+   },
+   {
+    "id": "fabpoint04",
+    "name": "FAB Point",
+    "value": "The anti-slip base is made from 72% natural rubber."
+   },
+   {
+    "id": "marketplaceOpenAICheckout",
+    "name": "Marketplace - OpenAI Checkout Availability (CALC)",
+    "value": "Yes"
+   },
+   {
+    "id": "marketplaceOpenAISearch",
+    "name": "Marketplace - OpenAI Search Availability (CALC)",
+    "value": "Yes"
+   },
+   {
+    "id": "fabpoint01",
+    "name": "FAB Point",
+    "value": "This desk mat measures 700 W x 300 D x 300 H mm."
+   },
+   {
+    "id": "descriptionLong",
+    "name": "Web Extract Long Marketing Calc",
+    "value": "This Logitech Desk Mat protects your desk while enhancing the aesthetic of your workspace. Large enough to house your keyboard and mouse, the spill-proof coating withstands accidental mishaps, while the anti-slip base prevents movement on any surface."
+   },
+   {
+    "id": "fabhtmlBottom",
+    "name": "FAB Bottom",
+    "value": "<li>Note: Products containing natural rubber latex may cause allergic reactions in some individuals.</li>"
+   },
+   {
+    "id": "marketplaceUber",
+    "name": "Marketplace - Uber Availability (CALC)",
+    "value": "Yes"
+   },
+   {
+    "id": "reservationEligible",
+    "name": "Reservation Eligible",
+    "value": "Yes"
+   },
+   {
+    "id": "fabpoint05",
+    "name": "FAB Point",
+    "value": "It has an attractive dark rose design."
+   },
+   {
+    "id": "fabpoint06",
+    "name": "FAB Point",
+    "value": "It comes with a 1 year warranty."
+   },
+   {
+    "id": "productVolume",
+    "name": "Product Volume (Cubic cm)",
+    "value": "420"
+   },
+   {
+    "id": "productFamilyCode",
+    "name": "Parent Product Family Code / Name",
+    "value": "INLOG44FM - LOGITECH DESK MAT FM"
+   },
+   {
+    "id": "webHierName",
+    "name": "WebHierarchy Folder",
+    "value": "All Computer Accessories, Mouse Pads"
+   },
+   {
+    "id": "colourVariant",
+    "name": "Colour",
+    "value": "Darker Rose"
+   },
+   {
+    "id": "apiModelId",
+    "name": "WEB_ID",
+    "value": "INLOG4459"
+   },
+   {
+    "id": "colour",
+    "name": "Colour",
+    "value": "Pink"
+   },
+   {
+    "id": "totalIndividualUnits",
+    "name": "Total Individual Units",
+    "value": "1"
+   },
+   {
+    "id": "marketplaceKmart",
+    "name": "Marketplace - Kmart Availability (CALC)",
+    "value": "Yes"
+   },
+   {
+    "id": "publishedWeb",
+    "name": "Published Web",
+    "value": "Yes"
+   },
+   {
+    "id": "marketplaceKmartLogisticsClass",
+    "name": "Marketplace - Kmart Logistics Class (CALC)",
+    "value": "FLAT"
+   },
+   {
+    "id": "retailPackageVolume",
+    "name": "Volume",
+    "value": "1539.928 cm³"
+   }
+  ],
+  "brand": {
+   "name": "Logitech",
+   "logo": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/BrandLogo/Logitech.png",
+   "seoPath": "logitech",
+   "sponsoredPageUrl": "https://www.officeworks.com.au/campaigns/brands/logitech#/",
+   "published": true
+  },
+  "breadcrumbs": [
+   {
+    "title": "Technology",
+    "url": "technology"
+   },
+   {
+    "title": "Computer Accessories",
+    "url": "technology/computer-accessories"
+   },
+   {
+    "title": "All Computer Accessories",
+    "url": "technology/computer-accessories/all-computer-accessories"
+   }
+  ],
+  "category": [
+   {
+    "id": "Web_ALL_COMP_ACC",
+    "title": "All Computer Accessories",
+    "url": "technology/computer-accessories/all-computer-accessories"
+   },
+   {
+    "id": "Web_MOUSE_PADS_NEW",
+    "title": "Mouse Pads",
+    "url": "technology/computer-accessories/mouse-pads"
+   }
+  ],
+  "webHierarchy": "Web Hierarchy/OW Default Web/Technology/Computer Accessories/All Computer Accessories;Web Hierarchy/OW Default Web/Technology/Computer Accessories/Mouse Pads",
+  "accessories": [],
+  "description": {
+   "shortDescription": "",
+   "longDescription": "This Logitech Desk Mat protects your desk while enhancing the aesthetic of your workspace. Large enough to house your keyboard and mouse, the spill-proof coating withstands accidental mishaps, while the anti-slip base prevents movement on any surface."
+  },
+  "descriptionMeta": "Officeworks won't be beaten on Logitech Desk Mat Dark Rose prices with our Price Beat Guarantee, 2-hour Click & Collect, and fast delivery options.",
+  "family": [
+   {
+    "sku": "INLOG4458",
+    "seoUrl": "/shop/officeworks/p/logitech-desk-mat-lilac-inlog4458",
+    "identifyingAttributes": {
+     "Colour": "Lavender"
+    },
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG4458_logitech_desk_mat_lavender.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG4458_logitech_desk_mat_lavender.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG4458_logitech_desk_mat_lavender.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "thumbnailVariants": [
+     {
+      "variantType": "pack",
+      "url": ""
+     },
+     {
+      "variantType": "colour",
+      "url": ""
+     }
+    ],
+    "defaultValue": false
+   },
+   {
+    "sku": "INLOG4460",
+    "seoUrl": "/shop/officeworks/p/logitech-desk-mat-mid-grey-inlog4460",
+    "identifyingAttributes": {
+     "Colour": "Grey"
+    },
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG4460_logitech_desk_mat_mid_grey.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG4460_logitech_desk_mat_mid_grey.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG4460_logitech_desk_mat_mid_grey.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "thumbnailVariants": [
+     {
+      "variantType": "pack",
+      "url": ""
+     },
+     {
+      "variantType": "colour",
+      "url": ""
+     }
+    ],
+    "defaultValue": false
+   },
+   {
+    "sku": "INLOG4459",
+    "seoUrl": "/shop/officeworks/p/logitech-desk-mat-dark-rose-inlog4459",
+    "identifyingAttributes": {
+     "Colour": "Darker Rose"
+    },
+    "images": {
+     "thumb": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG4459_logitech_desk_mat_dark_rose.jpg"
+     ],
+     "preview": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG4459_logitech_desk_mat_dark_rose.jpg"
+     ],
+     "full": [
+      "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG4459_logitech_desk_mat_dark_rose.jpg"
+     ],
+     "threeSixty": {
+      "thumb": [],
+      "preview": [],
+      "full": []
+     },
+     "view360": []
+    },
+    "thumbnailVariants": [
+     {
+      "variantType": "pack",
+      "url": ""
+     },
+     {
+      "variantType": "colour",
+      "url": ""
+     }
+    ],
+    "defaultValue": true
+   }
+  ],
+  "familyAttrs": {
+   "Colour": [
+    "Darker Rose",
+    "Grey",
+    "Lavender"
+   ]
+  },
+  "ranged": {
+   "inStore": true,
+   "online": true
+  },
+  "rangedOnline": true,
+  "rangedRetail": true,
+  "published": true,
+  "fab": [
+   "This desk mat measures 700 W x 300 D x 300 H mm.",
+   "It has a comfortable, spill-resistant nylon and polyester surface that features anti-fray stitching.",
+   "The anti-slip base is made from 72% natural rubber.",
+   "It has an attractive dark rose design.",
+   "It comes with a 1 year warranty."
+  ],
+  "images": {
+   "thumb": [
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/INLOG4459_logitech_desk_mat_dark_rose.jpg"
+   ],
+   "preview": [
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/INLOG4459_logitech_desk_mat_dark_rose.jpg"
+   ],
+   "full": [
+    "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG4459_logitech_desk_mat_dark_rose.jpg"
+   ],
+   "threeSixty": {
+    "thumb": [],
+    "preview": [],
+    "full": []
+   },
+   "view360": []
+  },
+  "itemsPerUnit": null,
+  "totalUnits": null,
+  "name": "Logitech Desk Mat Dark Rose",
+  "productOptions": [],
+  "ribbon": "",
+  "sku": "INLOG4459",
+  "specs": [
+   {
+    "group": "General",
+    "attributes": [
+     {
+      "name": "Brand",
+      "value": "Logitech"
+     },
+     {
+      "name": "Barcode",
+      "value": "097855171658"
+     },
+     {
+      "name": "Descriptive Colour",
+      "value": "Darker Rose"
+     },
+     {
+      "name": "Product Dimensions (mm)",
+      "value": "700W x 2D x 300H mm"
+     },
+     {
+      "name": "Product Weight (kg)",
+      "value": "0.286 kg"
+     }
+    ]
+   },
+   {
+    "group": "Base",
+    "attributes": [
+     {
+      "name": "Non-slip Base",
+      "value": "Yes"
+     }
+    ]
+   },
+   {
+    "group": "Manufacturer",
+    "attributes": [
+     {
+      "name": "Country of Manufacture",
+      "value": "China"
+     },
+     {
+      "name": "Part Number",
+      "value": "956-000045"
+     }
+    ]
+   },
+   {
+    "group": "Quantity",
+    "attributes": [
+     {
+      "name": "Units Per Pack/Carton",
+      "value": "1"
+     },
+     {
+      "name": "Pack/Carton Quantity",
+      "value": "1"
+     },
+     {
+      "name": "Total Individual Units",
+      "value": "1"
+     },
+     {
+      "name": "Sellable Unit of Measure",
+      "value": "Single Unit"
+     }
+    ]
+   }
+  ],
+  "seoPath": "/shop/officeworks/p/logitech-desk-mat-dark-rose-inlog4459",
+  "substitutes": [],
+  "review": {
+   "count": "9",
+   "range": "5",
+   "averageRating": "3.8889"
+  },
+  "gtin": "097855171658",
+  "edlpPrice": "39.00",
+  "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/INLOG4459_logitech_desk_mat_dark_rose.jpg",
+  "urlKeyword": "logitech-desk-mat-dark-rose-inlog4459",
+  "fabTexts": {
+   "bottom": "<li>Note: Products containing natural rubber latex may cause allergic reactions in some individuals.</li>"
+  },
+  "environmentLogoImages": [],
+  "safetyLogoFabImages": [],
+  "safetyLogoPdpImages": [],
+  "paymentExclusion": [],
+  "deliveryMethodExclusion": [],
+  "preorderProduct": false,
+  "manufacturerPartNumber": "956-000045"
+ }
+]

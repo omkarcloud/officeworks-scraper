@@ -1,0 +1,2721 @@
+{
+ "Limit": 25,
+ "Offset": 0,
+ "TotalResults": 76,
+ "Locale": "en_US",
+ "Results": [
+  {
+   "Id": "1228590270",
+   "CID": "5e7c0466-04e6-52c0-9695-2445815ddeee",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2026-08-31T01:17:05.000+00:00",
+   "LastModificationTime": "2026-09-03T11:00:33.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nWe apologize for the inconvenience caused with the Logitech M280 Wireless Mouse. Your feedback regarding the incorrect documentation stating Unifying receiver compatibility is noted, and we regret the frustration and mistake this has caused during your purchase.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2026-09-03T11:00:33.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "zefugfqjnhbdfdyc1cndpabxi0",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 1,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": false,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17880921Jalzb8UH3c",
+   "SubmissionTime": "2026-08-30T12:15:07.000+00:00",
+   "ReviewText": "I made a big mistake buying this mouse today.  It is a must-have for me that the mouse be compatible with my Logitech Unifying receiver.  So before going to Officeworks, I checked the Logitech documentation (https://www.logitech.com/assets/64693/2/kaluga-b330-m280m330m320m331.pdf).  It clearly states: \"the mouse itself is Unifying-ready and can be used with any Logitech® Unifying receivers you may already have.\"  Hooray!  Except, the M280 is *not* compatible with Unifying receivers.  The Logitech AI chatbot now gives me this rubbish: \"the sentence you quoted in that combined manual is best understood as an error / over‑generic text that doesn’t match how the M280 actually works in practice.\"",
+   "Title": "Logitech's documentation is catastrophically wrong",
+   "UserNickname": "C_J",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 1,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 1,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "instore",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "BadgesOrder": [],
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1223177145",
+   "CID": "396a0bff-4b72-52c8-a415-bf8df57d4de8",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2026-06-30T02:46:10.000+00:00",
+   "LastModificationTime": "2026-06-30T17:30:42.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThank you for sharing your experience with the Logitech M280 Wireless Mouse. We truly appreciate your feedback and are delighted to know it fits comfortably in your hand and steers beautifully. Your satisfaction means a lot to us!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2026-06-30T17:30:42.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "z9lm49611yk2pkreysuwi9b2kp",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 4,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": true,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17827862i6vjHAUM2N",
+   "SubmissionTime": "2026-06-30T02:24:05.000+00:00",
+   "ReviewText": "fits easily in the hand and \"steers\" beautifully",
+   "Title": "such an improvement",
+   "UserNickname": "Office Lady",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 4,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 4,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1222291188",
+   "CID": "4349dc49-67bf-514b-b53c-218be4827680",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2026-06-18T11:17:42.000+00:00",
+   "LastModificationTime": "2026-06-18T13:00:40.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nWe sincerely appreciate your feedback on the updated Logitech M280 mouse. We apologize for the disappointment caused by the changes in design and materials, and regret that the product did not meet your expectations. Your concerns have been noted and will be shared to help improve future offerings.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2026-06-18T13:00:40.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "1zltpgcei9hi6at7bcom9eysz",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 1,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": false,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17817800sJOvkJu0EB",
+   "SubmissionTime": "2026-06-18T10:53:26.000+00:00",
+   "ReviewText": "The original M280 Logitech mouse was a great mouse - that's why I went to buy it again. BUT THIS IS NOT THE SAME MOUSE. They have removed the rubber grip and it is now just very cheap plastic. Logitech - THIS IS A DISGRACE! Officeworks - you need to give buyers a heads-up that it is no longer the same mouse - it is AWFUL! DO NOT BUY!",
+   "Title": "M280 Mouse no longer great - now AWFUL",
+   "UserNickname": "MRMCD",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 1,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 1,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "instore",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "BadgesOrder": [],
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1218574979",
+   "CID": "91cadcad-a717-5f3f-8368-0a0df44eb713",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2026-04-28T21:17:29.000+00:00",
+   "LastModificationTime": "2026-06-02T09:17:40.000+00:00",
+   "ProductId": "LOM280RED",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Red",
+   "CampaignId": "BV_MOBILE_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThank you for your thoughtful feedback! We’re glad to hear the M280 fits comfortably for small hands and meets your needs without unnecessary extras. Your insight will definitely help other users looking for a simple, reliable mouse.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2026-05-11T14:01:04.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "ziodf7n4qvixqqhb7hargb4pyu",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": true,
+   "Helpfulness": 1.0,
+   "TotalFeedbackCount": 2,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 2,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17774098OmRMO31dGo",
+   "SubmissionTime": "2026-04-28T20:57:13.000+00:00",
+   "ReviewText": "Great for small hands, no fancy functions, which is good for most general users.",
+   "Title": "Great mouse for small hands",
+   "UserNickname": "Starfisher",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "instore",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1216334894",
+   "CID": "35cd3417-7d95-50a4-9b8d-16187c332521",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2026-04-03T09:02:00.000+00:00",
+   "LastModificationTime": "2026-04-09T19:00:35.000+00:00",
+   "ProductId": "LOM280RED",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Red",
+   "CampaignId": "BV_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThanks for your thoughtful review. It’s great to know our product is living up to your expectations. Your support helps us keep delivering quality.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2026-04-09T19:00:35.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "zkupyn6yiqpw0wn9juln85oj95",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": true,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17751252J64W1I2ZRL",
+   "SubmissionTime": "2026-04-02T10:21:30.000+00:00",
+   "ReviewText": "Durable and Accurate. Had this device for over a year and it's been rock solid.",
+   "Title": "Excellent Mouse! No Problems!",
+   "UserNickname": "Blake",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "instore",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1203512051",
+   "CID": "b4a1ac96-87de-57c7-836d-fbaf3811995c",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2025-10-21T06:46:13.000+00:00",
+   "LastModificationTime": "2026-06-18T10:55:52.000+00:00",
+   "ProductId": "LOM280RED",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Red",
+   "CampaignId": "BV_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nWe are very sorry to hear that your new Logitech M280 mouse doesn&#39;t have the unifying feature. Your insights are valuable for us as we continuously strive to improve our offerings.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2025-10-23T15:45:39.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "zt2pedpzncl6rdn7eh0yl81wr6",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Photos": [
+    {
+     "Sizes": {
+      "normal": {
+       "Id": "normal",
+       "Url": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86b2ZmaWNld29ya3MtYXU/991b559e-f82e-5888-8393-a9c079852e24"
+      },
+      "thumbnail": {
+       "Id": "thumbnail",
+       "Url": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86b2ZmaWNld29ya3MtYXU/ecfd0ffe-7ef1-5590-b620-15d255fdbadd"
+      },
+      "large": {
+       "Id": "large",
+       "Url": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86b2ZmaWNld29ya3MtYXU/525adbe1-500b-5694-85ce-e37ec72a833d"
+      }
+     },
+     "Id": "1016872573",
+     "SizesOrder": [
+      "normal",
+      "thumbnail",
+      "large"
+     ],
+     "Caption": null
+    },
+    {
+     "Sizes": {
+      "normal": {
+       "Id": "normal",
+       "Url": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86b2ZmaWNld29ya3MtYXU/1e5bafd7-c808-54b4-8feb-6fe16c1388d6"
+      },
+      "thumbnail": {
+       "Id": "thumbnail",
+       "Url": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86b2ZmaWNld29ya3MtYXU/78f8568f-e531-5775-875c-8ec3df91aaa5"
+      },
+      "large": {
+       "Id": "large",
+       "Url": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86b2ZmaWNld29ya3MtYXU/e78fa30d-001e-5c11-9cba-d740a4e18125"
+      }
+     },
+     "Id": "1016872574",
+     "SizesOrder": [
+      "normal",
+      "thumbnail",
+      "large"
+     ],
+     "Caption": "Power switch moved down, unifying removed"
+    }
+   ],
+   "Rating": 1,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "Helpfulness": 1.0,
+   "TotalFeedbackCount": 1,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 1,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_176099123eP0Zvalw4",
+   "SubmissionTime": "2025-10-20T20:14:15.000+00:00",
+   "ReviewText": "Had M280 for long,love it, so bought again, find new M280 is NOT unifying anymore",
+   "Title": "Current Model is NOT unifying anymore",
+   "UserNickname": "Grace",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 4,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 2,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "AdditionalFieldsOrder": [],
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1193473626",
+   "CID": "e8f0faba-9605-5aba-a460-838daffe7f89",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2025-11-17T10:16:51.000+00:00",
+   "LastModificationTime": "2025-11-17T10:16:52.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_MPS_SSURL",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThat&#39;s great to hear! We&#39;re thrilled that you find the Logitech M280 Wireless Mouse simple to use. We appreciate your positive feedback!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2025-06-26T10:00:06.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "PIE197454973",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "InappropriateFeedbackList": [
+    {
+     "AuthorId": "zeqzpfwkk3r4j53ddg9nagnxix",
+     "SubmissionTime": "2025-11-17T09:45:32.000+00:00"
+    }
+   ],
+   "TotalInappropriateFeedbackCount": 1,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17498588Ms4PzFnrkx",
+   "SubmissionTime": "2025-06-13T23:53:49.000+00:00",
+   "ReviewText": "Simple to use",
+   "Title": "Computer Mouse",
+   "UserNickname": "Dale",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1186249120",
+   "CID": "38c7131f-5010-5d90-a962-60039df0d323",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2025-05-10T11:30:38.000+00:00",
+   "LastModificationTime": "2025-05-12T10:00:06.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nWe&#39;re sorry to hear that the scroll wheel on your Logitech M280 has stopped working, especially with such limited use over the past two years. To address this issue, we recommend reaching out to our social care team via email at socialcare&#64;logitech.com with your <br />- Name: <br />- Email Address:<br />- Country: <br />- Product Name: <br />- Brief description of issue:\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2025-05-12T10:00:06.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "z6qsn4btk9sczqk1y8ad0xfaf0",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Photos": [
+    {
+     "Sizes": {
+      "normal": {
+       "Id": "normal",
+       "Url": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86b2ZmaWNld29ya3MtYXU/321ead35-16a7-526a-87a4-fa375a549cab"
+      },
+      "thumbnail": {
+       "Id": "thumbnail",
+       "Url": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86b2ZmaWNld29ya3MtYXU/04e12d71-adf6-54c8-a3a7-70f6bb0211ec"
+      },
+      "large": {
+       "Id": "large",
+       "Url": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86b2ZmaWNld29ya3MtYXU/1b057d70-90d4-584d-abf3-ce90bc563f46"
+      }
+     },
+     "Id": "1014813689",
+     "SizesOrder": [
+      "normal",
+      "thumbnail",
+      "large"
+     ],
+     "Caption": null
+    }
+   ],
+   "Rating": 2,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17468710aK9TIO3B4g",
+   "SubmissionTime": "2025-05-10T09:57:47.000+00:00",
+   "ReviewText": "I bought it around two years ago, but hardly ever used the scroll wheel. It's already not working properly.",
+   "Title": "the mouse wheel stopped working",
+   "UserNickname": "tomcat",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 3,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 2,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "instore",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1185113389",
+   "CID": "aedd6299-b174-5c67-9b17-56a815701e1b",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2025-04-21T22:45:39.000+00:00",
+   "LastModificationTime": "2025-04-22T10:30:07.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThank you for your positive review of the M280 wireless mouse! We&#39;re glad to hear you find it a good fit for your hand and appreciate the invisible sensor. We note your feedback regarding the lack of side buttons and customization options. We appreciate your willingness to buy it again!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2025-04-22T10:30:07.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "zprjlwv1eur610zdr8acwlhxlz",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17452367IDZz2aZKIn",
+   "SubmissionTime": "2025-04-21T11:59:38.000+00:00",
+   "ReviewText": "Good wireless mouse. It has a invisible censor on the back which is good. Good fitting for hand. No side buttons/customization. Would buy again",
+   "Title": "General review",
+   "UserNickname": "Bobarino",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 4,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 4,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "instore",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1171579342",
+   "CID": "994674cd-6277-5eae-ac84-6c89b29dc49b",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2024-09-20T10:30:42.000+00:00",
+   "LastModificationTime": "2024-09-21T13:15:05.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_MPS_SSURL",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThank you for your wonderful review of the Logitech M280 mouse! We&#39;re thrilled to hear that you appreciate its value, ergonomic design, and overall quality. Your feedback is invaluable to us as we continue to create products that enhance your computing experience.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-09-21T13:15:05.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "PIE111024948",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17267910rSbCZPqzq5",
+   "SubmissionTime": "2024-09-20T00:10:56.000+00:00",
+   "ReviewText": "Great value, ergonomically amazing, excellent choice",
+   "Title": "Love this!",
+   "UserNickname": "DaNo",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1171430624",
+   "CID": "368d9d7b-8226-5d1c-98d2-24077d578e7e",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2024-09-17T11:15:33.000+00:00",
+   "LastModificationTime": "2024-09-18T00:45:12.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_MPS_SSURL",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThank you for taking the time to share your feedback on the Logitech M280 mouse. We&#39;re glad to hear that you find it to be a great item for a reasonable price and that you&#39;re very happy with your purchase.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-09-18T00:45:12.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "PIE110486432",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17265540pcRkMHcfGB",
+   "SubmissionTime": "2024-09-17T06:20:55.000+00:00",
+   "ReviewText": "Great item for a very reasonable cost. Very happy with this purchase.",
+   "Title": "Great item at a great price.",
+   "UserNickname": "BG#79#",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1170171161",
+   "CID": "799fccaa-d8bb-5569-ac65-55dd4bc593e4",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2024-08-31T10:31:17.000+00:00",
+   "LastModificationTime": "2024-09-02T00:45:04.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_MOBILE_RATING_SUMMARY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThank you for your positive review of the Logitech M280 Wireless Mouse! We&#39;re glad to hear that you appreciate its affordability, lightweight design, and full grip comfort.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-09-02T00:45:04.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "zmeg6ymyqo5o9hbhp0aeo6hcaf",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 4,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17250982emnLxRvJD1",
+   "SubmissionTime": "2024-08-31T09:56:58.000+00:00",
+   "ReviewText": "Great and affordable wireless mouse. I bought two. One for the office and one for wfh 👨‍💻.\nIt’s light and allows full grip. Great for those that don’t want to spend too much on a mouse",
+   "Title": "Great and light",
+   "UserNickname": "Palv",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "instore",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1164467979",
+   "CID": "548a40d8-edc7-5da6-a50e-d59fc89b4420",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2024-06-08T01:01:28.000+00:00",
+   "LastModificationTime": "2024-06-10T01:56:30.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_RATING_SUMMARY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nHey! Thanks for letting us know you love the Logitech M280 Wireless Mouse!  The M280 is a popular choice for users who value affordability, reliability, and long battery life.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-06-10T01:56:30.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "AuthorId": "zmpdr2j2lwfl4io80pgvaw60te",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17178065OdkZ319qnz",
+   "SubmissionTime": "2024-06-08T00:29:27.000+00:00",
+   "ReviewText": "Great product. Highly recommend",
+   "Title": "Great product",
+   "UserNickname": "Poor",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1162970946",
+   "CID": "047f3085-1164-5a27-8021-41da0fd60fd1",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2024-05-24T06:18:11.000+00:00",
+   "LastModificationTime": "2024-05-24T06:18:11.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_MPS_SSURL",
+   "AuthorId": "PIE106681163",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 0,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "IsRatingsOnly": true,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_17165310g7kBwT3sWj",
+   "SubmissionTime": "2024-05-24T06:10:19.000+00:00",
+   "UserNickname": null,
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "ClientResponses": [],
+   "AdditionalFieldsOrder": [],
+   "SecondaryRatingsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "ContextDataValues": {},
+   "SecondaryRatings": {},
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "ContextDataValuesOrder": [],
+   "InappropriateFeedbackList": [],
+   "BadgesOrder": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ReviewText": null,
+   "Title": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1149622716",
+   "CID": "09ce4992-5170-51a9-80b0-4f337f4659c3",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2023-11-11T12:46:36.000+00:00",
+   "LastModificationTime": "2024-03-25T05:11:14.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThat&#39;s fantastic feedback on the M280! Glad it&#39;s comfy, portable &amp; fits your bag. We value your feedback on its portability and comfortable design for everyday use.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-03-25T05:11:14.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "UserLocation": "SYDNEY",
+   "AuthorId": "z9mrw5ivvl9z029pycjkxu6vkn",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_16996945M9Vy7cn6XK",
+   "SubmissionTime": "2023-11-11T09:22:59.000+00:00",
+   "ReviewText": "Bought this mouse for everyday use, its really small and easily fits in my laptop bag, haven't had any problems with hand pain or connectivity so highly recommend.",
+   "Title": "Great MOUSE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+   "UserNickname": "davisdyl",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "instore",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "IsRecommended": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1148730942",
+   "CID": "dc75dc0e-50d0-59f2-a153-91c615d29a30",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2023-10-26T10:16:19.000+00:00",
+   "LastModificationTime": "2026-03-28T07:31:42.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThat&#39;s unexpected! In order to help you effectively, please provide your information to our support team via email at socialcare&#64;logitech.com with your <br />- Name: <br />- Email Address:<br />- Country: <br />- Product Name: <br />- Brief description of issue:\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-03-28T03:26:12.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "UserLocation": "butler",
+   "AuthorId": "zlgrkjg2kpcvn711nwsho55mru",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 1,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": false,
+   "Helpfulness": 0.33333298563957214,
+   "TotalFeedbackCount": 6,
+   "TotalNegativeFeedbackCount": 4,
+   "TotalPositiveFeedbackCount": 2,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_16983089srOH5XAOyn",
+   "SubmissionTime": "2023-10-26T08:29:03.000+00:00",
+   "ReviewText": "absolute junk, does not do the job at all. Sometimes works with dark background, sometimes with white background, sometimes with a written background, sometimes just stops working. Have to continually lift the mouse and put it down again to get it to respond. Not worth 4 cents",
+   "Title": "rubbish do not buy",
+   "UserNickname": "johannsnr",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 1,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 1,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "BadgesOrder": [],
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1146317711",
+   "CID": "8a29b9e5-6d2a-5e6d-9018-06950f4cad36",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2023-09-17T02:45:42.000+00:00",
+   "LastModificationTime": "2024-03-25T04:56:02.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "PIE",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nHey! We appreciate you sharing your experience with the M280! It&#39;s fantastic to hear you find it comfortable and the plug-and-play setup made getting back to work a breeze.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-03-25T04:56:02.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "UserLocation": "Queensland",
+   "AuthorId": "6q5a68dz8lnn9t547ce4r34kk",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": true,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_16949132DR8OT63T0e",
+   "SubmissionTime": "2023-09-17T01:14:02.000+00:00",
+   "ReviewText": "Very comfortable to use, and simple plug and play allowed for quick return to work.",
+   "Title": "Good product",
+   "UserNickname": "Ken298",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "BadgesOrder": [],
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1145124856",
+   "CID": "3f02fab9-d83e-5458-8e7c-8e2f50535bdb",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2023-08-23T22:46:04.000+00:00",
+   "LastModificationTime": "2026-03-11T06:34:59.000+00:00",
+   "ProductId": "LOM280RED",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Red",
+   "CampaignId": "BV_RATING_SUMMARY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nThank you for sharing your experience with the Logitech M280 mouse!  We appreciate you mentioning both the impressive battery life and the smooth performance. It sounds like the M280 is a reliable and comfortable companion for your daily tasks.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-03-26T05:26:15.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "UserLocation": "cranbourne",
+   "AuthorId": "h5ocf8wt3c3616ed6cae8q54t",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": true,
+   "Helpfulness": 1.0,
+   "TotalFeedbackCount": 1,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 1,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_16928293SkyQ8gyM8m",
+   "SubmissionTime": "2023-08-23T22:22:45.000+00:00",
+   "ReviewText": "Great purchase, I bought this 9 months ago, still on the same battery it came with. \r\nVery smooth",
+   "Title": "very smooth & responsive",
+   "UserNickname": "Island",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "instore",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1143243956",
+   "CID": "e27c2d55-4351-5fcb-94b9-66e4afc8b218",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2023-07-14T06:00:51.000+00:00",
+   "LastModificationTime": "2023-07-14T06:00:51.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_MPS_SSURL",
+   "AuthorId": "PIE107809053",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 0,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "IsRatingsOnly": true,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_16893143qcSumrLkbJ",
+   "SubmissionTime": "2023-07-14T05:59:02.000+00:00",
+   "UserNickname": null,
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "ClientResponses": [],
+   "AdditionalFieldsOrder": [],
+   "SecondaryRatingsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "ContextDataValues": {},
+   "SecondaryRatings": {},
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "ContextDataValuesOrder": [],
+   "InappropriateFeedbackList": [],
+   "BadgesOrder": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ReviewText": null,
+   "Title": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1141882326",
+   "CID": "1850d6f4-62ae-5bce-90df-6acac18818a0",
+   "SourceClient": "officeworks-au",
+   "Badges": {
+    "RateWinCompetitionOptin_1Yes": {
+     "ContentType": "REVIEW",
+     "Id": "RateWinCompetitionOptin_1Yes",
+     "BadgeType": "Custom"
+    }
+   },
+   "BadgesOrder": [
+    "RateWinCompetitionOptin_1Yes"
+   ],
+   "LastModeratedTime": "2023-06-15T23:16:33.000+00:00",
+   "LastModificationTime": "2024-03-26T06:11:10.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_MPS_SSURL",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nHey, Thanks for the feedback on the M280! We appreciate you confirming it works exactly as described.  Knowing you prefer the USB connection is valuable for us to understand user preferences. Your feedback helps us design products that cater to a wider range of needs.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-03-26T06:11:10.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "UserLocation": "Sydney",
+   "AuthorId": "PIE97116355",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": true,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_16868695wHtNyDnXPL",
+   "SubmissionTime": "2023-06-15T22:52:33.000+00:00",
+   "ReviewText": "Works exactly as described. I like the usb function over bluetooth",
+   "Title": "Works as described",
+   "UserNickname": "Jade",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1136069737",
+   "CID": "da7d5a0c-0b16-50a1-8a8d-481984559d92",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2023-05-05T01:47:15.000+00:00",
+   "LastModificationTime": "2024-03-25T06:40:53.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "PIE",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nWe appreciate you sharing your experience with the M280!  &#39;Lovely and ergonomic&#39; is great to hear.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-03-25T06:40:53.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "UserLocation": "QLD",
+   "AuthorId": "qb6ru8vdon1on554oduqpl6gj",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "InappropriateFeedbackList": [
+    {
+     "AuthorId": "z6g288e50rjbb227b8bimgi264",
+     "SubmissionTime": "2023-05-05T01:23:21.000+00:00"
+    }
+   ],
+   "TotalInappropriateFeedbackCount": 1,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": true,
+   "Helpfulness": 0.5,
+   "TotalFeedbackCount": 2,
+   "TotalNegativeFeedbackCount": 1,
+   "TotalPositiveFeedbackCount": 1,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_167792361RLfhwjVEn",
+   "SubmissionTime": "2023-03-04T09:54:39.000+00:00",
+   "ReviewText": "This is a lovely little mouse, every ergonomic and suits my needs just fine.",
+   "Title": "Great little economical mouse",
+   "UserNickname": "Kaos",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "BadgesOrder": [],
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1135938242",
+   "CID": "adb105d4-1dc2-52ce-9b47-2c0791559561",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2024-05-03T04:01:42.000+00:00",
+   "LastModificationTime": "2026-03-11T06:35:08.000+00:00",
+   "ProductId": "LOM280RED",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Red",
+   "CampaignId": "PIE",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "ClientResponses": [
+    {
+     "Department": "Logitech Team",
+     "Response": "\nHey, We appreciate you sharing your experience with the M280!  &#39;Easy to use&#39; is exactly what we strive for.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/logitech-au.png\" alt=\"logitech-au\" title=\"logitech-au\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+     "ResponseSource": "Review Response",
+     "Date": "2024-03-25T05:26:05.000+00:00",
+     "SourceClientName": null
+    }
+   ],
+   "UserLocation": "Geelong",
+   "AuthorId": "mk6ket7awbc9em2cmnrucbkg3",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "InappropriateFeedbackList": [
+    {
+     "AuthorId": "zqiditf5xfrqwwl6ontfr8yajy",
+     "SubmissionTime": "2024-05-03T03:36:34.000+00:00"
+    }
+   ],
+   "TotalInappropriateFeedbackCount": 1,
+   "TotalClientResponseCount": 1,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": true,
+   "Helpfulness": 1.0,
+   "TotalFeedbackCount": 1,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 1,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_167774971JBfxwjDbu",
+   "SubmissionTime": "2023-03-02T09:36:37.000+00:00",
+   "ReviewText": "This is just easy to use and I wish I had purchased it ages ago",
+   "Title": "Great product",
+   "UserNickname": "niffer@13",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "AdditionalFieldsOrder": [],
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "BadgesOrder": [],
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1130380394",
+   "CID": "60440151-1756-54f7-ba68-8243c5e9636e",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2023-05-05T01:47:15.000+00:00",
+   "LastModificationTime": "2023-12-02T05:15:08.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_REVIEW_DISPLAY",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "UserLocation": "central coast",
+   "AuthorId": "lkhw4eaezyke0e95614taej0l",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "InappropriateFeedbackList": [
+    {
+     "AuthorId": "zqcodwywfklay4y9af2z19sebc",
+     "SubmissionTime": "2023-05-05T01:23:34.000+00:00"
+    }
+   ],
+   "TotalInappropriateFeedbackCount": 1,
+   "TotalClientResponseCount": 0,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": true,
+   "Helpfulness": 0.33333298563957214,
+   "TotalFeedbackCount": 3,
+   "TotalNegativeFeedbackCount": 2,
+   "TotalPositiveFeedbackCount": 1,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_16709176UEnBrtng5V",
+   "SubmissionTime": "2022-12-13T07:47:11.000+00:00",
+   "ReviewText": "Ive had this mouse for a year and it absolutely lasts it feels great and easy to use",
+   "Title": "Best mouse",
+   "UserNickname": "Joel",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 3,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 4,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "instore",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "ClientResponses": [],
+   "AdditionalFieldsOrder": [],
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "BadgesOrder": [],
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1129417128",
+   "CID": "dcfcf27c-5f4b-5dd8-a686-32ccbe1a98f4",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2022-11-28T05:30:46.000+00:00",
+   "LastModificationTime": "2022-11-28T05:30:46.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "PIE",
+   "ContextDataValuesOrder": [
+    "WhereDidYouPurchase"
+   ],
+   "UserLocation": "Mount Martha",
+   "AuthorId": "l31ojl57wjcwifrdjrgiazhb2",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 0,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "SecondaryRatingsOrder": [
+    "Quality",
+    "Value"
+   ],
+   "IsRatingsOnly": false,
+   "IsRecommended": true,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_16696123TPWPjARaE5",
+   "SubmissionTime": "2022-11-28T05:12:11.000+00:00",
+   "ReviewText": "After the Wndows 11 upgrade and many hours of trying to get my Bluetooth (MS) Mouse to connect, I gave up and bought this Logitech mouse plugged it in and it worked immediately.",
+   "Title": "effortless installion and works well",
+   "UserNickname": "Mike M",
+   "SecondaryRatings": {
+    "Value": {
+     "Value": 5,
+     "Id": "Value",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    },
+    "Quality": {
+     "Value": 5,
+     "Id": "Quality",
+     "ValueLabel": null,
+     "ValueRange": 5,
+     "DisplayType": "NORMAL",
+     "Label": null,
+     "MaxLabel": null,
+     "MinLabel": null
+    }
+   },
+   "ContextDataValues": {
+    "WhereDidYouPurchase": {
+     "Value": "online",
+     "Id": "WhereDidYouPurchase"
+    }
+   },
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "ClientResponses": [],
+   "AdditionalFieldsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "InappropriateFeedbackList": [],
+   "BadgesOrder": [],
+   "ProductRecommendationIds": [],
+   "Pros": null
+  },
+  {
+   "Id": "1127380464",
+   "CID": "681d784d-f47f-59ba-8a6d-94f77cefa7d9",
+   "SourceClient": "officeworks-au",
+   "LastModeratedTime": "2022-10-21T05:01:30.000+00:00",
+   "LastModificationTime": "2022-10-21T05:01:30.000+00:00",
+   "ProductId": "LOM280BLK",
+   "OriginalProductName": "Logitech M280 Wireless Mouse Black",
+   "CampaignId": "BV_MPS_SSURL",
+   "AuthorId": "PIE97087065",
+   "ContentLocale": "en_AU",
+   "IsFeatured": false,
+   "TotalInappropriateFeedbackCount": 0,
+   "TotalClientResponseCount": 0,
+   "TotalCommentCount": 0,
+   "Rating": 5,
+   "IsRatingsOnly": true,
+   "TotalFeedbackCount": 0,
+   "TotalNegativeFeedbackCount": 0,
+   "TotalPositiveFeedbackCount": 0,
+   "ModerationStatus": "APPROVED",
+   "SubmissionId": "r211164-en_166632783dGSpr5RZO",
+   "SubmissionTime": "2022-10-21T04:51:01.000+00:00",
+   "UserNickname": null,
+   "CommentIds": [],
+   "Videos": [],
+   "Photos": [],
+   "ClientResponses": [],
+   "AdditionalFieldsOrder": [],
+   "SecondaryRatingsOrder": [],
+   "Helpfulness": null,
+   "IsSyndicated": false,
+   "Badges": {},
+   "AdditionalFields": {},
+   "Cons": null,
+   "ContextDataValues": {},
+   "SecondaryRatings": {},
+   "TagDimensions": {},
+   "RatingRange": 5,
+   "TagDimensionsOrder": [],
+   "ContextDataValuesOrder": [],
+   "InappropriateFeedbackList": [],
+   "BadgesOrder": [],
+   "IsRecommended": null,
+   "UserLocation": null,
+   "ReviewText": null,
+   "Title": null,
+   "ProductRecommendationIds": [],
+   "Pros": null
+  }
+ ],
+ "Includes": {
+  "Products": {
+   "LOM280BLK": {
+    "FamilyIds": [
+     "LOGITECH_M280_WIRELESS_MOUSE"
+    ],
+    "AttributesOrder": [
+     "BV_WB_FAMILY",
+     "AVAILABILITY",
+     "BV_WB_EXPAND",
+     "GTIN14"
+    ],
+    "Attributes": {
+     "BV_WB_FAMILY": {
+      "Id": "BV_WB_FAMILY",
+      "Values": [
+       {
+        "Value": "LOGITECH_M280_WIRELESS_MOUSE",
+        "Locale": null
+       }
+      ]
+     },
+     "AVAILABILITY": {
+      "Id": "AVAILABILITY",
+      "Values": [
+       {
+        "Value": "True",
+        "Locale": null
+       }
+      ]
+     },
+     "BV_WB_EXPAND": {
+      "Id": "BV_WB_EXPAND",
+      "Values": [
+       {
+        "Value": "BV_WB_FAMILY:LOGITECH_M280_WIRELESS_MOUSE",
+        "Locale": null
+       }
+      ]
+     },
+     "GTIN14": {
+      "Id": "GTIN14",
+      "Values": [
+       {
+        "Value": "00097855107503",
+        "Locale": null
+       }
+      ]
+     }
+    },
+    "EANs": [
+     "0097855107503"
+    ],
+    "ManufacturerPartNumbers": [
+     "LOM280BLK"
+    ],
+    "Name": "Logitech M280 Wireless Mouse Black",
+    "ImageUrl": "https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280BLK_logitech_m280_wireless_mouse_black.jpg",
+    "Id": "LOM280BLK",
+    "CategoryId": "All_Computer_Accessories_Web_ALL_COMP_ACC",
+    "BrandExternalId": "Logitech",
+    "Brand": {
+     "Id": "Logitech",
+     "Name": "Logitech"
+    },
+    "Active": true,
+    "ProductPageUrl": "https://www.officeworks.com.au/shop/officeworks/logitech-m280-wireless-mouse-black-lom280blk",
+    "Disabled": false,
+    "StoryIds": [],
+    "QuestionIds": [],
+    "Description": null,
+    "ReviewIds": [],
+    "UPCs": [],
+    "ModelNumbers": [],
+    "ISBNs": [],
+    "ReviewStatistics": {
+     "HelpfulVoteCount": 354,
+     "FirstSubmissionTime": "2016-04-27T06:19:17.000+00:00",
+     "LastSubmissionTime": "2026-08-30T12:15:07.000+00:00",
+     "TotalReviewCount": 76,
+     "RecommendedCount": 43,
+     "RatingsOnlyReviewCount": 8,
+     "AverageOverallRating": 4.223684210526316,
+     "SecondaryRatingsAveragesOrder": [
+      "Quality",
+      "Value"
+     ],
+     "SecondaryRatingsAverages": {
+      "Value": {
+       "Id": "Value",
+       "AverageRating": 4.230769230769231,
+       "DisplayType": "NORMAL",
+       "ValueRange": 5,
+       "MinLabel": null,
+       "MaxLabel": null
+      },
+      "Quality": {
+       "Id": "Quality",
+       "AverageRating": 4.09375,
+       "DisplayType": "NORMAL",
+       "ValueRange": 5,
+       "MinLabel": null,
+       "MaxLabel": null
+      }
+     },
+     "RatingDistribution": [
+      {
+       "RatingValue": 5,
+       "Count": 56
+      },
+      {
+       "RatingValue": 1,
+       "Count": 10
+      },
+      {
+       "RatingValue": 4,
+       "Count": 5
+      },
+      {
+       "RatingValue": 2,
+       "Count": 4
+      },
+      {
+       "RatingValue": 3,
+       "Count": 1
+      }
+     ],
+     "NotRecommendedCount": 12,
+     "TotalPhotoCount": 4,
+     "ContextDataDistributionOrder": [
+      "WhereDidYouPurchase",
+      "ReadReviews",
+      "RateWinCompetitionOptin_1",
+      "staff",
+      "Employee"
+     ],
+     "ContextDataDistribution": {
+      "WhereDidYouPurchase": {
+       "Id": "WhereDidYouPurchase",
+       "Values": [
+        {
+         "Count": 30,
+         "Value": "online"
+        },
+        {
+         "Count": 34,
+         "Value": "instore"
+        }
+       ]
+      },
+      "ReadReviews": {
+       "Id": "ReadReviews",
+       "Values": [
+        {
+         "Count": 33,
+         "Value": "Yes"
+        },
+        {
+         "Count": 31,
+         "Value": "No"
+        }
+       ]
+      },
+      "RateWinCompetitionOptin_1": {
+       "Id": "RateWinCompetitionOptin_1",
+       "Values": [
+        {
+         "Count": 14,
+         "Value": "Yes"
+        },
+        {
+         "Count": 2,
+         "Value": "No"
+        }
+       ]
+      },
+      "staff": {
+       "Id": "staff",
+       "Values": [
+        {
+         "Count": 1,
+         "Value": "yes"
+        }
+       ]
+      },
+      "Employee": {
+       "Id": "Employee",
+       "Values": [
+        {
+         "Count": 1,
+         "Value": "ID_no"
+        }
+       ]
+      }
+     },
+     "FeaturedReviewCount": 0,
+     "TotalVideoCount": 0,
+     "NotHelpfulVoteCount": 101,
+     "TotalMediaCount": 4,
+     "TagDistributionOrder": [],
+     "OverallRatingRange": 5,
+     "TagDistribution": {},
+     "IntelligentTrustMarkDisplayEligible": true
+    },
+    "TotalReviewCount": 76
+   },
+   "LOM280RED": {
+    "FamilyIds": [
+     "LOGITECH_M280_WIRELESS_MOUSE"
+    ],
+    "AttributesOrder": [
+     "BV_WB_FAMILY",
+     "AVAILABILITY",
+     "BV_WB_EXPAND",
+     "GTIN14"
+    ],
+    "Attributes": {
+     "BV_WB_FAMILY": {
+      "Id": "BV_WB_FAMILY",
+      "Values": [
+       {
+        "Value": "LOGITECH_M280_WIRELESS_MOUSE",
+        "Locale": null
+       }
+      ]
+     },
+     "AVAILABILITY": {
+      "Id": "AVAILABILITY",
+      "Values": [
+       {
+        "Value": "True",
+        "Locale": null
+       }
+      ]
+     },
+     "BV_WB_EXPAND": {
+      "Id": "BV_WB_EXPAND",
+      "Values": [
+       {
+        "Value": "BV_WB_FAMILY:LOGITECH_M280_WIRELESS_MOUSE",
+        "Locale": null
+       }
+      ]
+     },
+     "GTIN14": {
+      "Id": "GTIN14",
+      "Values": [
+       {
+        "Value": "00097855107510",
+        "Locale": null
+       }
+      ]
+     }
+    },
+    "EANs": [
+     "0097855107510"
+    ],
+    "ManufacturerPartNumbers": [
+     "LOM280RED"
+    ],
+    "Name": "Logitech M280 Wireless Mouse Red",
+    "ImageUrl": "https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOM280RED_logitech_m280_wireless_mouse_red.jpg",
+    "Id": "LOM280RED",
+    "CategoryId": "All_Computer_Accessories_Web_ALL_COMP_ACC",
+    "BrandExternalId": "Logitech",
+    "Brand": {
+     "Id": "Logitech",
+     "Name": "Logitech"
+    },
+    "Active": false,
+    "Disabled": false,
+    "StoryIds": [],
+    "ProductPageUrl": null,
+    "QuestionIds": [],
+    "Description": null,
+    "ReviewIds": [],
+    "UPCs": [],
+    "ModelNumbers": [],
+    "ISBNs": [],
+    "ReviewStatistics": {
+     "RecommendedCount": 43,
+     "TotalReviewCount": 76,
+     "RatingDistribution": [
+      {
+       "RatingValue": 5,
+       "Count": 56
+      },
+      {
+       "RatingValue": 1,
+       "Count": 10
+      },
+      {
+       "RatingValue": 4,
+       "Count": 5
+      },
+      {
+       "RatingValue": 2,
+       "Count": 4
+      },
+      {
+       "RatingValue": 3,
+       "Count": 1
+      }
+     ],
+     "NotRecommendedCount": 12,
+     "RatingsOnlyReviewCount": 8,
+     "HelpfulVoteCount": 354,
+     "SecondaryRatingsAveragesOrder": [
+      "Quality",
+      "Value"
+     ],
+     "SecondaryRatingsAverages": {
+      "Value": {
+       "Id": "Value",
+       "AverageRating": 4.230769230769231,
+       "DisplayType": "NORMAL",
+       "ValueRange": 5,
+       "MinLabel": null,
+       "MaxLabel": null
+      },
+      "Quality": {
+       "Id": "Quality",
+       "AverageRating": 4.09375,
+       "DisplayType": "NORMAL",
+       "ValueRange": 5,
+       "MinLabel": null,
+       "MaxLabel": null
+      }
+     },
+     "AverageOverallRating": 4.223684210526316,
+     "ContextDataDistributionOrder": [
+      "WhereDidYouPurchase",
+      "ReadReviews",
+      "RateWinCompetitionOptin_1",
+      "staff",
+      "Employee"
+     ],
+     "ContextDataDistribution": {
+      "WhereDidYouPurchase": {
+       "Id": "WhereDidYouPurchase",
+       "Values": [
+        {
+         "Count": 30,
+         "Value": "online"
+        },
+        {
+         "Count": 34,
+         "Value": "instore"
+        }
+       ]
+      },
+      "ReadReviews": {
+       "Id": "ReadReviews",
+       "Values": [
+        {
+         "Count": 33,
+         "Value": "Yes"
+        },
+        {
+         "Count": 31,
+         "Value": "No"
+        }
+       ]
+      },
+      "RateWinCompetitionOptin_1": {
+       "Id": "RateWinCompetitionOptin_1",
+       "Values": [
+        {
+         "Count": 14,
+         "Value": "Yes"
+        },
+        {
+         "Count": 2,
+         "Value": "No"
+        }
+       ]
+      },
+      "staff": {
+       "Id": "staff",
+       "Values": [
+        {
+         "Count": 1,
+         "Value": "yes"
+        }
+       ]
+      },
+      "Employee": {
+       "Id": "Employee",
+       "Values": [
+        {
+         "Count": 1,
+         "Value": "ID_no"
+        }
+       ]
+      }
+     },
+     "TotalPhotoCount": 4,
+     "NotHelpfulVoteCount": 101,
+     "FirstSubmissionTime": "2016-04-27T06:19:17.000+00:00",
+     "LastSubmissionTime": "2026-08-30T12:15:07.000+00:00",
+     "TotalVideoCount": 0,
+     "FeaturedReviewCount": 0,
+     "TotalMediaCount": 4,
+     "TagDistributionOrder": [],
+     "OverallRatingRange": 5,
+     "TagDistribution": {},
+     "IntelligentTrustMarkDisplayEligible": true
+    },
+    "TotalReviewCount": 76
+   }
+  },
+  "ProductsOrder": [
+   "LOM280BLK",
+   "LOM280RED"
+  ]
+ },
+ "HasErrors": false,
+ "Errors": []
+}

@@ -1,0 +1,4235 @@
+{
+ "results": [
+  {
+   "hits": [
+    {
+     "sku": "M2P4M515B",
+     "name": "MacBook Pro 14\" M5 10/10 Core CPU/GPU 16/512GB Black",
+     "brand": "Apple",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD"
+     ],
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "Yes",
+     "videoResolution": "WQXGA+",
+     "processorClockSpeed": [
+      "120 GHz"
+     ],
+     "processorManufacturer": "Apple",
+     "processorType": [
+      "Apple M5 Chip"
+     ],
+     "operatingSystemEdition": "macOS Sequoia",
+     "displaySize": "14.2 in",
+     "colour": "Black",
+     "numberOfProcessorCores": "10-Core",
+     "primaryCameraVideo": [
+      "1080p HD"
+     ],
+     "storageHDCapacity": "512 GB",
+     "refreshRate": "120 Hz",
+     "displayResolution": "3024 x 1964",
+     "bluetoothCompatibility": "Bluetooth 5.3",
+     "touchScreen": "No",
+     "runTimeHours": "24 hours",
+     "powerBatteryTechnology": "Lithium-polymer",
+     "configurableType": null,
+     "price": 234700,
+     "categories": [
+      "Technology",
+      "Laptops",
+      "MacBooks",
+      "All MacBooks",
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "MacBooks",
+      "MacBook Pro",
+      "Technology",
+      "Laptops",
+      "All Laptops"
+     ],
+     "categoriesLeafToRoot": [
+      "All MacBooks",
+      "MacBooks",
+      "Laptops",
+      "Technology",
+      "Clearance",
+      "MacBook Pro",
+      "MacBooks",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "MacBooks",
+      "MacBooks",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "All MacBooks",
+      "Clearance",
+      "MacBook Pro",
+      "All Laptops"
+     ],
+     "categorySeoPaths": [
+      "technology/laptops/macbooks/all-macbooks",
+      "clearance",
+      "technology/laptops/macbooks/macbook-pro",
+      "technology/laptops/all-laptops"
+     ],
+     "catPaths": [
+      "technology",
+      "laptops",
+      "macbooks",
+      "all-macbooks",
+      "clearance",
+      "technology",
+      "laptops",
+      "macbooks",
+      "macbook-pro",
+      "technology",
+      "laptops",
+      "all-laptops"
+     ],
+     "leafCatPath": [
+      "all-macbooks",
+      "clearance",
+      "macbook-pro",
+      "all-laptops"
+     ],
+     "up1CatPath": [
+      "macbooks",
+      null,
+      "macbooks",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/M2P4M515B_macbook_pro_14_m5_10_10_core_cpu_gpu_16_512gb_black.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "macbook pro m4",
+     "dinkusNew": false,
+     "erpCreateDate": 1760572800000,
+     "gtin": "195950489163",
+     "manufacturerPartNumber": "MDE04X-A",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE2 Displays & MAC/TECM Mac Computing/TECMPRO MacBook Pro",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Laptops/MacBooks/MacBook Pro;Web Hierarchy/OW Default Web/Technology/Laptops/MacBooks/All MacBooks;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance",
+     "urlKeyword": "macbook-pro-14-m5-10-10-core-cpu-gpu-16-512gb-black-m2p4m515b",
+     "status": "De-ranging - Replen from DC",
+     "unitsPerPack": 1,
+     "merchCat": "TECMPRO",
+     "preOrderStart": "2025-10-16 10:30:00",
+     "productLaunchStart": "2025-10-22 08:00:00",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/macbook-pro-14-m5-10-10-core-cpu-gpu-16-512gb-black-m2p4m515b",
+     "substitutes": [
+      "M2P4M51TB"
+     ],
+     "productRankBusiness": 3,
+     "productRankPersonal": 1,
+     "availState": [],
+     "availability": [],
+     "rating": 50,
+     "reviewCount": 1,
+     "objectID": "M2P4M515B",
+     "_highlightResult": {
+      "name": {
+       "value": "MacBook Pro 14\" M5 10/10 Core CPU/GPU 16/512GB Black",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LE83NN0063",
+     "name": "Lenovo Legion Pro 5 Core i7 24GB/1TB RTX5060 Gaming Laptop",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "PrimHier_300385"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD"
+     ],
+     "numberOfUsb32Ports": 3,
+     "ramInstalledSize": [
+      "24 GB"
+     ],
+     "aIEnabled": "Yes",
+     "graphicsCardSeries": "Nvidia RTX 5060",
+     "videoResolution": "WQXGA",
+     "secondaryProcessorType": [
+      "Core i7"
+     ],
+     "processorClockSpeed": [
+      "3.7 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core i7"
+     ],
+     "copilotButton": "Yes",
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "16 in",
+     "colour": "Black",
+     "portsTotalNumberOfNetworkingPorts": 1,
+     "copilotPc": "Yes",
+     "numberOfProcessorCores": "16-Core",
+     "primaryCameraVideo": [
+      "1080p FHD"
+     ],
+     "storageHDCapacity": "1 TB",
+     "refreshRate": "240 Hz",
+     "displayResolution": "2560 x 1600",
+     "bluetoothCompatibility": "Bluetooth 5.4",
+     "runTimeHours": "7.1 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 199600,
+     "categories": [
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "All Gaming Laptops",
+      "Clearance",
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "Lenovo Gaming Laptops",
+      "Technology",
+      "Laptops",
+      "Power Gaming"
+     ],
+     "categoriesLeafToRoot": [
+      "All Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "Clearance",
+      "Lenovo Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "Power Gaming",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Gaming Laptops",
+      "Gaming Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "All Gaming Laptops",
+      "Clearance",
+      "Lenovo Gaming Laptops",
+      "Power Gaming"
+     ],
+     "categorySeoPaths": [
+      "technology/gaming/gaming-laptops/all-gaming-laptops",
+      "clearance",
+      "technology/gaming/gaming-laptops/lenovo-gaming-laptops",
+      "technology/laptops/power-gaming"
+     ],
+     "catPaths": [
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "all-gaming-laptops",
+      "clearance",
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "lenovo-gaming-laptops",
+      "technology",
+      "laptops",
+      "power-gaming"
+     ],
+     "leafCatPath": [
+      "all-gaming-laptops",
+      "clearance",
+      "lenovo-gaming-laptops",
+      "power-gaming"
+     ],
+     "up1CatPath": [
+      "gaming-laptops",
+      null,
+      "gaming-laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LE83NN0063_.jpg",
+     "clearanceOnline": true,
+     "dinkusNew": false,
+     "erpCreateDate": 1768348800000,
+     "gtin": "199273539499",
+     "manufacturerPartNumber": "83NN0063AU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCGIN Gaming Intel Laptops",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/All Gaming Laptops;Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/Lenovo Gaming Laptops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/Power Gaming",
+     "urlKeyword": "lenovo-legion-pro-5-core-i7-24gb-1tb-rtx5060-gaming-laptop-le83nn0063",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCGIN",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-legion-pro-5-core-i7-24gb-1tb-rtx5060-gaming-laptop-le83nn0063",
+     "productRankBusiness": 6,
+     "productRankPersonal": 2,
+     "availState": [],
+     "availability": [
+      "W615",
+      "W936"
+     ],
+     "rating": 50,
+     "reviewCount": 3,
+     "objectID": "LE83NN0063",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo Legion Pro 5 Core i7 24GB/1TB RTX5060 Gaming Laptop",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "APWATSR42",
+     "name": "Apple Watch S10 GPS 46mm Jet Black Al Case/Sport Band M/L",
+     "brand": "Apple",
+     "published": true,
+     "pphCategoryId": [
+      "105679"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "operatingPlatformCompatibility": [
+      "iOS"
+     ],
+     "deviceConnectivityTechnology": [
+      "Bluetooth",
+      "Wireless"
+     ],
+     "performanceHealthMonitoringFunctions": [
+      "Activity time",
+      "Blood Oxygen",
+      "Blood pressure",
+      "Body mass index",
+      "Body temperature",
+      "Cycle Tracking with retrospective ovulation estimates",
+      "Distance covered",
+      "ECG app",
+      "Energy consumed",
+      "Energy expended",
+      "Heart Rate",
+      "High-and low-heart-rate notifications",
+      "Irregular rhythm notifications",
+      "Low cardio fitness notifications",
+      "Mental wellbeing",
+      "Pedometer",
+      "Sleep quality",
+      "Weight"
+     ],
+     "colour": "Black",
+     "protection": [
+      "Dust-resistant",
+      "Water-resistant"
+     ],
+     "broadbandGen": "WiFi",
+     "bluetoothCompatibility": "Bluetooth 5.3",
+     "configurableType": null,
+     "price": 9700,
+     "categories": [
+      "Technology",
+      "Smart Watches",
+      "Apple Watch",
+      "All Apple Watches",
+      "Technology",
+      "Smart Watches",
+      "Apple Watch",
+      "Apple Watch Series 10",
+      "Technology",
+      "Smart Watches",
+      "All Smart Watches",
+      "Technology",
+      "Fitness Trackers & Wearables",
+      "All Wearables",
+      "Clearance"
+     ],
+     "categoriesLeafToRoot": [
+      "All Apple Watches",
+      "Apple Watch",
+      "Smart Watches",
+      "Technology",
+      "Apple Watch Series 10",
+      "Apple Watch",
+      "Smart Watches",
+      "Technology",
+      "All Smart Watches",
+      "Smart Watches",
+      "Technology",
+      "All Wearables",
+      "Fitness Trackers & Wearables",
+      "Technology",
+      "Clearance"
+     ],
+     "up1Category": [
+      "Apple Watch",
+      "Apple Watch",
+      "Smart Watches",
+      "Fitness Trackers & Wearables"
+     ],
+     "leafCategory": [
+      "All Apple Watches",
+      "Apple Watch Series 10",
+      "All Smart Watches",
+      "All Wearables",
+      "Clearance"
+     ],
+     "categorySeoPaths": [
+      "technology/smart-watches/apple-watch/all-apple-watches",
+      "technology/health-technology/smart-watches/apple-watch/all-apple-watches",
+      "technology/smart-watches/apple-watch/apple-watch-series-10",
+      "technology/health-technology/smart-watches/apple-watch/apple-watch-series-10",
+      "technology/smart-watches/all-smart-watches",
+      "technology/health-technology/smart-watches/all-smart-watches",
+      "technology/fitness-trackers-wearables/all-wearables",
+      "technology/health-technology/fitness-trackers-wearables/all-wearables",
+      "clearance"
+     ],
+     "catPaths": [
+      "technology",
+      "smart-watches",
+      "apple-watch",
+      "all-apple-watches",
+      "technology",
+      "smart-watches",
+      "apple-watch",
+      "apple-watch-series-10",
+      "technology",
+      "smart-watches",
+      "all-smart-watches",
+      "technology",
+      "fitness-trackers-wearables",
+      "all-wearables",
+      "clearance"
+     ],
+     "leafCatPath": [
+      "all-apple-watches",
+      "apple-watch-series-10",
+      "all-smart-watches",
+      "all-wearables",
+      "clearance"
+     ],
+     "up1CatPath": [
+      "apple-watch",
+      "apple-watch",
+      "smart-watches",
+      "fitness-trackers-wearables",
+      null
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/APWATSR42_apple_watch_s10_gps_46mm_jet_black_al_case_sport_band_m_l.jpg",
+     "clearanceOnline": true,
+     "dinkusNew": false,
+     "erpCreateDate": 1725926400000,
+     "gtin": "195949572432",
+     "manufacturerPartNumber": "MWWQ3ZP-A",
+     "maxOrderQty": "3",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TM Mobiles & Connect/TM4 Smart Tech, Apple Watch, & Health Tech/TMAW Apple Watch/TMAWS10 Apple Watch Series 10",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Smart Watches/Apple Watch/All Apple Watches;Web Hierarchy/OW Default Web/Technology/Fitness Trackers & Wearables/All Wearables;Web Hierarchy/OW Default Web/Technology/Smart Watches/All Smart Watches;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Smart Watches/Apple Watch/Apple Watch Series 10",
+     "urlKeyword": "apple-watch-s10-gps-46mm-jet-black-al-case-sport-band-m-l-apwatsr42",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TMAWS10",
+     "preOrderStart": "2024-09-10 16:25:00",
+     "productLaunchStart": "2024-09-20 08:00:00",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/apple-watch-s10-gps-46mm-jet-black-al-case-sport-band-m-l-apwatsr42",
+     "productRankBusiness": 51,
+     "productRankPersonal": 2,
+     "availState": [],
+     "availability": [],
+     "rating": 50,
+     "reviewCount": 1,
+     "objectID": "APWATSR42",
+     "_highlightResult": {
+      "name": {
+       "value": "Apple Watch S10 GPS 46mm Jet Black Al Case/Sport Band M/L",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "KI91700",
+     "name": "Viva Multi-Purpose Paper Towels 8 Pack",
+     "brand": "Kleenex",
+     "published": true,
+     "pphCategoryId": [
+      "6665"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "australianMade": "Yes",
+     "colour": "White",
+     "configurableType": null,
+     "price": 600,
+     "categories": [
+      "Clearance",
+      "Workplace Supplies",
+      "Catering Supplies & Kitchenware",
+      "Kitchen Roll & Paper Towels"
+     ],
+     "categoriesLeafToRoot": [
+      "Clearance",
+      "Kitchen Roll & Paper Towels",
+      "Catering Supplies & Kitchenware",
+      "Workplace Supplies"
+     ],
+     "up1Category": [
+      "Catering Supplies & Kitchenware"
+     ],
+     "leafCategory": [
+      "Clearance",
+      "Kitchen Roll & Paper Towels"
+     ],
+     "categorySeoPaths": [
+      "clearance",
+      "workplace-supplies/catering-supplies-kitchenware/kitchen-roll-paper-towels"
+     ],
+     "catPaths": [
+      "clearance",
+      "workplace-supplies",
+      "catering-supplies-kitchenware",
+      "kitchen-roll-paper-towels"
+     ],
+     "leafCatPath": [
+      "clearance",
+      "kitchen-roll-paper-towels"
+     ],
+     "up1CatPath": [
+      null,
+      "catering-supplies-kitchenware"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/KI91700_.jpg",
+     "clearanceOnline": true,
+     "dinkusNew": false,
+     "erpCreateDate": 1780012800000,
+     "gtin": "9310088016345",
+     "manufacturerPartNumber": "91700",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/OS Stationery, Art, Education & OS/OS7 Facilities & Workplace Essentials/OSFC Facilities/OSFCKIT Kitchen Roll",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Workplace Supplies/Catering Supplies & Kitchenware/Kitchen Roll & Paper Towels;Web Hierarchy/OW Default Web/Clearance",
+     "urlKeyword": "viva-multi-purpose-paper-towels-8-pack-ki91700",
+     "status": "De-ranging - Replen from DC",
+     "unitsPerPack": 8,
+     "merchCat": "OSFCKIT",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/viva-multi-purpose-paper-towels-8-pack-ki91700",
+     "substitutes": [
+      "KI91697"
+     ],
+     "productRankBusiness": 13,
+     "productRankPersonal": 2,
+     "availState": [],
+     "availability": [
+      "W619",
+      "W624",
+      "W628",
+      "W961",
+      "W406",
+      "W410",
+      "W211",
+      "W214",
+      "W215",
+      "W218",
+      "W224",
+      "W261",
+      "W270",
+      "W318",
+      "W319",
+      "W332",
+      "W345",
+      "W351",
+      "W931"
+     ],
+     "rating": 49,
+     "reviewCount": 8,
+     "objectID": "KI91700",
+     "_highlightResult": {
+      "name": {
+       "value": "Viva Multi-Purpose Paper Towels 8 Pack",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LE83JQ000E",
+     "name": "Lenovo 14 Yoga 7i 2-in-1 Copilot+ PC Core Ultra 7 32GB/1TB",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD M.2 2242 PCIe® 4.0x4 NVMe®"
+     ],
+     "numberOfUsb32Ports": 1,
+     "ramInstalledSize": [
+      "32 GB"
+     ],
+     "aIEnabled": "Yes",
+     "graphicsCardSeries": "Intel Arc Graphics",
+     "maxProcessorClockSpeed": "4.8 GHz",
+     "videoResolution": "WQXGA+",
+     "processorClockSpeed": [
+      "2.2 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core Ultra 7"
+     ],
+     "copilotButton": "Yes",
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "14 in",
+     "colour": "Grey",
+     "copilotPc": "Yes",
+     "numberOfProcessorCores": "Octa-Core",
+     "primaryCameraVideo": [
+      "1080p FHD"
+     ],
+     "storageHDCapacity": "1 TB",
+     "refreshRate": "120 Hz",
+     "displayResolution": "2880 x 1800",
+     "bluetoothCompatibility": "Bluetooth 5.4",
+     "touchScreen": "Yes",
+     "runTimeHours": "24 hours",
+     "powerBatteryTechnology": "Lithium-polymer",
+     "configurableType": null,
+     "price": 199700,
+     "categories": [
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "2 in 1 Laptops",
+      "Technology",
+      "Laptops",
+      "Copilot+ PCs",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Technology",
+      "Laptops",
+      "Premium Performance"
+     ],
+     "categoriesLeafToRoot": [
+      "Clearance",
+      "2 in 1 Laptops",
+      "Laptops",
+      "Technology",
+      "Copilot+ PCs",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "Premium Performance",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "Clearance",
+      "2 in 1 Laptops",
+      "Copilot+ PCs",
+      "All Laptops",
+      "Premium Performance"
+     ],
+     "categorySeoPaths": [
+      "clearance",
+      "technology/laptops/2-in-1-laptops",
+      "technology/laptops/copilotplus--pcs",
+      "technology/laptops/all-laptops",
+      "technology/laptops/premium-performance"
+     ],
+     "catPaths": [
+      "clearance",
+      "technology",
+      "laptops",
+      "2-in-1-laptops",
+      "technology",
+      "laptops",
+      "copilotplus--pcs",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "technology",
+      "laptops",
+      "premium-performance"
+     ],
+     "leafCatPath": [
+      "clearance",
+      "2-in-1-laptops",
+      "copilotplus--pcs",
+      "all-laptops",
+      "premium-performance"
+     ],
+     "up1CatPath": [
+      null,
+      "laptops",
+      "laptops",
+      "laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LE83JQ000E_.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1744675200000,
+     "gtin": "198155826290",
+     "manufacturerPartNumber": "83JQ000EAU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCCU7 Convertibles Core Ultra 7",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Laptops/Copilot+ PCs;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/2 in 1 Laptops;Web Hierarchy/OW Default Web/Technology/Laptops/Premium Performance",
+     "urlKeyword": "lenovo-14-yoga-7i-2-in-1-copilot-pc-core-ultra-7-32gb-1tb-le83jq000e",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCCU7",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-14-yoga-7i-2-in-1-copilot-pc-core-ultra-7-32gb-1tb-le83jq000e",
+     "substitutes": [
+      "HPCF6S6PA"
+     ],
+     "productRankBusiness": 1,
+     "productRankPersonal": 2,
+     "availState": [],
+     "availability": [
+      "W305",
+      "W936"
+     ],
+     "rating": 36,
+     "reviewCount": 11,
+     "objectID": "LE83JQ000E",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo 14 Yoga 7i 2-in-1 Copilot+ PC Core Ultra 7 32GB/1TB",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "ASVBQD076W",
+     "name": "ASUS 14” Vivobook S14 OLED Core Ultra 7 32GB/1TB Copilot+ PC",
+     "brand": "ASUS",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "M.2 NVMe PICe 4.0 SSD"
+     ],
+     "numberOfUsb32Ports": 2,
+     "ramInstalledSize": [
+      "32 GB"
+     ],
+     "aIEnabled": "Yes",
+     "maxProcessorClockSpeed": "4.8 GHz",
+     "videoResolution": "WUXGA",
+     "processorClockSpeed": [
+      "2.2 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core Ultra 7"
+     ],
+     "operatingSystemEdition": "Windows 11",
+     "displaySize": "14 in",
+     "colour": "Black",
+     "numberOfProcessorCores": "Octa-Core",
+     "primaryCameraVideo": [
+      "1080p FHD"
+     ],
+     "storageHDCapacity": "1 TB",
+     "refreshRate": "60 Hz",
+     "displayResolution": "1920 x 1200",
+     "dinkusBYOD": "Yes",
+     "bluetoothCompatibility": "Bluetooth 5.4",
+     "runTimeHours": "27 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 189700,
+     "categories": [
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "Copilot+ PCs",
+      "Technology",
+      "Laptops",
+      "Everyday Productivity",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Technology",
+      "Laptops",
+      "OLED Laptops",
+      "Technology",
+      "Recommended School Tech"
+     ],
+     "categoriesLeafToRoot": [
+      "Clearance",
+      "Copilot+ PCs",
+      "Laptops",
+      "Technology",
+      "Everyday Productivity",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "OLED Laptops",
+      "Laptops",
+      "Technology",
+      "Recommended School Tech",
+      "Technology"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Laptops",
+      "Laptops",
+      "Technology"
+     ],
+     "leafCategory": [
+      "Clearance",
+      "Copilot+ PCs",
+      "Everyday Productivity",
+      "All Laptops",
+      "OLED Laptops",
+      "Recommended School Tech"
+     ],
+     "categorySeoPaths": [
+      "clearance",
+      "technology/laptops/copilotplus--pcs",
+      "technology/laptops/everyday-productivity",
+      "technology/laptops/all-laptops",
+      "technology/laptops/oled-laptops",
+      "technology/recommended-school-tech"
+     ],
+     "catPaths": [
+      "clearance",
+      "technology",
+      "laptops",
+      "copilotplus--pcs",
+      "technology",
+      "laptops",
+      "everyday-productivity",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "technology",
+      "laptops",
+      "oled-laptops",
+      "technology",
+      "recommended-school-tech"
+     ],
+     "leafCatPath": [
+      "clearance",
+      "copilotplus--pcs",
+      "everyday-productivity",
+      "all-laptops",
+      "oled-laptops",
+      "recommended-school-tech"
+     ],
+     "up1CatPath": [
+      null,
+      "laptops",
+      "laptops",
+      "laptops",
+      "laptops",
+      "technology"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ASVBQD076W_asus_14_vivobook_s14_oled_core_ultra_7_32gb_1tb_copilot_pc.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "back to school, byod",
+     "dinkusNew": false,
+     "erpCreateDate": 1755043200000,
+     "gtin": "4711636204347",
+     "manufacturerPartNumber": "S5406SA-QD076W",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCLU7 Laptops Core Ultra 7",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Laptops/Copilot+ PCs;Web Hierarchy/OW Default Web/Technology/Recommended School Tech;Web Hierarchy/OW Default Web/Technology/Laptops/Everyday Productivity;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/OLED Laptops",
+     "urlKeyword": "asus-14-vivobook-s14-oled-core-ultra-7-32gb-1tb-copilot-pc-asvbqd076w",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCLU7",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/asus-14-vivobook-s14-oled-core-ultra-7-32gb-1tb-copilot-pc-asvbqd076w",
+     "substitutes": [
+      "ASVBQD030W"
+     ],
+     "productRankBusiness": 7,
+     "productRankPersonal": 3,
+     "availState": [],
+     "availability": [
+      "W202",
+      "W354",
+      "W936"
+     ],
+     "rating": 48,
+     "reviewCount": 4,
+     "objectID": "ASVBQD076W",
+     "_highlightResult": {
+      "name": {
+       "value": "ASUS 14” Vivobook S14 OLED Core Ultra 7 32GB/1TB Copilot+ PC",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LEF0HM00FM",
+     "name": "Lenovo All-in-One 27\" QHD Touchscreen Core i9 32GB/1TB",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "6557"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD M.2 2280 PCIe® 4.0x4 NVMe®"
+     ],
+     "numberOfUsb32Ports": 1,
+     "ramInstalledSize": [
+      "32 GB"
+     ],
+     "aIEnabled": "N/A",
+     "graphicsCardSeries": "Intel Iris Xe",
+     "maxProcessorClockSpeed": "5.4 GHz",
+     "processorClockSpeed": [
+      "4.1 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core i9"
+     ],
+     "numberOfUsb20Ports": 2,
+     "operatingSystemEdition": "Windows 11 Home",
+     "chassisType": "All-in-one",
+     "displaySize": "27 in",
+     "colour": "Grey",
+     "numberOfProcessorCores": "14-Core",
+     "storageHDCapacity": "1 TB",
+     "displayResolution": "2560 x 1440",
+     "bluetoothCompatibility": "Bluetooth 5.2",
+     "touchScreen": "Yes",
+     "configurableType": null,
+     "price": 169700,
+     "categories": [
+      "Technology",
+      "Desktops",
+      "All Desktops",
+      "Clearance",
+      "Technology",
+      "Desktops",
+      "All-in-One PC"
+     ],
+     "categoriesLeafToRoot": [
+      "All Desktops",
+      "Desktops",
+      "Technology",
+      "Clearance",
+      "All-in-One PC",
+      "Desktops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Desktops",
+      "Desktops"
+     ],
+     "leafCategory": [
+      "All Desktops",
+      "Clearance",
+      "All-in-One PC"
+     ],
+     "categorySeoPaths": [
+      "technology/desktops/all-desktops",
+      "clearance",
+      "technology/desktops/all-in-one-pc"
+     ],
+     "catPaths": [
+      "technology",
+      "desktops",
+      "all-desktops",
+      "clearance",
+      "technology",
+      "desktops",
+      "all-in-one-pc"
+     ],
+     "leafCatPath": [
+      "all-desktops",
+      "clearance",
+      "all-in-one-pc"
+     ],
+     "up1CatPath": [
+      "desktops",
+      null,
+      "desktops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LEF0HM00FM_.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1729728000000,
+     "gtin": "198154985226",
+     "manufacturerPartNumber": "F0HM00FMAU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEDT Desktop Computing/TEDTAIN Intel All in One",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Desktops/All Desktops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Desktops/All-in-One PC",
+     "urlKeyword": "lenovo-all-in-one-27-qhd-touchscreen-core-i9-32gb-1tb-lef0hm00fm",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEDTAIN",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-all-in-one-27-qhd-touchscreen-core-i9-32gb-1tb-lef0hm00fm",
+     "substitutes": [
+      "LEF0HM00HX"
+     ],
+     "productRankBusiness": 4,
+     "productRankPersonal": 3,
+     "availState": [],
+     "availability": [
+      "W703",
+      "W426",
+      "W936"
+     ],
+     "rating": 45,
+     "reviewCount": 6,
+     "objectID": "LEF0HM00FM",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo All-in-One 27\" QHD Touchscreen Core i9 32GB/1TB",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "DY496119",
+     "name": "Dyson Cyclone V10 Cordless Stick Vacuum Purple",
+     "brand": "Dyson",
+     "published": true,
+     "pphCategoryId": [
+      "6630"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "colour": "Purple",
+     "powerPowerType": [
+      "Battery"
+     ],
+     "runTimeHours": "1 hours",
+     "configurableType": null,
+     "price": 41900,
+     "categories": [
+      "Technology",
+      "Appliances",
+      "All Appliances",
+      "Workplace Supplies",
+      "Cleaning Supplies",
+      "Cleaning Equipment",
+      "Cleaning Appliances",
+      "Clearance",
+      "Technology",
+      "Appliances",
+      "Dyson Vacuum Cleaners",
+      "Technology",
+      "Appliances",
+      "Vacuum Cleaners"
+     ],
+     "categoriesLeafToRoot": [
+      "All Appliances",
+      "Appliances",
+      "Technology",
+      "Cleaning Appliances",
+      "Cleaning Equipment",
+      "Cleaning Supplies",
+      "Workplace Supplies",
+      "Clearance",
+      "Dyson Vacuum Cleaners",
+      "Appliances",
+      "Technology",
+      "Vacuum Cleaners",
+      "Appliances",
+      "Technology"
+     ],
+     "up1Category": [
+      "Appliances",
+      "Cleaning Equipment",
+      "Appliances",
+      "Appliances"
+     ],
+     "leafCategory": [
+      "All Appliances",
+      "Cleaning Appliances",
+      "Clearance",
+      "Dyson Vacuum Cleaners",
+      "Vacuum Cleaners"
+     ],
+     "categorySeoPaths": [
+      "technology/appliances/all-appliances",
+      "workplace-supplies/appliances/all-appliances",
+      "workplace-supplies/cleaning-supplies/cleaning-equipment/cleaning-appliances",
+      "clearance",
+      "technology/appliances/dyson-vacuum-cleaners",
+      "workplace-supplies/appliances/dyson-vacuum-cleaners",
+      "technology/appliances/vacuum-cleaners",
+      "workplace-supplies/appliances/vacuum-cleaners"
+     ],
+     "catPaths": [
+      "technology",
+      "appliances",
+      "all-appliances",
+      "workplace-supplies",
+      "cleaning-supplies",
+      "cleaning-equipment",
+      "cleaning-appliances",
+      "clearance",
+      "technology",
+      "appliances",
+      "dyson-vacuum-cleaners",
+      "technology",
+      "appliances",
+      "vacuum-cleaners"
+     ],
+     "leafCatPath": [
+      "all-appliances",
+      "cleaning-appliances",
+      "clearance",
+      "dyson-vacuum-cleaners",
+      "vacuum-cleaners"
+     ],
+     "up1CatPath": [
+      "appliances",
+      "cleaning-equipment",
+      null,
+      "appliances",
+      "appliances"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/DY496119_dyson_cyclone_v10_cordless_stick_vacuum_purple.jpg",
+     "clearanceOnline": true,
+     "dinkusNew": false,
+     "erpCreateDate": 1750291200000,
+     "gtin": "5025155116371",
+     "manufacturerPartNumber": "496119-01",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/OS Stationery, Art, Education & OS/OS7 Facilities & Workplace Essentials/OSAP Appliances/OSAPAPP Cleaning Appliances",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Appliances/All Appliances;Web Hierarchy/OW Default Web/Technology/Appliances/Vacuum Cleaners;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Appliances/Dyson Vacuum Cleaners;Web Hierarchy/OW Default Web/Workplace Supplies/Cleaning Supplies/Cleaning Equipment/Cleaning Appliances",
+     "urlKeyword": "dyson-cyclone-v10-cordless-stick-vacuum-purple-dy496119",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "OSAPAPP",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/dyson-cyclone-v10-cordless-stick-vacuum-purple-dy496119",
+     "substitutes": [
+      "LE2066F"
+     ],
+     "productRankBusiness": 10,
+     "productRankPersonal": 3,
+     "availState": [],
+     "availability": [
+      "W354",
+      "W218",
+      "W257",
+      "W936"
+     ],
+     "rating": 45,
+     "reviewCount": 287,
+     "objectID": "DY496119",
+     "_highlightResult": {
+      "name": {
+       "value": "Dyson Cyclone V10 Cordless Stick Vacuum Purple",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LE83DJ000A",
+     "name": "Lenovo 14 Yoga 7 2-in-1 Laptop Core Ultra 7 16GB/1TB",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD M.2 2242 PCIe® 4.0x4 NVMe®"
+     ],
+     "numberOfUsb32Ports": 1,
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "Yes",
+     "graphicsCardSeries": "Intel Arc Graphics",
+     "videoResolution": "WUXGA",
+     "processorClockSpeed": [
+      "4.8 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core Ultra 7"
+     ],
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "14 in",
+     "colour": "Grey",
+     "numberOfProcessorCores": "16-Core",
+     "primaryCameraVideo": [
+      "1080p FHD"
+     ],
+     "storageHDCapacity": "1 TB",
+     "refreshRate": "60 Hz",
+     "displayResolution": "1920 x 1200",
+     "bluetoothCompatibility": "Bluetooth 5.3",
+     "touchScreen": "Yes",
+     "runTimeHours": "22.5 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 129700,
+     "categories": [
+      "Technology",
+      "Laptops",
+      "AI PCs",
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "2 in 1 Laptops",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Technology",
+      "Laptops",
+      "Premium Performance"
+     ],
+     "categoriesLeafToRoot": [
+      "AI PCs",
+      "Laptops",
+      "Technology",
+      "Clearance",
+      "2 in 1 Laptops",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "Premium Performance",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "AI PCs",
+      "Clearance",
+      "2 in 1 Laptops",
+      "All Laptops",
+      "Premium Performance"
+     ],
+     "categorySeoPaths": [
+      "technology/laptops/ai-pcs",
+      "clearance",
+      "technology/laptops/2-in-1-laptops",
+      "technology/laptops/all-laptops",
+      "technology/laptops/premium-performance"
+     ],
+     "catPaths": [
+      "technology",
+      "laptops",
+      "ai-pcs",
+      "clearance",
+      "technology",
+      "laptops",
+      "2-in-1-laptops",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "technology",
+      "laptops",
+      "premium-performance"
+     ],
+     "leafCatPath": [
+      "ai-pcs",
+      "clearance",
+      "2-in-1-laptops",
+      "all-laptops",
+      "premium-performance"
+     ],
+     "up1CatPath": [
+      "laptops",
+      null,
+      "laptops",
+      "laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LE83DJ000A_.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1742428800000,
+     "gtin": "197531544599",
+     "manufacturerPartNumber": "83DJ000AAU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCCU7 Convertibles Core Ultra 7",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Technology/Laptops/AI PCs;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/2 in 1 Laptops;Web Hierarchy/OW Default Web/Technology/Laptops/Premium Performance",
+     "urlKeyword": "lenovo-14-yoga-7-2-in-1-laptop-core-ultra-7-16gb-1tb-le83dj000a",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCCU7",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-14-yoga-7-2-in-1-laptop-core-ultra-7-16gb-1tb-le83dj000a",
+     "substitutes": [
+      "LE83JQ000E",
+      "ACDSTSA002"
+     ],
+     "productRankBusiness": 5,
+     "productRankPersonal": 3,
+     "availState": [],
+     "availability": [
+      "W998",
+      "W936"
+     ],
+     "rating": 40,
+     "reviewCount": 4,
+     "objectID": "LE83DJ000A",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo 14 Yoga 7 2-in-1 Laptop Core Ultra 7 16GB/1TB",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LENIF0JQAU",
+     "name": "Lenovo 14\" IdeaPad Flex 5 Ryzen 7 16/512GB 2 in 1 Laptop",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD"
+     ],
+     "numberOfUsb32Ports": 2,
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "No",
+     "maxProcessorClockSpeed": "4.5 GHz",
+     "numberOfUsb30Ports": 0,
+     "videoResolution": "WUXGA",
+     "processorClockSpeed": [
+      "2.0 GHz"
+     ],
+     "processorManufacturer": "AMD",
+     "processorType": [
+      "Ryzen 7"
+     ],
+     "numberOfUsb20Ports": 0,
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "14 in",
+     "colour": "Grey",
+     "portsTotalNumberOfNetworkingPorts": 0,
+     "numberOfProcessorCores": "Octa-Core",
+     "primaryCameraVideo": [
+      "720p HD"
+     ],
+     "numberOfUsb31Ports": 0,
+     "storageHDCapacity": "512 GB",
+     "refreshRate": "60 Hz",
+     "displayResolution": "1920 x 1200",
+     "bluetoothCompatibility": "Bluetooth 5.3",
+     "touchScreen": "Yes",
+     "runTimeHours": "10 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 109700,
+     "categories": [
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "2 in 1 Laptops",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Education",
+      "School Tech Essentials"
+     ],
+     "categoriesLeafToRoot": [
+      "Clearance",
+      "2 in 1 Laptops",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "School Tech Essentials",
+      "Education"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Education"
+     ],
+     "leafCategory": [
+      "Clearance",
+      "2 in 1 Laptops",
+      "All Laptops",
+      "School Tech Essentials"
+     ],
+     "categorySeoPaths": [
+      "clearance",
+      "technology/laptops/2-in-1-laptops",
+      "technology/laptops/all-laptops",
+      "education/school-tech-essentials"
+     ],
+     "catPaths": [
+      "clearance",
+      "technology",
+      "laptops",
+      "2-in-1-laptops",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "education",
+      "school-tech-essentials"
+     ],
+     "leafCatPath": [
+      "clearance",
+      "2-in-1-laptops",
+      "all-laptops",
+      "school-tech-essentials"
+     ],
+     "up1CatPath": [
+      null,
+      "laptops",
+      "laptops",
+      "education"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LENIF0JQAU_lenovo_ideapad_flex_5_ryzen_7_16_512gb_laptop.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1756944000000,
+     "gtin": "199271703267",
+     "manufacturerPartNumber": "82XX00JQAU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCCAM Convertibles AMD",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Education/School Tech Essentials;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/2 in 1 Laptops",
+     "urlKeyword": "lenovo-14-ideapad-flex-5-ryzen-7-16-512gb-2-in-1-laptop-lenif0jqau",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCCAM",
+     "preOrderStart": "2025-09-05 17:00:00",
+     "productLaunchStart": "2025-09-25 00:00:00",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-14-ideapad-flex-5-ryzen-7-16-512gb-2-in-1-laptop-lenif0jqau",
+     "substitutes": [
+      "LEXX00JNAU"
+     ],
+     "productRankBusiness": 4,
+     "productRankPersonal": 3,
+     "availState": [],
+     "availability": [
+      "W511",
+      "W514",
+      "W703",
+      "W601",
+      "W604",
+      "W608",
+      "W609",
+      "W614",
+      "W623",
+      "W624",
+      "W401",
+      "W413",
+      "W415",
+      "W416",
+      "W422",
+      "W426",
+      "W427",
+      "W433",
+      "W434",
+      "W435",
+      "W437",
+      "W444",
+      "W304",
+      "W312",
+      "W320",
+      "W321",
+      "W327",
+      "W333",
+      "W337",
+      "W341",
+      "W347",
+      "W349",
+      "W350",
+      "W351",
+      "W352",
+      "W354",
+      "W355",
+      "W359",
+      "W360",
+      "W367",
+      "W370",
+      "W204",
+      "W205",
+      "W211",
+      "W214",
+      "W216",
+      "W226",
+      "W249",
+      "W250",
+      "W253",
+      "W257",
+      "W270",
+      "W274",
+      "W275",
+      "W277",
+      "W279",
+      "W936"
+     ],
+     "rating": 37,
+     "reviewCount": 3,
+     "objectID": "LENIF0JQAU",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo 14\" IdeaPad Flex 5 Ryzen 7 16/512GB 2 in 1 Laptop",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LEKX0009AU",
+     "name": "Lenovo 14\" IdeaPad 5 Core i7 16/512GB 2 in 1 Laptop",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD"
+     ],
+     "numberOfUsb32Ports": 2,
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "No",
+     "graphicsCardSeries": "Intel UHD",
+     "maxProcessorClockSpeed": "4.9 GHz",
+     "videoResolution": "WUXGA",
+     "processorClockSpeed": [
+      "2.4 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core i7"
+     ],
+     "copilotButton": "No",
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "14 in",
+     "colour": "Grey",
+     "copilotPc": "No",
+     "numberOfProcessorCores": "10-Core",
+     "primaryCameraVideo": [
+      "1080p FHD"
+     ],
+     "storageHDCapacity": "512 GB",
+     "refreshRate": "60 Hz",
+     "displayResolution": "1920 x 1200",
+     "bluetoothCompatibility": "Bluetooth 5.2",
+     "touchScreen": "Yes",
+     "runTimeHours": "17.42 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 134700,
+     "categories": [
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "2 in 1 Laptops",
+      "Technology",
+      "Laptops",
+      "Everyday Productivity",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Technology",
+      "Laptops",
+      "OLED Laptops"
+     ],
+     "categoriesLeafToRoot": [
+      "Clearance",
+      "2 in 1 Laptops",
+      "Laptops",
+      "Technology",
+      "Everyday Productivity",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "OLED Laptops",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "Clearance",
+      "2 in 1 Laptops",
+      "Everyday Productivity",
+      "All Laptops",
+      "OLED Laptops"
+     ],
+     "categorySeoPaths": [
+      "clearance",
+      "technology/laptops/2-in-1-laptops",
+      "technology/laptops/everyday-productivity",
+      "technology/laptops/all-laptops",
+      "technology/laptops/oled-laptops"
+     ],
+     "catPaths": [
+      "clearance",
+      "technology",
+      "laptops",
+      "2-in-1-laptops",
+      "technology",
+      "laptops",
+      "everyday-productivity",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "technology",
+      "laptops",
+      "oled-laptops"
+     ],
+     "leafCatPath": [
+      "clearance",
+      "2-in-1-laptops",
+      "everyday-productivity",
+      "all-laptops",
+      "oled-laptops"
+     ],
+     "up1CatPath": [
+      null,
+      "laptops",
+      "laptops",
+      "laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LEKX0009AU_lenovo_14_ideapad_5_core_i7_16_512gb_2_in_1_laptop.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1758758400000,
+     "gtin": "198153910021",
+     "manufacturerPartNumber": "83KX0009AU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCCI7 Convertibles Ci7",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Laptops/Everyday Productivity;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/2 in 1 Laptops;Web Hierarchy/OW Default Web/Technology/Laptops/OLED Laptops",
+     "urlKeyword": "lenovo-14-ideapad-5-core-i7-16-512gb-2-in-1-laptop-lekx0009au",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCCI7",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-14-ideapad-5-core-i7-16-512gb-2-in-1-laptop-lekx0009au",
+     "substitutes": [
+      "LENIF0JQAU"
+     ],
+     "productRankBusiness": 3,
+     "productRankPersonal": 3,
+     "availState": [
+      "NT",
+      "TAS",
+      "WA"
+     ],
+     "availability": [
+      "NT",
+      "TAS",
+      "WA",
+      "W506",
+      "W508",
+      "W701",
+      "W703",
+      "W801",
+      "W601",
+      "W602",
+      "W607",
+      "W608",
+      "W614",
+      "W619",
+      "W620",
+      "W621",
+      "W622",
+      "W624",
+      "W962",
+      "W407",
+      "W408",
+      "W430",
+      "W431",
+      "W435",
+      "W441",
+      "W205",
+      "W206",
+      "W210",
+      "W212",
+      "W229",
+      "W244",
+      "W277",
+      "W279",
+      "W302",
+      "W304",
+      "W305",
+      "W313",
+      "W315",
+      "W320",
+      "W329",
+      "W332",
+      "W341",
+      "W354",
+      "W355",
+      "W359",
+      "W360",
+      "W365",
+      "W370",
+      "W373",
+      "W936"
+     ],
+     "rating": 37,
+     "reviewCount": 3,
+     "objectID": "LEKX0009AU",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo 14\" IdeaPad 5 Core i7 16/512GB 2 in 1 Laptop",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "HPFC0430AU",
+     "name": "HP 15.6\" Ryzen 7 16/512GB Laptop",
+     "brand": "HP",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD PCIe® NVMe™ M.2"
+     ],
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "No",
+     "graphicsCardSeries": "AMD Radeon",
+     "numberOfUsb30Ports": 2,
+     "videoResolution": "FHD",
+     "processorClockSpeed": [
+      "4.5 GHz"
+     ],
+     "processorManufacturer": "AMD",
+     "processorType": [
+      "Ryzen 7"
+     ],
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "15.6 in",
+     "colour": "Black",
+     "numberOfProcessorCores": "Octa-Core",
+     "primaryCameraVideo": [
+      "720p HD"
+     ],
+     "storageHDCapacity": "512 GB",
+     "refreshRate": "65 Hz",
+     "displayResolution": "1920 x 1080",
+     "bluetoothCompatibility": "Bluetooth 5.4",
+     "runTimeHours": "8 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 79600,
+     "categories": [
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "Everyday Productivity",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Education",
+      "School Tech Essentials"
+     ],
+     "categoriesLeafToRoot": [
+      "Clearance",
+      "Everyday Productivity",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "School Tech Essentials",
+      "Education"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Education"
+     ],
+     "leafCategory": [
+      "Clearance",
+      "Everyday Productivity",
+      "All Laptops",
+      "School Tech Essentials"
+     ],
+     "categorySeoPaths": [
+      "clearance",
+      "technology/laptops/everyday-productivity",
+      "technology/laptops/all-laptops",
+      "education/school-tech-essentials"
+     ],
+     "catPaths": [
+      "clearance",
+      "technology",
+      "laptops",
+      "everyday-productivity",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "education",
+      "school-tech-essentials"
+     ],
+     "leafCatPath": [
+      "clearance",
+      "everyday-productivity",
+      "all-laptops",
+      "school-tech-essentials"
+     ],
+     "up1CatPath": [
+      null,
+      "laptops",
+      "laptops",
+      "education"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/HPFC0430AU_hp_15_6_ryzen_7_16_512gb_laptop.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Windows Laptop, Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1748304000000,
+     "gtin": "199251146305",
+     "manufacturerPartNumber": "BJ2F8PA",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCLAM Laptops AMD",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Education/School Tech Essentials;Web Hierarchy/OW Default Web/Technology/Laptops/Everyday Productivity;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance",
+     "urlKeyword": "hp-15-6-ryzen-7-16-512gb-laptop-hpfc0430au",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCLAM",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/hp-15-6-ryzen-7-16-512gb-laptop-hpfc0430au",
+     "substitutes": [
+      "HPFD2067TU"
+     ],
+     "productRankBusiness": 7,
+     "productRankPersonal": 3,
+     "availState": [],
+     "availability": [],
+     "rating": 37,
+     "reviewCount": 25,
+     "objectID": "HPFC0430AU",
+     "_highlightResult": {
+      "name": {
+       "value": "HP 15.6\" Ryzen 7 16/512GB Laptop",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LE83K1001F",
+     "name": "Lenovo 15.3\" IdeaPad Slim 3 Core i5 16/512GB Laptop",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD M.2 2242 PCIe® 4.0x4 NVMe®"
+     ],
+     "numberOfUsb32Ports": 3,
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "No",
+     "graphicsCardSeries": "Intel UHD",
+     "maxProcessorClockSpeed": "4.6 GHz",
+     "videoResolution": "WUXGA",
+     "processorClockSpeed": [
+      "2.1 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core i5"
+     ],
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "15.3 in",
+     "colour": "Grey",
+     "copilotPc": "No",
+     "numberOfProcessorCores": "Octa-Core",
+     "primaryCameraVideo": [
+      "720p HD"
+     ],
+     "storageHDCapacity": "512 GB",
+     "refreshRate": "60 Hz",
+     "displayResolution": "1920 x 1200",
+     "bluetoothCompatibility": "Bluetooth 5.2",
+     "touchScreen": "No",
+     "runTimeHours": "14.5 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 89700,
+     "categories": [
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "Everyday Productivity",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Education",
+      "School Tech Essentials"
+     ],
+     "categoriesLeafToRoot": [
+      "Clearance",
+      "Everyday Productivity",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "School Tech Essentials",
+      "Education"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Education"
+     ],
+     "leafCategory": [
+      "Clearance",
+      "Everyday Productivity",
+      "All Laptops",
+      "School Tech Essentials"
+     ],
+     "categorySeoPaths": [
+      "clearance",
+      "technology/laptops/everyday-productivity",
+      "technology/laptops/all-laptops",
+      "education/school-tech-essentials"
+     ],
+     "catPaths": [
+      "clearance",
+      "technology",
+      "laptops",
+      "everyday-productivity",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "education",
+      "school-tech-essentials"
+     ],
+     "leafCatPath": [
+      "clearance",
+      "everyday-productivity",
+      "all-laptops",
+      "school-tech-essentials"
+     ],
+     "up1CatPath": [
+      null,
+      "laptops",
+      "laptops",
+      "education"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LE83K1001F_.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1738540800000,
+     "gtin": "198155493461",
+     "manufacturerPartNumber": "83K1001FAU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCLI5 Laptops Ci5",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Education/School Tech Essentials;Web Hierarchy/OW Default Web/Technology/Laptops/Everyday Productivity;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance",
+     "urlKeyword": "lenovo-15-3-ideapad-slim-3-core-i5-16-512gb-laptop-le83k1001f",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCLI5",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-15-3-ideapad-slim-3-core-i5-16-512gb-laptop-le83k1001f",
+     "substitutes": [
+      "ACASJRR001"
+     ],
+     "productRankBusiness": 6,
+     "productRankPersonal": 3,
+     "availState": [],
+     "availability": [
+      "W936",
+      "W628"
+     ],
+     "rating": 32,
+     "reviewCount": 5,
+     "objectID": "LE83K1001F",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo 15.3\" IdeaPad Slim 3 Core i5 16/512GB Laptop",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "ACQPFSA001",
+     "name": "Acer 15.6 Nitro V 15 Gaming Laptop Ryzen 5 16/512GB RTX3050",
+     "brand": "Acer",
+     "published": true,
+     "pphCategoryId": [
+      "PrimHier_300385"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD PCIe NVMe"
+     ],
+     "numberOfUsb32Ports": 3,
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "Yes",
+     "graphicsCardSeries": "Nvidia RTX 3050",
+     "maxProcessorClockSpeed": "4.5 GHz",
+     "videoResolution": "FHD",
+     "processorClockSpeed": [
+      "3.3 GHz"
+     ],
+     "processorManufacturer": "AMD",
+     "processorType": [
+      "Ryzen 5"
+     ],
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "15.6 in",
+     "colour": "Black",
+     "numberOfProcessorCores": "Hexa-Core",
+     "primaryCameraVideo": [
+      "720p HD"
+     ],
+     "storageHDCapacity": "512 GB",
+     "refreshRate": "165 Hz",
+     "displayResolution": "1920 x 1080",
+     "bluetoothCompatibility": "Bluetooth 5.1",
+     "runTimeHours": "7.5 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 89700,
+     "categories": [
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "All Gaming Laptops",
+      "Technology",
+      "Gaming",
+      "Gaming Products by Brand",
+      "Acer Gaming",
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "Acer Gaming Laptops",
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Technology",
+      "Laptops",
+      "Power Gaming"
+     ],
+     "categoriesLeafToRoot": [
+      "All Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "Acer Gaming",
+      "Gaming Products by Brand",
+      "Gaming",
+      "Technology",
+      "Acer Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "Clearance",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "Power Gaming",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Gaming Laptops",
+      "Gaming Products by Brand",
+      "Gaming Laptops",
+      "Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "All Gaming Laptops",
+      "Acer Gaming",
+      "Acer Gaming Laptops",
+      "Clearance",
+      "All Laptops",
+      "Power Gaming"
+     ],
+     "categorySeoPaths": [
+      "technology/gaming/gaming-laptops/all-gaming-laptops",
+      "technology/gaming/gaming-products-by-brand/acer-gaming",
+      "technology/gaming/gaming-laptops/acer-gaming-laptops",
+      "clearance",
+      "technology/laptops/all-laptops",
+      "technology/laptops/power-gaming"
+     ],
+     "catPaths": [
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "all-gaming-laptops",
+      "technology",
+      "gaming",
+      "gaming-products-by-brand",
+      "acer-gaming",
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "acer-gaming-laptops",
+      "clearance",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "technology",
+      "laptops",
+      "power-gaming"
+     ],
+     "leafCatPath": [
+      "all-gaming-laptops",
+      "acer-gaming",
+      "acer-gaming-laptops",
+      "clearance",
+      "all-laptops",
+      "power-gaming"
+     ],
+     "up1CatPath": [
+      "gaming-laptops",
+      "gaming-products-by-brand",
+      "gaming-laptops",
+      null,
+      "laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACQPFSA001_.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1742256000000,
+     "gtin": "4711474487445",
+     "manufacturerPartNumber": "NH.QPFSA.001",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCGAM Gaming AMD Laptops",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/All Gaming Laptops;Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Products by Brand/Acer Gaming;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/Power Gaming;Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/Acer Gaming Laptops",
+     "urlKeyword": "acer-15-6-nitro-v-15-gaming-laptop-ryzen-5-16-512gb-rtx3050-acqpfsa001",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCGAM",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/acer-15-6-nitro-v-15-gaming-laptop-ryzen-5-16-512gb-rtx3050-acqpfsa001",
+     "productRankBusiness": 29,
+     "productRankPersonal": 3,
+     "availState": [],
+     "availability": [
+      "W244",
+      "W998",
+      "W936"
+     ],
+     "rating": 23,
+     "reviewCount": 3,
+     "objectID": "ACQPFSA001",
+     "_highlightResult": {
+      "name": {
+       "value": "Acer 15.6 Nitro V 15 Gaming Laptop Ryzen 5 16/512GB RTX3050",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LENLG0F3AU",
+     "name": "Lenovo 16\" OLED Legion Pro 7 Gaming Laptop U9 64/1TB 5080",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "PrimHier_300385"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD"
+     ],
+     "numberOfUsb32Ports": 3,
+     "ramInstalledSize": [
+      "64 GB"
+     ],
+     "aIEnabled": "Yes",
+     "graphicsCardSeries": "Nvidia RTX 5080",
+     "maxProcessorClockSpeed": "5.4 GHz",
+     "numberOfUsb30Ports": 0,
+     "videoResolution": "WQXGA",
+     "processorClockSpeed": [
+      "2.7 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core Ultra 9"
+     ],
+     "numberOfUsb20Ports": 0,
+     "copilotButton": "Yes",
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "16 in",
+     "colour": "Black",
+     "numberOfProcessorCores": "24-Core",
+     "primaryCameraVideo": [
+      "1080p FHD"
+     ],
+     "numberOfUsb31Ports": 0,
+     "storageHDCapacity": "1 TB",
+     "refreshRate": "240 Hz",
+     "displayResolution": "2560 x 1600",
+     "bluetoothCompatibility": "Bluetooth 5.4",
+     "touchScreen": "N/A",
+     "runTimeHours": "2.9 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 499700,
+     "categories": [
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "All Gaming Laptops",
+      "Clearance",
+      "Technology",
+      "Gaming",
+      "Gaming Products by Brand",
+      "Lenovo Gaming",
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "Lenovo Gaming Laptops",
+      "Technology",
+      "Laptops",
+      "All Laptops"
+     ],
+     "categoriesLeafToRoot": [
+      "All Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "Clearance",
+      "Lenovo Gaming",
+      "Gaming Products by Brand",
+      "Gaming",
+      "Technology",
+      "Lenovo Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Gaming Laptops",
+      "Gaming Products by Brand",
+      "Gaming Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "All Gaming Laptops",
+      "Clearance",
+      "Lenovo Gaming",
+      "Lenovo Gaming Laptops",
+      "All Laptops"
+     ],
+     "categorySeoPaths": [
+      "technology/gaming/gaming-laptops/all-gaming-laptops",
+      "clearance",
+      "technology/gaming/gaming-products-by-brand/lenovo-gaming",
+      "technology/gaming/gaming-laptops/lenovo-gaming-laptops",
+      "technology/laptops/all-laptops"
+     ],
+     "catPaths": [
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "all-gaming-laptops",
+      "clearance",
+      "technology",
+      "gaming",
+      "gaming-products-by-brand",
+      "lenovo-gaming",
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "lenovo-gaming-laptops",
+      "technology",
+      "laptops",
+      "all-laptops"
+     ],
+     "leafCatPath": [
+      "all-gaming-laptops",
+      "clearance",
+      "lenovo-gaming",
+      "lenovo-gaming-laptops",
+      "all-laptops"
+     ],
+     "up1CatPath": [
+      "gaming-laptops",
+      null,
+      "gaming-products-by-brand",
+      "gaming-laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LENLG0F3AU_.jpg",
+     "clearanceOnline": true,
+     "dinkusNew": false,
+     "erpCreateDate": 1760400000000,
+     "gtin": "199272168508",
+     "manufacturerPartNumber": "83F500F3AU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCGIN Gaming Intel Laptops",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/All Gaming Laptops;Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Products by Brand/Lenovo Gaming;Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/Lenovo Gaming Laptops;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance",
+     "urlKeyword": "lenovo-16-oled-legion-pro-7-gaming-laptop-u9-64-1tb-5080-lenlg0f3au",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCGIN",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-16-oled-legion-pro-7-gaming-laptop-u9-64-1tb-5080-lenlg0f3au",
+     "substitutes": [
+      "ASU95080GL"
+     ],
+     "productRankBusiness": 20,
+     "productRankPersonal": 3,
+     "availState": [],
+     "availability": [
+      "W628",
+      "W407",
+      "W441",
+      "W936"
+     ],
+     "rating": 0,
+     "reviewCount": 0,
+     "objectID": "LENLG0F3AU",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo 16\" OLED Legion Pro 7 Gaming Laptop U9 64/1TB 5080",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "HPFD0711TU",
+     "name": "HP 15\" Core i5 16/512GB Notebook",
+     "brand": "HP",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD"
+     ],
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "N/A",
+     "graphicsCardSeries": "Intel Iris Xe",
+     "maxProcessorClockSpeed": "4.6 GHz",
+     "numberOfUsb30Ports": 2,
+     "videoResolution": "FHD",
+     "processorClockSpeed": [
+      "3.4 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core i5"
+     ],
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "15.6 in",
+     "colour": "Silver",
+     "numberOfProcessorCores": "10-Core",
+     "primaryCameraVideo": [
+      "720p HD"
+     ],
+     "storageHDCapacity": "512 GB",
+     "refreshRate": "60 Hz",
+     "displayResolution": "1920 x 1080",
+     "bluetoothCompatibility": "Bluetooth 5.4",
+     "runTimeHours": "7.5 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 79600,
+     "categories": [
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "Everyday Productivity",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Education",
+      "School Tech Essentials"
+     ],
+     "categoriesLeafToRoot": [
+      "Clearance",
+      "Everyday Productivity",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "School Tech Essentials",
+      "Education"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Education"
+     ],
+     "leafCategory": [
+      "Clearance",
+      "Everyday Productivity",
+      "All Laptops",
+      "School Tech Essentials"
+     ],
+     "categorySeoPaths": [
+      "clearance",
+      "technology/laptops/everyday-productivity",
+      "technology/laptops/all-laptops",
+      "education/school-tech-essentials"
+     ],
+     "catPaths": [
+      "clearance",
+      "technology",
+      "laptops",
+      "everyday-productivity",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "education",
+      "school-tech-essentials"
+     ],
+     "leafCatPath": [
+      "clearance",
+      "everyday-productivity",
+      "all-laptops",
+      "school-tech-essentials"
+     ],
+     "up1CatPath": [
+      null,
+      "laptops",
+      "laptops",
+      "education"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/HPFD0711TU_hp_15_core_i5_16_512gb_notebook.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Windows Laptop, Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1752537600000,
+     "gtin": "199485342047",
+     "manufacturerPartNumber": "C2HU8PA#ABG",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCLI5 Laptops Ci5",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Education/School Tech Essentials;Web Hierarchy/OW Default Web/Technology/Laptops/Everyday Productivity;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance",
+     "urlKeyword": "hp-15-core-i5-16-512gb-notebook-hpfd0711tu",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCLI5",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/hp-15-core-i5-16-512gb-notebook-hpfd0711tu",
+     "substitutes": [
+      "HPFD0707TU"
+     ],
+     "productRankBusiness": 6,
+     "productRankPersonal": 4,
+     "availState": [],
+     "availability": [
+      "W352"
+     ],
+     "rating": 41,
+     "reviewCount": 17,
+     "objectID": "HPFD0711TU",
+     "_highlightResult": {
+      "name": {
+       "value": "HP 15\" Core i5 16/512GB Notebook",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "SAMA11BUND",
+     "name": "Samsung Galaxy Tab A11+ and JBL Tune 720 Headphones Bundle",
+     "brand": "Samsung",
+     "published": true,
+     "pphCategoryId": [
+      "6559"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "ramInstalledSize": [
+      "6 GB"
+     ],
+     "iPadGeneration": "N/A",
+     "displaySize": "11.0 in",
+     "storageIncludedFlashMemory": "128 GB",
+     "colour": "Grey",
+     "primaryCameraVideo": [
+      "4K UHD"
+     ],
+     "broadbandGen": "N/A",
+     "displayResolution": "1920 x 1200",
+     "bluetoothCompatibility": "Bluetooth 5.3",
+     "touchScreen": "Yes",
+     "runTimeHours": "10 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 19900,
+     "categories": [
+      "Technology",
+      "iPads & Tablets",
+      "Android Tablets",
+      "Clearance",
+      "Technology",
+      "iPads & Tablets",
+      "Samsung Tablets"
+     ],
+     "categoriesLeafToRoot": [
+      "Android Tablets",
+      "iPads & Tablets",
+      "Technology",
+      "Clearance",
+      "Samsung Tablets",
+      "iPads & Tablets",
+      "Technology"
+     ],
+     "up1Category": [
+      "iPads & Tablets",
+      "iPads & Tablets"
+     ],
+     "leafCategory": [
+      "Android Tablets",
+      "Clearance",
+      "Samsung Tablets"
+     ],
+     "categorySeoPaths": [
+      "technology/tablets/android-tablets",
+      "clearance",
+      "technology/tablets/samsung-tablets"
+     ],
+     "catPaths": [
+      "technology",
+      "tablets",
+      "android-tablets",
+      "clearance",
+      "technology",
+      "tablets",
+      "samsung-tablets"
+     ],
+     "leafCatPath": [
+      "android-tablets",
+      "clearance",
+      "samsung-tablets"
+     ],
+     "up1CatPath": [
+      "tablets",
+      null,
+      "tablets"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SAMA11BUND_.jpg",
+     "clearanceOnline": true,
+     "dinkusNew": false,
+     "dinkusOnlyAtOfficeworks": true,
+     "erpCreateDate": 1761782400000,
+     "gtin": "9345364012933",
+     "manufacturerPartNumber": "SM-X230NZAAXSA-JBL720BT",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TM Mobiles & Connect/TM3 iPads, Tablets, & Accessories/TMTB Tablets/TMTBWIN Tablets - Wi-Fi",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/iPads & Tablets/Android Tablets;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/iPads & Tablets/Samsung Tablets",
+     "urlKeyword": "samsung-galaxy-tab-a11-and-jbl-tune-720-headphones-bundle-sama11bund",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TMTBWIN",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/samsung-galaxy-tab-a11-and-jbl-tune-720-headphones-bundle-sama11bund",
+     "productRankBusiness": 47,
+     "productRankPersonal": 4,
+     "availState": [],
+     "availability": [],
+     "rating": 40,
+     "reviewCount": 3,
+     "objectID": "SAMA11BUND",
+     "_highlightResult": {
+      "name": {
+       "value": "Samsung Galaxy Tab A11+ and JBL Tune 720 Headphones Bundle",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LENLG00KAU",
+     "name": "Lenovo 16\" Legion Pro 5 Gaming Laptop Ryzen 9 32/1TB RTX 5070",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "PrimHier_300385"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD"
+     ],
+     "numberOfUsb32Ports": 3,
+     "ramInstalledSize": [
+      "32 GB"
+     ],
+     "aIEnabled": "Yes",
+     "graphicsCardSeries": "Nvidia RTX 5070",
+     "maxProcessorClockSpeed": "5.4 GHz",
+     "numberOfUsb30Ports": 0,
+     "videoResolution": "WQXGA",
+     "processorClockSpeed": [
+      "2.5 GHz"
+     ],
+     "processorManufacturer": "AMD",
+     "processorType": [
+      "Ryzen 9"
+     ],
+     "numberOfUsb20Ports": 0,
+     "copilotButton": "Yes",
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "16 in",
+     "colour": "Black",
+     "portsTotalNumberOfNetworkingPorts": 1,
+     "copilotPc": "Yes",
+     "numberOfProcessorCores": "16-Core",
+     "primaryCameraVideo": [
+      "1080p FHD"
+     ],
+     "numberOfUsb31Ports": 0,
+     "storageHDCapacity": "1 TB",
+     "refreshRate": "165 Hz",
+     "displayResolution": "2560 x 1600",
+     "bluetoothCompatibility": "Bluetooth 5.4",
+     "runTimeHours": "4.7 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 279600,
+     "categories": [
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "All Gaming Laptops",
+      "Clearance",
+      "Technology",
+      "Gaming",
+      "Gaming Products by Brand",
+      "Lenovo Gaming",
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "Lenovo Gaming Laptops",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Technology",
+      "Laptops",
+      "Power Gaming"
+     ],
+     "categoriesLeafToRoot": [
+      "All Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "Clearance",
+      "Lenovo Gaming",
+      "Gaming Products by Brand",
+      "Gaming",
+      "Technology",
+      "Lenovo Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "Power Gaming",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Gaming Laptops",
+      "Gaming Products by Brand",
+      "Gaming Laptops",
+      "Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "All Gaming Laptops",
+      "Clearance",
+      "Lenovo Gaming",
+      "Lenovo Gaming Laptops",
+      "All Laptops",
+      "Power Gaming"
+     ],
+     "categorySeoPaths": [
+      "technology/gaming/gaming-laptops/all-gaming-laptops",
+      "clearance",
+      "technology/gaming/gaming-products-by-brand/lenovo-gaming",
+      "technology/gaming/gaming-laptops/lenovo-gaming-laptops",
+      "technology/laptops/all-laptops",
+      "technology/laptops/power-gaming"
+     ],
+     "catPaths": [
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "all-gaming-laptops",
+      "clearance",
+      "technology",
+      "gaming",
+      "gaming-products-by-brand",
+      "lenovo-gaming",
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "lenovo-gaming-laptops",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "technology",
+      "laptops",
+      "power-gaming"
+     ],
+     "leafCatPath": [
+      "all-gaming-laptops",
+      "clearance",
+      "lenovo-gaming",
+      "lenovo-gaming-laptops",
+      "all-laptops",
+      "power-gaming"
+     ],
+     "up1CatPath": [
+      "gaming-laptops",
+      null,
+      "gaming-products-by-brand",
+      "gaming-laptops",
+      "laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LENLG00KAU_.jpg",
+     "clearanceOnline": true,
+     "dinkusNew": false,
+     "erpCreateDate": 1759968000000,
+     "gtin": "198157714809",
+     "manufacturerPartNumber": "83F2000KAU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCGAM Gaming AMD Laptops",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/All Gaming Laptops;Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Products by Brand/Lenovo Gaming;Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/Lenovo Gaming Laptops;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/Power Gaming",
+     "urlKeyword": "lenovo-16-legion-pro-5-gaming-laptop-ryzen-9-32-1tb-rtx-5070-lenlg00kau",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCGAM",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-16-legion-pro-5-gaming-laptop-ryzen-9-32-1tb-rtx-5070-lenlg00kau",
+     "substitutes": [
+      "LE83NN0063"
+     ],
+     "productRankBusiness": 19,
+     "productRankPersonal": 4,
+     "availState": [],
+     "availability": [
+      "W354",
+      "W936"
+     ],
+     "rating": 40,
+     "reviewCount": 5,
+     "objectID": "LENLG00KAU",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo 16\" Legion Pro 5 Gaming Laptop Ryzen 9 32/1TB RTX 5070",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LENYG0DSAU",
+     "name": "Lenovo 14” Yoga Slim 7i OLED Core Ultra 5 16/512GB AI PC",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD"
+     ],
+     "numberOfUsb32Ports": 1,
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "Yes",
+     "maxProcessorClockSpeed": "4.5 GHz",
+     "numberOfUsb30Ports": 0,
+     "videoResolution": "WUXGA",
+     "processorClockSpeed": [
+      "3.3 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core Ultra 5"
+     ],
+     "numberOfUsb20Ports": 0,
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "14 in",
+     "colour": "Grey",
+     "portsTotalNumberOfNetworkingPorts": 0,
+     "numberOfProcessorCores": "14-Core",
+     "primaryCameraVideo": [
+      "1080p FHD"
+     ],
+     "numberOfUsb31Ports": 0,
+     "storageHDCapacity": "512 GB",
+     "refreshRate": "60 Hz",
+     "displayResolution": "1920 x 1200",
+     "bluetoothCompatibility": "Bluetooth 5.3",
+     "runTimeHours": "10.3 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 99700,
+     "categories": [
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Technology",
+      "Laptops",
+      "OLED Laptops",
+      "Technology",
+      "Laptops",
+      "Premium Performance",
+      "Education",
+      "School Tech Essentials"
+     ],
+     "categoriesLeafToRoot": [
+      "Clearance",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "OLED Laptops",
+      "Laptops",
+      "Technology",
+      "Premium Performance",
+      "Laptops",
+      "Technology",
+      "School Tech Essentials",
+      "Education"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Laptops",
+      "Education"
+     ],
+     "leafCategory": [
+      "Clearance",
+      "All Laptops",
+      "OLED Laptops",
+      "Premium Performance",
+      "School Tech Essentials"
+     ],
+     "categorySeoPaths": [
+      "clearance",
+      "technology/laptops/all-laptops",
+      "technology/laptops/oled-laptops",
+      "technology/laptops/premium-performance",
+      "education/school-tech-essentials"
+     ],
+     "catPaths": [
+      "clearance",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "technology",
+      "laptops",
+      "oled-laptops",
+      "technology",
+      "laptops",
+      "premium-performance",
+      "education",
+      "school-tech-essentials"
+     ],
+     "leafCatPath": [
+      "clearance",
+      "all-laptops",
+      "oled-laptops",
+      "premium-performance",
+      "school-tech-essentials"
+     ],
+     "up1CatPath": [
+      null,
+      "laptops",
+      "laptops",
+      "laptops",
+      "education"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LENYG0DSAU_.jpg",
+     "clearanceOnline": true,
+     "dinkusNew": false,
+     "erpCreateDate": 1757289600000,
+     "gtin": "199272092353",
+     "manufacturerPartNumber": "83CV00DSAU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCLU5 Laptops Core Ultra 5",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Education/School Tech Essentials;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/Premium Performance;Web Hierarchy/OW Default Web/Technology/Laptops/OLED Laptops",
+     "urlKeyword": "lenovo-14-yoga-slim-7i-oled-core-ultra-5-16-512gb-ai-pc-lenyg0dsau",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCLU5",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-14-yoga-slim-7i-oled-core-ultra-5-16-512gb-ai-pc-lenyg0dsau",
+     "substitutes": [
+      "LE83JX00BB"
+     ],
+     "productRankBusiness": 6,
+     "productRankPersonal": 4,
+     "availState": [],
+     "availability": [
+      "W218",
+      "W258",
+      "W349",
+      "W352",
+      "W936"
+     ],
+     "rating": 0,
+     "reviewCount": 0,
+     "objectID": "LENYG0DSAU",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo 14” Yoga Slim 7i OLED Core Ultra 5 16/512GB AI PC",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LE83S0000H",
+     "name": "Lenovo LOQ Essential Gaming Laptop R7 16GB/1TB RTX4050",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "PrimHier_300385"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD"
+     ],
+     "numberOfUsb32Ports": 3,
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "Yes",
+     "graphicsCardSeries": "Nvidia RTX 4050",
+     "maxProcessorClockSpeed": "4.75 GHz",
+     "videoResolution": "FHD",
+     "processorClockSpeed": [
+      "3.2 GHz"
+     ],
+     "processorManufacturer": "AMD",
+     "processorType": [
+      "Ryzen 7"
+     ],
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "15.6 in",
+     "colour": "Grey",
+     "numberOfProcessorCores": "Octa-Core",
+     "primaryCameraVideo": [
+      "720p HD"
+     ],
+     "storageHDCapacity": "1 TB",
+     "refreshRate": "144 Hz",
+     "displayResolution": "1920 x 1080",
+     "bluetoothCompatibility": "Bluetooth 5.2",
+     "touchScreen": "No",
+     "runTimeHours": "10.5 hours",
+     "powerBatteryTechnology": "Lithium-polymer",
+     "configurableType": null,
+     "price": 139600,
+     "categories": [
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "All Gaming Laptops",
+      "Clearance",
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "Lenovo Gaming Laptops",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Technology",
+      "Laptops",
+      "Power Gaming"
+     ],
+     "categoriesLeafToRoot": [
+      "All Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "Clearance",
+      "Lenovo Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "Power Gaming",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Gaming Laptops",
+      "Gaming Laptops",
+      "Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "All Gaming Laptops",
+      "Clearance",
+      "Lenovo Gaming Laptops",
+      "All Laptops",
+      "Power Gaming"
+     ],
+     "categorySeoPaths": [
+      "technology/gaming/gaming-laptops/all-gaming-laptops",
+      "clearance",
+      "technology/gaming/gaming-laptops/lenovo-gaming-laptops",
+      "technology/laptops/all-laptops",
+      "technology/laptops/power-gaming"
+     ],
+     "catPaths": [
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "all-gaming-laptops",
+      "clearance",
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "lenovo-gaming-laptops",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "technology",
+      "laptops",
+      "power-gaming"
+     ],
+     "leafCatPath": [
+      "all-gaming-laptops",
+      "clearance",
+      "lenovo-gaming-laptops",
+      "all-laptops",
+      "power-gaming"
+     ],
+     "up1CatPath": [
+      "gaming-laptops",
+      null,
+      "gaming-laptops",
+      "laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LE83S0000H_.jpg",
+     "clearanceOnline": true,
+     "dinkusNew": false,
+     "erpCreateDate": 1769558400000,
+     "gtin": "199272786139",
+     "manufacturerPartNumber": "83S0000HAU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCGAM Gaming AMD Laptops",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/All Gaming Laptops;Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/Lenovo Gaming Laptops;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/Power Gaming",
+     "urlKeyword": "lenovo-loq-essential-gaming-laptop-r7-16gb-1tb-rtx4050-le83s0000h",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCGAM",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-loq-essential-gaming-laptop-r7-16gb-1tb-rtx4050-le83s0000h",
+     "substitutes": [
+      "LE83S0006N"
+     ],
+     "productRankBusiness": 13,
+     "productRankPersonal": 4,
+     "availState": [],
+     "availability": [
+      "W508",
+      "W703",
+      "W624",
+      "W628",
+      "W408",
+      "W423",
+      "W424",
+      "W426",
+      "W212",
+      "W218",
+      "W234",
+      "W242",
+      "W250",
+      "W257",
+      "W262",
+      "W263",
+      "W275",
+      "W277",
+      "W279",
+      "W301",
+      "W310",
+      "W318",
+      "W358",
+      "W283",
+      "W936"
+     ],
+     "rating": 0,
+     "reviewCount": 0,
+     "objectID": "LE83S0000H",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo LOQ Essential Gaming Laptop R7 16GB/1TB RTX4050",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LE83GH0038",
+     "name": "Lenovo Ideapad 5 2-in-1 Copilot+ PC Snapdragon X Plus 24/1TB",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD M.2 2242 PCIe® 4.0x4 NVMe®"
+     ],
+     "numberOfUsb32Ports": 2,
+     "ramInstalledSize": [
+      "24 GB"
+     ],
+     "aIEnabled": "Yes",
+     "graphicsCardSeries": "Qualcomm Adreno",
+     "videoResolution": "WUXGA",
+     "processorClockSpeed": [
+      "3.4 GHz"
+     ],
+     "processorManufacturer": "Qualcomm",
+     "processorType": [
+      "Snapdragon X Plus"
+     ],
+     "copilotButton": "Yes",
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "14 in",
+     "colour": "Grey",
+     "copilotPc": "Yes",
+     "numberOfProcessorCores": "Octa-Core",
+     "primaryCameraVideo": [
+      "1080p FHD"
+     ],
+     "storageHDCapacity": "1 TB",
+     "refreshRate": "60 Hz",
+     "displayResolution": "1920 x 1200",
+     "bluetoothCompatibility": "Bluetooth 5.4",
+     "touchScreen": "Yes",
+     "runTimeHours": "21.5 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 149700,
+     "categories": [
+      "Technology",
+      "Laptops",
+      "AI PCs",
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "2 in 1 Laptops",
+      "Technology",
+      "Laptops",
+      "Copilot+ PCs",
+      "Technology",
+      "Laptops",
+      "Everyday Productivity",
+      "Technology",
+      "Laptops",
+      "All Laptops"
+     ],
+     "categoriesLeafToRoot": [
+      "AI PCs",
+      "Laptops",
+      "Technology",
+      "Clearance",
+      "2 in 1 Laptops",
+      "Laptops",
+      "Technology",
+      "Copilot+ PCs",
+      "Laptops",
+      "Technology",
+      "Everyday Productivity",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Laptops",
+      "Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "AI PCs",
+      "Clearance",
+      "2 in 1 Laptops",
+      "Copilot+ PCs",
+      "Everyday Productivity",
+      "All Laptops"
+     ],
+     "categorySeoPaths": [
+      "technology/laptops/ai-pcs",
+      "clearance",
+      "technology/laptops/2-in-1-laptops",
+      "technology/laptops/copilotplus--pcs",
+      "technology/laptops/everyday-productivity",
+      "technology/laptops/all-laptops"
+     ],
+     "catPaths": [
+      "technology",
+      "laptops",
+      "ai-pcs",
+      "clearance",
+      "technology",
+      "laptops",
+      "2-in-1-laptops",
+      "technology",
+      "laptops",
+      "copilotplus--pcs",
+      "technology",
+      "laptops",
+      "everyday-productivity",
+      "technology",
+      "laptops",
+      "all-laptops"
+     ],
+     "leafCatPath": [
+      "ai-pcs",
+      "clearance",
+      "2-in-1-laptops",
+      "copilotplus--pcs",
+      "everyday-productivity",
+      "all-laptops"
+     ],
+     "up1CatPath": [
+      "laptops",
+      null,
+      "laptops",
+      "laptops",
+      "laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LE83GH0038_.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1742428800000,
+     "gtin": "198156774729",
+     "manufacturerPartNumber": "83GH0038AU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCCQC Convertibles Qualcomm",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Laptops/Copilot+ PCs;Web Hierarchy/OW Default Web/Technology/Laptops/Everyday Productivity;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Technology/Laptops/AI PCs;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/2 in 1 Laptops",
+     "urlKeyword": "lenovo-ideapad-5-2-in-1-copilot-pc-snapdragon-x-plus-24-1tb-le83gh0038",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCCQC",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-ideapad-5-2-in-1-copilot-pc-snapdragon-x-plus-24-1tb-le83gh0038",
+     "substitutes": [
+      "LE83GH0039"
+     ],
+     "productRankBusiness": 34,
+     "productRankPersonal": 5,
+     "availState": [],
+     "availability": [
+      "W311",
+      "W354",
+      "W367",
+      "W222",
+      "W242",
+      "W243",
+      "W250",
+      "W257",
+      "W936",
+      "W279"
+     ],
+     "rating": 50,
+     "reviewCount": 4,
+     "objectID": "LE83GH0038",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo Ideapad 5 2-in-1 Copilot+ PC Snapdragon X Plus 24/1TB",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LEX700GPAU",
+     "name": "Lenovo 15.6\" IdeaPad Slim 3 Core i3 8/512GB Laptop",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD"
+     ],
+     "numberOfUsb32Ports": 2,
+     "ramInstalledSize": [
+      "8 GB"
+     ],
+     "aIEnabled": "No",
+     "graphicsCardSeries": "Intel UHD",
+     "maxProcessorClockSpeed": "3.3 GHz",
+     "videoResolution": "FHD",
+     "processorClockSpeed": [
+      "1.2 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core i3"
+     ],
+     "copilotButton": "No",
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "15.6 in",
+     "colour": "Grey",
+     "copilotPc": "No",
+     "numberOfProcessorCores": "Hexa-Core",
+     "primaryCameraVideo": [
+      "720p HD"
+     ],
+     "storageHDCapacity": "512 GB",
+     "refreshRate": "60 Hz",
+     "displayResolution": "1920 x 1080",
+     "bluetoothCompatibility": "Bluetooth 5.2",
+     "touchScreen": "No",
+     "runTimeHours": "12 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 89700,
+     "categories": [
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "Everyday Productivity",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Education",
+      "School Tech Essentials"
+     ],
+     "categoriesLeafToRoot": [
+      "Clearance",
+      "Everyday Productivity",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "School Tech Essentials",
+      "Education"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Education"
+     ],
+     "leafCategory": [
+      "Clearance",
+      "Everyday Productivity",
+      "All Laptops",
+      "School Tech Essentials"
+     ],
+     "categorySeoPaths": [
+      "clearance",
+      "technology/laptops/everyday-productivity",
+      "technology/laptops/all-laptops",
+      "education/school-tech-essentials"
+     ],
+     "catPaths": [
+      "clearance",
+      "technology",
+      "laptops",
+      "everyday-productivity",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "education",
+      "school-tech-essentials"
+     ],
+     "leafCatPath": [
+      "clearance",
+      "everyday-productivity",
+      "all-laptops",
+      "school-tech-essentials"
+     ],
+     "up1CatPath": [
+      null,
+      "laptops",
+      "laptops",
+      "education"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LEX700GPAU_lenovo_ideapad_slim_3_laptop_15_6_core_i3_8_512gb.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1754352000000,
+     "gtin": "198158587662",
+     "manufacturerPartNumber": "82X700GPAU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCLI3 Laptops Ci3",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Education/School Tech Essentials;Web Hierarchy/OW Default Web/Technology/Laptops/Everyday Productivity;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance",
+     "urlKeyword": "lenovo-15-6-ideapad-slim-3-core-i3-8-512gb-laptop-lex700gpau",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCLI3",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-15-6-ideapad-slim-3-core-i3-8-512gb-laptop-lex700gpau",
+     "substitutes": [
+      "LEXN008TAU"
+     ],
+     "productRankBusiness": 21,
+     "productRankPersonal": 5,
+     "availState": [],
+     "availability": [
+      "W601",
+      "W602",
+      "W608",
+      "W616",
+      "W620",
+      "W621",
+      "W625",
+      "W202",
+      "W212",
+      "W226",
+      "W302",
+      "W364",
+      "W279",
+      "W936"
+     ],
+     "rating": 45,
+     "reviewCount": 4,
+     "objectID": "LEX700GPAU",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo 15.6\" IdeaPad Slim 3 Core i3 8/512GB Laptop",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "LE83JX0012",
+     "name": "Lenovo 14 Yoga Slim 7i OLED Core Ultra 7 32GB/1TB Copilot+ PC",
+     "brand": "Lenovo",
+     "published": true,
+     "pphCategoryId": [
+      "6558"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "SSD M.2 2242 PCIe® 4.0x4 NVMe®"
+     ],
+     "numberOfUsb32Ports": 1,
+     "ramInstalledSize": [
+      "32 GB"
+     ],
+     "aIEnabled": "Yes",
+     "graphicsCardSeries": "Intel Arc Graphics",
+     "videoResolution": "WQXGA+",
+     "processorClockSpeed": [
+      "4.8 GHz"
+     ],
+     "processorManufacturer": "Intel",
+     "processorType": [
+      "Core Ultra 7"
+     ],
+     "copilotButton": "Yes",
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "14 in",
+     "colour": "Grey",
+     "copilotPc": "Yes",
+     "numberOfProcessorCores": "Octa-Core",
+     "primaryCameraVideo": [
+      "1080p FHD"
+     ],
+     "storageHDCapacity": "1 TB",
+     "refreshRate": "120 Hz",
+     "displayResolution": "2880 x 1800",
+     "bluetoothCompatibility": "Bluetooth 5.4",
+     "runTimeHours": "26.8 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 179700,
+     "categories": [
+      "Technology",
+      "Laptops",
+      "AI PCs",
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "Copilot+ PCs",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Technology",
+      "Laptops",
+      "OLED Laptops",
+      "Technology",
+      "Laptops",
+      "Premium Performance"
+     ],
+     "categoriesLeafToRoot": [
+      "AI PCs",
+      "Laptops",
+      "Technology",
+      "Clearance",
+      "Copilot+ PCs",
+      "Laptops",
+      "Technology",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "OLED Laptops",
+      "Laptops",
+      "Technology",
+      "Premium Performance",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Laptops",
+      "Laptops",
+      "Laptops",
+      "Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "AI PCs",
+      "Clearance",
+      "Copilot+ PCs",
+      "All Laptops",
+      "OLED Laptops",
+      "Premium Performance"
+     ],
+     "categorySeoPaths": [
+      "technology/laptops/ai-pcs",
+      "clearance",
+      "technology/laptops/copilotplus--pcs",
+      "technology/laptops/all-laptops",
+      "technology/laptops/oled-laptops",
+      "technology/laptops/premium-performance"
+     ],
+     "catPaths": [
+      "technology",
+      "laptops",
+      "ai-pcs",
+      "clearance",
+      "technology",
+      "laptops",
+      "copilotplus--pcs",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "technology",
+      "laptops",
+      "oled-laptops",
+      "technology",
+      "laptops",
+      "premium-performance"
+     ],
+     "leafCatPath": [
+      "ai-pcs",
+      "clearance",
+      "copilotplus--pcs",
+      "all-laptops",
+      "oled-laptops",
+      "premium-performance"
+     ],
+     "up1CatPath": [
+      "laptops",
+      null,
+      "laptops",
+      "laptops",
+      "laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LE83JX0012_lenovo_14_yoga_slim_7i_oled_core_ultra_7_32gb_1tb_copilot_pc.jpg",
+     "clearanceOnline": true,
+     "dinkusNew": false,
+     "erpCreateDate": 1742428800000,
+     "gtin": "198156403339",
+     "manufacturerPartNumber": "83JX0012AU",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCLU7 Laptops Core Ultra 7",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Laptops/Copilot+ PCs;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Technology/Laptops/AI PCs;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/Premium Performance;Web Hierarchy/OW Default Web/Technology/Laptops/OLED Laptops",
+     "urlKeyword": "lenovo-14-yoga-slim-7i-oled-core-ultra-7-32gb-1tb-copilot-pc-le83jx0012",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCLU7",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/lenovo-14-yoga-slim-7i-oled-core-ultra-7-32gb-1tb-copilot-pc-le83jx0012",
+     "substitutes": [
+      "LE83JX00BB"
+     ],
+     "productRankBusiness": 15,
+     "productRankPersonal": 5,
+     "availState": [],
+     "availability": [
+      "W250",
+      "W279",
+      "W936"
+     ],
+     "rating": 38,
+     "reviewCount": 6,
+     "objectID": "LE83JX0012",
+     "_highlightResult": {
+      "name": {
+       "value": "Lenovo 14 Yoga Slim 7i OLED Core Ultra 7 32GB/1TB Copilot+ PC",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    },
+    {
+     "sku": "ACNTRSA005",
+     "name": "Acer Nitro V Ryzen 7 16GB/1TB RTX 4050 Gaming Laptop",
+     "brand": "Acer",
+     "published": true,
+     "pphCategoryId": [
+      "PrimHier_300385"
+     ],
+     "rangedOnline": true,
+     "rangedRetail": true,
+     "storageInstalledStorageType": [
+      "PCIe NVMe SSD"
+     ],
+     "numberOfUsb32Ports": 3,
+     "ramInstalledSize": [
+      "16 GB"
+     ],
+     "aIEnabled": "No",
+     "graphicsCardSeries": "Nvidia RTX 4050",
+     "maxProcessorClockSpeed": "5.1 GHz",
+     "videoResolution": "FHD",
+     "processorClockSpeed": [
+      "3.6 GHz"
+     ],
+     "processorManufacturer": "AMD",
+     "processorType": [
+      "Ryzen 7"
+     ],
+     "copilotButton": "Yes",
+     "operatingSystemEdition": "Windows 11 Home",
+     "displaySize": "15.6 in",
+     "colour": "Black",
+     "portsTotalNumberOfNetworkingPorts": 1,
+     "numberOfProcessorCores": "Octa-Core",
+     "primaryCameraVideo": [
+      "720p HD"
+     ],
+     "storageHDCapacity": "1 TB",
+     "refreshRate": "165 Hz",
+     "displayResolution": "1920 x 1080",
+     "bluetoothCompatibility": "Bluetooth 5.1",
+     "touchScreen": "No",
+     "runTimeHours": "6.5 hours",
+     "powerBatteryTechnology": "Lithium-ion",
+     "configurableType": null,
+     "price": 119700,
+     "categories": [
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "All Gaming Laptops",
+      "Technology",
+      "Gaming",
+      "Gaming Products by Brand",
+      "Acer Gaming",
+      "Technology",
+      "Gaming",
+      "Gaming Laptops",
+      "Acer Gaming Laptops",
+      "Clearance",
+      "Technology",
+      "Laptops",
+      "All Laptops",
+      "Technology",
+      "Laptops",
+      "Power Gaming"
+     ],
+     "categoriesLeafToRoot": [
+      "All Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "Acer Gaming",
+      "Gaming Products by Brand",
+      "Gaming",
+      "Technology",
+      "Acer Gaming Laptops",
+      "Gaming Laptops",
+      "Gaming",
+      "Technology",
+      "Clearance",
+      "All Laptops",
+      "Laptops",
+      "Technology",
+      "Power Gaming",
+      "Laptops",
+      "Technology"
+     ],
+     "up1Category": [
+      "Gaming Laptops",
+      "Gaming Products by Brand",
+      "Gaming Laptops",
+      "Laptops",
+      "Laptops"
+     ],
+     "leafCategory": [
+      "All Gaming Laptops",
+      "Acer Gaming",
+      "Acer Gaming Laptops",
+      "Clearance",
+      "All Laptops",
+      "Power Gaming"
+     ],
+     "categorySeoPaths": [
+      "technology/gaming/gaming-laptops/all-gaming-laptops",
+      "technology/gaming/gaming-products-by-brand/acer-gaming",
+      "technology/gaming/gaming-laptops/acer-gaming-laptops",
+      "clearance",
+      "technology/laptops/all-laptops",
+      "technology/laptops/power-gaming"
+     ],
+     "catPaths": [
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "all-gaming-laptops",
+      "technology",
+      "gaming",
+      "gaming-products-by-brand",
+      "acer-gaming",
+      "technology",
+      "gaming",
+      "gaming-laptops",
+      "acer-gaming-laptops",
+      "clearance",
+      "technology",
+      "laptops",
+      "all-laptops",
+      "technology",
+      "laptops",
+      "power-gaming"
+     ],
+     "leafCatPath": [
+      "all-gaming-laptops",
+      "acer-gaming",
+      "acer-gaming-laptops",
+      "clearance",
+      "all-laptops",
+      "power-gaming"
+     ],
+     "up1CatPath": [
+      "gaming-laptops",
+      "gaming-products-by-brand",
+      "gaming-laptops",
+      null,
+      "laptops",
+      "laptops"
+     ],
+     "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ACNTRSA005_.jpg",
+     "clearanceOnline": true,
+     "descriptionShort": "Microsoft Windows 11 PCs",
+     "dinkusNew": false,
+     "erpCreateDate": 1757894400000,
+     "gtin": "4711474725219",
+     "manufacturerPartNumber": "NH.U2ZSA.005",
+     "productMerchHierFolderPath": "Merchandise Hierarchy/Current/TE Computers & Print/TE1 Computing/TEMC Laptops/TEMCGAM Gaming AMD Laptops",
+     "productRankBusinessOverride": 1000,
+     "productRankOverallOverride": 1000,
+     "productRankPersonalOverride": 1000,
+     "productType": "STANDARD",
+     "productWebHierFolderPath": "Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/All Gaming Laptops;Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Products by Brand/Acer Gaming;Web Hierarchy/OW Default Web/Technology/Laptops/All Laptops;Web Hierarchy/OW Default Web/Clearance;Web Hierarchy/OW Default Web/Technology/Laptops/Power Gaming;Web Hierarchy/OW Default Web/Technology/Gaming/Gaming Laptops/Acer Gaming Laptops",
+     "urlKeyword": "acer-nitro-v-ryzen-7-16gb-1tb-rtx-4050-gaming-laptop-acntrsa005",
+     "status": "De-ranging",
+     "unitsPerPack": 1,
+     "merchCat": "TEMCGAM",
+     "dinkusForDisplay": "dinkusClearance",
+     "seoPath": "/shop/officeworks/p/acer-nitro-v-ryzen-7-16gb-1tb-rtx-4050-gaming-laptop-acntrsa005",
+     "productRankBusiness": 27,
+     "productRankPersonal": 5,
+     "availState": [
+      "TAS"
+     ],
+     "availability": [
+      "TAS",
+      "W701",
+      "W373",
+      "W279",
+      "W936"
+     ],
+     "rating": 30,
+     "reviewCount": 4,
+     "objectID": "ACNTRSA005",
+     "_highlightResult": {
+      "name": {
+       "value": "Acer Nitro V Ryzen 7 16GB/1TB RTX 4050 Gaming Laptop",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    }
+   ],
+   "nbHits": 1416,
+   "page": 0,
+   "nbPages": 42,
+   "hitsPerPage": 24,
+   "facets": {
+    "brand": {
+     "Otto": 109,
+     "Studymate": 64,
+     "Lenovo": 55,
+     "J.Burrows": 52,
+     "Stilford": 39,
+     "HP": 33,
+     "ASUS": 31,
+     "Tonies": 31,
+     "Apple": 25,
+     "OKI": 25,
+     "Sandisk": 25,
+     "Cygnett": 23,
+     "Samsung": 23,
+     "Ecovacs": 21,
+     "Logitech G": 21,
+     "Milan": 19,
+     "Kadink": 18,
+     "Brother": 14,
+     "Galt": 14,
+     "Google": 14,
+     "Sudio": 14,
+     "Acer": 13,
+     "PuniLabo": 13,
+     "Cricut": 12,
+     "Edifier": 12,
+     "Artline": 11,
+     "Glowforge": 11,
+     "Lifestyle Brands": 11,
+     "Matilda Education": 11,
+     "HyperX": 10,
+     "Keji": 10,
+     "Melissa and Doug": 10,
+     "Russell Hobbs": 10,
+     "Bonelk": 9,
+     "Cengage Learning": 9,
+     "EFM": 9,
+     "Halilit": 9,
+     "MSI": 9,
+     "Orchard Toys": 9,
+     "Panzer": 9,
+     "Terracycle": 9,
+     "Typhoon": 9,
+     "Maped": 8,
+     "Moki": 8,
+     "Nebula": 8,
+     "Philips": 8,
+     "Ryze": 8,
+     "4M": 7,
+     "Belkin": 7,
+     "Comsol": 7
+    },
+    "price": {
+     "1000": 159,
+     "500": 159,
+     "2000": 144,
+     "100": 43,
+     "400": 25,
+     "600": 24,
+     "9900": 24,
+     "3900": 23,
+     "3500": 21,
+     "5000": 21,
+     "200": 19,
+     "9100": 19,
+     "2500": 18,
+     "300": 17,
+     "3000": 17,
+     "4900": 16,
+     "1900": 15,
+     "19700": 15,
+     "900": 15,
+     "1500": 14,
+     "7900": 14,
+     "5900": 12,
+     "800": 12,
+     "15000": 11,
+     "20000": 11,
+     "4000": 11,
+     "5700": 11,
+     "12100": 10,
+     "250": 10,
+     "5500": 10,
+     "19100": 9,
+     "22700": 9,
+     "450": 9,
+     "50": 9,
+     "109700": 8,
+     "1200": 8,
+     "1600": 8,
+     "19900": 8,
+     "2900": 8,
+     "3200": 8,
+     "700": 8,
+     "9700": 8,
+     "10000": 7,
+     "13700": 7,
+     "13900": 7,
+     "149700": 7,
+     "6900": 7,
+     "89700": 7,
+     "99700": 7,
+     "1100": 6
+    },
+    "colour": {
+     "Black": 302,
+     "Multi": 240,
+     "White": 183,
+     "Grey": 127,
+     "Blue": 84,
+     "Clear": 66,
+     "Green": 63,
+     "Silver": 46,
+     "Various": 38,
+     "Pink": 30,
+     "Yellow": 28,
+     "Purple": 27,
+     "Brown": 26,
+     "Beige": 22,
+     "Red": 21,
+     "Magenta": 13,
+     "Cyan": 10,
+     "Orange": 6,
+     "Gold": 5,
+     "Buff": 3,
+     "Metallic": 2
+    },
+    "rating": {
+     "0": 201,
+     "50": 164,
+     "10": 47,
+     "40": 43,
+     "30": 39,
+     "45": 34,
+     "47": 29,
+     "43": 28,
+     "44": 26,
+     "46": 24,
+     "42": 23,
+     "48": 23,
+     "37": 20,
+     "36": 15,
+     "35": 14,
+     "38": 14,
+     "49": 13,
+     "32": 11,
+     "33": 11,
+     "15": 10,
+     "20": 10,
+     "27": 10,
+     "41": 8,
+     "23": 7,
+     "26": 7,
+     "34": 7,
+     "39": 6,
+     "25": 4,
+     "28": 4,
+     "31": 4,
+     "13": 2,
+     "19": 2,
+     "22": 2,
+     "24": 2,
+     "29": 2,
+     "14": 1,
+     "18": 1,
+     "21": 1
+    },
+    "availState": {
+     "NT": 829,
+     "WA": 709,
+     "QLD": 621,
+     "NSW": 600,
+     "TAS": 555,
+     "ACT": 526,
+     "SA": 401,
+     "VIC": 401
+    },
+    "clearanceOnline": {
+     "true": 1471
+    },
+    "categorySeoPaths": {
+     "clearance": 1471,
+     "technology/laptops/all-laptops": 87,
+     "education/school-essentials/pencil-cases": 79,
+     "office-supplies/pencil-cases": 79,
+     "technology/computer-accessories/all-computer-accessories": 71,
+     "ink-toner/toner-cartridges-printer-drums/oki-toner": 65,
+     "technology/mobile-phones/apple-iphones/apple-iphone-cases/all-apple-iphone-cases": 60,
+     "education/early-learning-play/kids-educational-toys": 56,
+     "technology/appliances/all-appliances": 51,
+     "workplace-supplies/appliances/all-appliances": 51,
+     "technology/hard-drives-data-storage/all-data-storage": 44,
+     "technology/laptops/everyday-productivity": 43,
+     "furniture/desks-tables/all-desks": 37,
+     "workplace-supplies/cleaning-supplies/cleaning-equipment/cleaning-appliances": 37,
+     "education/workbooks/english-literacy": 35,
+     "technology/computer-accessories/mice": 31,
+     "education/school-tech-essentials": 29,
+     "technology/laptops/ai-pcs": 28,
+     "technology/computer-accessories/keyboards": 27,
+     "furniture/desks-tables/desk-partitions-dividers": 26,
+     "people-planet-positive": 26,
+     "technology/hard-drives-data-storage/sd-cards": 26,
+     "workplace-supplies/business-essentials/workplace-safety--ppe-first-aid": 25,
+     "technology/appliances/robot-vacuum-cleaners": 24,
+     "technology/desktops/all-desktops": 24,
+     "technology/smart-home/robot-vacuum-cleaners": 24,
+     "workplace-supplies/appliances/robot-vacuum-cleaners": 24,
+     "furniture/desks-tables/office-desks": 23,
+     "gifting/gifts-for-kids": 23,
+     "technology/gaming/gaming-keyboards": 23,
+     "technology/gaming/gaming-mouse": 23,
+     "technology/gaming/gaming-laptops/all-gaming-laptops": 22,
+     "technology/laptops/copilotplus--pcs": 22,
+     "technology/smart-home/all-smart-home": 22,
+     "technology/gaming/gaming-products-by-brand/logitech-gaming": 19,
+     "technology/headphones-earphones/headphones": 19,
+     "education/workbooks/all-workbooks": 18,
+     "education/workbooks/math-numeracy-books": 18,
+     "office-supplies/diaries-year-planners/undated-diaries": 16,
+     "furniture/desks-tables/desks-with-storage": 15,
+     "technology/chargers/usb-wall-chargers": 15,
+     "technology/headphones-earphones/wireless-bluetooth-headphones": 15,
+     "art-supplies/kids-art-craft/drawing-colouring/kids-colouring-markers": 14,
+     "education/early-learning-play/tonies/tonies-characters": 14,
+     "education/kids-art-craft/drawing-colouring/kids-colouring-markers": 14,
+     "furniture/chairs-seating/all-chairs": 14,
+     "furniture/desks-tables/standing-desks": 14,
+     "technology/chargers/usb-c-chargers": 14,
+     "technology/fitness-trackers-wearables/all-wearables": 14,
+     "technology/health-technology/fitness-trackers-wearables/all-wearables": 14
+    }
+   },
+   "facets_stats": {
+    "price": {
+     "min": 35,
+     "max": 729600,
+     "avg": 20552,
+     "sum": 30232165
+    },
+    "rating": {
+     "min": 0,
+     "max": 50,
+     "avg": 29,
+     "sum": 25995
+    }
+   },
+   "exhaustiveFacetsCount": false,
+   "exhaustiveNbHits": true,
+   "exhaustiveTypo": true,
+   "exhaustive": {
+    "facetsCount": false,
+    "nbHits": true,
+    "typo": true
+   },
+   "query": "",
+   "queryAfterRemoval": "",
+   "params": "query=&hitsPerPage=24&page=0&facetFilters=%5B%22clearanceOnline%3Atrue%22%5D&facets=%5B%22brand%22%2C%22categorySeoPaths%22%2C%22colour%22%2C%22rating%22%2C%22price%22%2C%22availState%22%2C%22clearanceOnline%22%5D&maxValuesPerFacet=50",
+   "index": "prod-product-wc-bestmatch-personal",
+   "renderingContent": {},
+   "processingTimeMS": 6,
+   "processingTimingsMS": {
+    "_request": {
+     "roundTrip": 355
+    },
+    "fetch": {
+     "facetingAfterDistinct": 3,
+     "total": 4
+    },
+    "rulesProcessing": {
+     "drr": 1,
+     "total": 2
+    },
+    "total": 6
+   },
+   "serverTimeMS": 7
+  }
+ ]
+}

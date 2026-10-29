@@ -1,0 +1,1524 @@
+{
+ "productType": "STANDARD",
+ "attachments": {
+  "video": [
+   {
+    "name": "BIC Cristal Ballpoint Pens",
+    "url": "https://www.youtube.com/embed/M6HcFCa40mY?rel=0"
+   }
+  ],
+  "doc": []
+ },
+ "attributes": [
+  {
+   "id": "caseQuantity",
+   "name": "Numerator",
+   "value": "60"
+  },
+  {
+   "id": "sellableUnitOfMeasure",
+   "name": "Sellable Unit of Measure",
+   "value": "Pack"
+  },
+  {
+   "id": "unitsPerPack",
+   "name": "Units Per Pack/Carton",
+   "value": "12"
+  },
+  {
+   "id": "caseGTIN",
+   "name": "GTIN",
+   "value": "39310025002111"
+  },
+  {
+   "id": "manufacturerPartNumber",
+   "name": "Part Number",
+   "value": "10211"
+  },
+  {
+   "id": "longProductCopy",
+   "name": "Long Product Copy",
+   "value": "These BIC Cristal Original Ballpoint Pens offer a smooth writing experience. They have a comfortable, hexagonal barrel made from a clear plastic which lets you see how much ink is left."
+  },
+  {
+   "id": "status",
+   "name": "Status",
+   "value": "Active"
+  },
+  {
+   "id": "priceDroppedType",
+   "name": "Ticket - Ticket Type",
+   "value": "Deals"
+  },
+  {
+   "id": "marketplaceKmartCategory",
+   "name": "Marketplace - Kmart Category",
+   "value": "HOME-LIVING-STATIONERY-BOOKS-STATIONERY-SUPPLIES-PENS-PENCILS"
+  },
+  {
+   "id": "priceDroppedEndDate",
+   "name": "Ticket - End Date",
+   "value": "2026-10-05"
+  },
+  {
+   "id": "packVariantRender",
+   "name": "Pack Variant Render",
+   "value": "Text"
+  },
+  {
+   "id": "priceDroppedStartDate",
+   "name": "Ticket - Start Date",
+   "value": "2026-09-30"
+  },
+  {
+   "id": "loyaltyEligibleProduct",
+   "name": "Loyalty Awards – Eligible",
+   "value": "Yes"
+  },
+  {
+   "id": "edlpPrice",
+   "name": "Latest EDLP Sale Price",
+   "value": "7.00"
+  },
+  {
+   "id": "marketplaceUberTop",
+   "name": "Marketplace - Uber Top-Level Category",
+   "value": "Stationery, Art, Education & Office Supplies"
+  },
+  {
+   "id": "marketplaceUberSecond",
+   "name": "Marketplace - Uber Second-Level Category",
+   "value": "School & Office Stationery"
+  },
+  {
+   "id": "productGrade",
+   "name": "Product Grade",
+   "value": "A - Extra Extra Small"
+  },
+  {
+   "id": "deliveryMethod",
+   "name": "Delivery Method",
+   "value": "XDock (Standard)"
+  },
+  {
+   "id": "rangedChannel",
+   "name": "OW Ranged",
+   "value": "Both"
+  },
+  {
+   "id": "productCode",
+   "name": "OW Product Code",
+   "value": "BI2411BE"
+  },
+  {
+   "id": "gstExempt",
+   "name": "Pricing..GST Exempt",
+   "value": "No"
+  },
+  {
+   "id": "marketplaceReturnsWindow",
+   "name": "Company Returns Window",
+   "value": "30 days"
+  },
+  {
+   "id": "marketplaceSellerName",
+   "name": "Company Name",
+   "value": "Officeworks"
+  },
+  {
+   "id": "productType",
+   "name": "Product Type",
+   "value": "STANDARD"
+  },
+  {
+   "id": "marketplaceReturnsPolicy",
+   "name": "Company Returns Policy",
+   "value": "https://www.officeworks.com.au/information/policies/return-policy"
+  },
+  {
+   "id": "colourVariantRender",
+   "name": "Colour Variant Render",
+   "value": "Text"
+  },
+  {
+   "id": "deliveryMinDays",
+   "name": "Minimum Delivery Days",
+   "value": "8"
+  },
+  {
+   "id": "marketplaceSellerURL",
+   "name": "Company Website",
+   "value": "https://www.officeworks.com.au"
+  },
+  {
+   "id": "deliveryMaxDays",
+   "name": "Maximum Delivery Days",
+   "value": "17"
+  },
+  {
+   "id": "expressDeliveryBuffer",
+   "name": "Express Delivery Stock Buffer",
+   "value": "1"
+  },
+  {
+   "id": "rangedOnline",
+   "name": "Available Online",
+   "value": "Yes"
+  },
+  {
+   "id": "expressDelivery",
+   "name": "Express Delivery",
+   "value": "Yes"
+  },
+  {
+   "id": "rangedRetail",
+   "name": "Available In Store",
+   "value": "Yes"
+  },
+  {
+   "id": "retailPackageWeight",
+   "name": "Gross Weight",
+   "value": "0.078 kg"
+  },
+  {
+   "id": "unitName",
+   "name": "Unit Name",
+   "value": "Pen(s)"
+  },
+  {
+   "id": "marketplaceUberBuffer",
+   "name": "Marketplace - Uber Stock Buffer",
+   "value": "1"
+  },
+  {
+   "id": "merchCat",
+   "name": "Merchandise Category",
+   "value": "OSWIBPE"
+  },
+  {
+   "id": "unitMeasure",
+   "name": "Unit Measure",
+   "value": "1"
+  },
+  {
+   "id": "priceCategory",
+   "name": "Price Category",
+   "value": "Key Value Item"
+  },
+  {
+   "id": "totalUnits",
+   "name": "Total Units",
+   "value": "12.000"
+  },
+  {
+   "id": "erpCreateDate",
+   "name": "Date Created",
+   "value": "2005-08-12"
+  },
+  {
+   "id": "recurringItem",
+   "name": "Recurring Item (Online)",
+   "value": "Yes"
+  },
+  {
+   "id": "loyaltyRedeemableProduct",
+   "name": "Loyalty Awards – Redeemable",
+   "value": "Yes"
+  },
+  {
+   "id": "retailPackageWidth",
+   "name": "Width",
+   "value": "170 mm"
+  },
+  {
+   "id": "priceBVI",
+   "name": "Price Business Value Indicator (BVI) Product",
+   "value": "Yes"
+  },
+  {
+   "id": "retailPackageHeight",
+   "name": "Height",
+   "value": "66 mm"
+  },
+  {
+   "id": "retailPackageLength",
+   "name": "Length",
+   "value": "29 mm"
+  },
+  {
+   "id": "sizeVariantRender",
+   "name": "Size Variant Render",
+   "value": "Text"
+  },
+  {
+   "id": "gtin",
+   "name": "Barcode",
+   "value": "9310025002110"
+  },
+  {
+   "id": "marketplaceKmartBuffer",
+   "name": "Marketplace - Kmart Stock Buffer",
+   "value": "1"
+  },
+  {
+   "id": "shortProductTitle",
+   "name": "Product description",
+   "value": "BIC Cristal Ballpoint Pens Blue 12 Pack"
+  },
+  {
+   "id": "packQuantity",
+   "name": "Pack/Carton Quantity",
+   "value": "1"
+  },
+  {
+   "id": "manufacturer",
+   "name": "Manufacturer",
+   "value": "BIC Australia Pty Ltd (OWM0065)"
+  },
+  {
+   "id": "salesIncentiveEligible",
+   "name": "Sales Incentive Eligible",
+   "value": "No"
+  },
+  {
+   "id": "productMerchHierFolderPath",
+   "name": "MerchHierarchy Folder Path",
+   "value": "Merchandise Hierarchy/Current/OS Stationery, Art, Education & OS/OS5 Writing & Messaging/OSWI Writing Instruments/OSWIBPE Ballpoint Pens"
+  },
+  {
+   "id": "marketplaceKmartComplianceFurniture",
+   "name": "Marketplace - Kmart Compliance Furniture (CALC)",
+   "value": "No"
+  },
+  {
+   "id": "marketplaceFABS",
+   "name": "Marketplace - OW Long Copy and FABs (CALC)",
+   "value": "<p>These BIC Cristal Original Ballpoint Pens offer a smooth writing experience. They have a comfortable, hexagonal barrel made from a clear plastic which lets you see how much ink is left.</p> <br><b> Features</b> <br><ul><li>These pens have a 1.0 mm nib.<li>They are a great pen for every day use.<li>These pens have an extra-long writing length of over 2 km, making them perfect for everyday use.<li>The pen has a hexagonal barrel which is comfortable to grip.<li>The clear barrel lets you see when the ink is running low.<li>There are 12 blue pens in this pack.</ul> <br>"
+  },
+  {
+   "id": "packVariant",
+   "name": "Pack Quantity",
+   "value": "12"
+  },
+  {
+   "id": "webProductSeo",
+   "name": "Web Product SEO",
+   "value": "Officeworks won’t be beaten on BIC Cristal Original Ballpoint Pens Blue 12 Pack prices with our Price Beat Guarantee. Shop business & home office essentials with 2-hour Click & Collect."
+  },
+  {
+   "id": "titleLong",
+   "name": "OW Long Product Title",
+   "value": "BIC Cristal Original Ballpoint Pens Blue 12 Pack"
+  },
+  {
+   "id": "shortProductTitleCalc",
+   "name": "Product description",
+   "value": "BIC Cristal Ballpoint Pens Blue 12 Pack"
+  },
+  {
+   "id": "pphFolderName",
+   "name": "PPH Folder Name",
+   "value": "Ballpoint Pens"
+  },
+  {
+   "id": "marketplaceKmartStockDistribution",
+   "name": "Marketplace - Kmart Stock Distribution (CALC)",
+   "value": "NATIONAL"
+  },
+  {
+   "id": "parentProductId",
+   "name": "Parent Product ID",
+   "value": "Family_501949"
+  },
+  {
+   "id": "parentProductObj",
+   "name": "Parent Product Object",
+   "value": "Product Family"
+  },
+  {
+   "id": "productWebHierFolderPath",
+   "name": "WebHierarchy Folder Path",
+   "value": "Web Hierarchy/OW Default Web/Office Supplies/Pens/Ballpoint Pens;Web Hierarchy/OW Default Web/Workplace Supplies/Business Essentials/Office Supplies for Business"
+  },
+  {
+   "id": "marketplaceLongProductTitle",
+   "name": "Marketplace - Long Product Title (CALC)",
+   "value": "BIC Cristal Original Ballpoint Pens Blue 12 Pack"
+  },
+  {
+   "id": "urlKeyword",
+   "name": "Web URL Keyword",
+   "value": "bic-cristal-original-ballpoint-pens-blue-12-pack-bi2411be"
+  },
+  {
+   "id": "brandlogo",
+   "name": "Brand Logo",
+   "value": "Bic.png"
+  },
+  {
+   "id": "marketplaceKmartOnePass",
+   "name": "Marketplace - Kmart OnePass Eligible (CALC)",
+   "value": "Yes"
+  },
+  {
+   "id": "webPageTitle",
+   "name": "Web Page Title",
+   "value": "BIC Cristal Original Ballpoint Pens Blue 12 Pack | Officeworks"
+  },
+  {
+   "id": "descriptionMeta",
+   "name": "Web Meta Description Calc",
+   "value": "These BIC Cristal Original Ballpoint Pens offer a smooth writing experience. They have a comfortable, hexagonal barrel made from a clear plastic which lets you see how much ink is left."
+  },
+  {
+   "id": "brand",
+   "name": "Brand",
+   "value": "Bic"
+  },
+  {
+   "id": "multipackSize",
+   "name": "Pack Size",
+   "value": "12"
+  },
+  {
+   "id": "devicensureEligible",
+   "name": "DevicEnsure Eligible",
+   "value": "No"
+  },
+  {
+   "id": "fabpoint02",
+   "name": "FAB Point",
+   "value": "They are a great pen for every day use."
+  },
+  {
+   "id": "fabpoint03",
+   "name": "FAB Point",
+   "value": "These pens have an extra-long writing length of over 2 km, making them perfect for everyday use."
+  },
+  {
+   "id": "fabpoint04",
+   "name": "FAB Point",
+   "value": "The pen has a hexagonal barrel which is comfortable to grip."
+  },
+  {
+   "id": "marketplaceOpenAICheckout",
+   "name": "Marketplace - OpenAI Checkout Availability (CALC)",
+   "value": "Yes"
+  },
+  {
+   "id": "marketplaceOpenAISearch",
+   "name": "Marketplace - OpenAI Search Availability (CALC)",
+   "value": "Yes"
+  },
+  {
+   "id": "fabpoint01",
+   "name": "FAB Point",
+   "value": "These pens have a 1.0 mm nib."
+  },
+  {
+   "id": "descriptionLong",
+   "name": "Web Extract Long Marketing Calc",
+   "value": "These BIC Cristal Original Ballpoint Pens offer a smooth writing experience. They have a comfortable, hexagonal barrel made from a clear plastic which lets you see how much ink is left."
+  },
+  {
+   "id": "competitorTags",
+   "name": "Competitor Tags",
+   "value": "1097253<multisep/>7010707<multisep/>935005002"
+  },
+  {
+   "id": "marketplaceUber",
+   "name": "Marketplace - Uber Availability (CALC)",
+   "value": "Yes"
+  },
+  {
+   "id": "fabpoint08",
+   "name": "FAB Point",
+   "value": "There are 12 blue pens in this pack."
+  },
+  {
+   "id": "reservationEligible",
+   "name": "Reservation Eligible",
+   "value": "Yes"
+  },
+  {
+   "id": "fabpoint05",
+   "name": "FAB Point",
+   "value": "The clear barrel lets you see when the ink is running low."
+  },
+  {
+   "id": "productFamilyCode",
+   "name": "Parent Product Family Code / Name",
+   "value": "BI2411FAM - PK12 BIC CRISTL XTRA LFE BP PF"
+  },
+  {
+   "id": "sizePhysicalSizeVariant",
+   "name": "Size",
+   "value": "Medium"
+  },
+  {
+   "id": "webHierName",
+   "name": "WebHierarchy Folder",
+   "value": "Ballpoint Pens, Office Supplies for Business"
+  },
+  {
+   "id": "colourVariant",
+   "name": "Colour",
+   "value": "Blue"
+  },
+  {
+   "id": "apiModelId",
+   "name": "WEB_ID",
+   "value": "BI2411BE"
+  },
+  {
+   "id": "colour",
+   "name": "Colour",
+   "value": "Blue"
+  },
+  {
+   "id": "totalIndividualUnits",
+   "name": "Total Individual Units",
+   "value": "12"
+  },
+  {
+   "id": "marketplaceKmart",
+   "name": "Marketplace - Kmart Availability (CALC)",
+   "value": "Yes"
+  },
+  {
+   "id": "publishedWeb",
+   "name": "Published Web",
+   "value": "Yes"
+  },
+  {
+   "id": "marketplaceKmartLogisticsClass",
+   "name": "Marketplace - Kmart Logistics Class (CALC)",
+   "value": "FLAT"
+  },
+  {
+   "id": "retailPackageVolume",
+   "name": "Volume",
+   "value": "325.38 cm³"
+  }
+ ],
+ "brand": {
+  "name": "Bic",
+  "logo": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/BrandLogo/Bic.png",
+  "seoPath": "bic",
+  "published": true
+ },
+ "breadcrumbs": [
+  {
+   "title": "Office Supplies",
+   "url": "office-supplies"
+  },
+  {
+   "title": "Pens",
+   "url": "office-supplies/pens"
+  },
+  {
+   "title": "Ballpoint Pens",
+   "url": "office-supplies/pens/ballpoint-pens"
+  }
+ ],
+ "category": [
+  {
+   "id": "Web_BALLPOINT_PENS",
+   "title": "Ballpoint Pens",
+   "url": "office-supplies/pens/ballpoint-pens"
+  },
+  {
+   "id": "Web_OFFICE_SUPPLIES_FOR_BUSINESS",
+   "title": "Office Supplies for Business",
+   "url": "workplace-supplies/business-essentials/office-supplies-for-business"
+  }
+ ],
+ "webHierarchy": "Web Hierarchy/OW Default Web/Office Supplies/Pens/Ballpoint Pens;Web Hierarchy/OW Default Web/Workplace Supplies/Business Essentials/Office Supplies for Business",
+ "accessories": [],
+ "description": {
+  "shortDescription": "",
+  "longDescription": "These BIC Cristal Original Ballpoint Pens offer a smooth writing experience. They have a comfortable, hexagonal barrel made from a clear plastic which lets you see how much ink is left."
+ },
+ "descriptionMeta": "Officeworks won’t be beaten on BIC Cristal Original Ballpoint Pens Blue 12 Pack prices with our Price Beat Guarantee. Shop business & home office essentials with 2-hour Click & Collect.",
+ "family": [
+  {
+   "sku": "BI519128",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-fashion-ballpoint-pens-8-pack-bi519128",
+   "identifyingAttributes": {
+    "Pack Quantity": "8",
+    "Size": "Medium",
+    "Colour": "Fashion Assorted"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI519128_bic_cristal_fashion_ballpoint_pens_8_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI519128_B.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI519128_C.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI519128_D.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI519128_bic_cristal_fashion_ballpoint_pens_8_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI519128_B.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI519128_C.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI519128_D.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI519128_bic_cristal_fashion_ballpoint_pens_8_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI519128_B.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI519128_C.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI519128_D.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI872730BE",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pens-fine-blue-50-pack-bi872730be",
+   "identifyingAttributes": {
+    "Pack Quantity": "50",
+    "Size": "Fine",
+    "Colour": "Blue"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI872730BE_bic_cristal_original_ballpoint_pens_fine_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI872730BE_B_bic_cristal_original_ballpoint_pens_fine_blue_50_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI872730BE_bic_cristal_original_ballpoint_pens_fine_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI872730BE_B_bic_cristal_original_ballpoint_pens_fine_blue_50_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI872730BE_bic_cristal_original_ballpoint_pens_fine_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI872730BE_B_bic_cristal_original_ballpoint_pens_fine_blue_50_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI872720RD",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pens-fine-red-50-pack-bi872720rd",
+   "identifyingAttributes": {
+    "Pack Quantity": "50",
+    "Size": "Fine",
+    "Colour": "Red"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI872720RD_bic_cristal_original_ballpoint_pens_fine_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI872720RD_B_bic_cristal_original_ballpoint_pens_fine_red_50_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI872720RD_bic_cristal_original_ballpoint_pens_fine_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI872720RD_B_bic_cristal_original_ballpoint_pens_fine_red_50_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI872720RD_bic_cristal_original_ballpoint_pens_fine_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI872720RD_B_bic_cristal_original_ballpoint_pens_fine_red_50_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI872731BK",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pens-fine-black-50-pack-bi872731bk",
+   "identifyingAttributes": {
+    "Pack Quantity": "50",
+    "Size": "Fine",
+    "Colour": "Black"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI872731BK_bic_cristal_original_ballpoint_pens_fine_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI872731BK_B_bic_cristal_original_ballpoint_pens_fine_black_50_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI872731BK_bic_cristal_original_ballpoint_pens_fine_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI872731BK_B_bic_cristal_original_ballpoint_pens_fine_black_50_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI872731BK_bic_cristal_original_ballpoint_pens_fine_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI872731BK_B_bic_cristal_original_ballpoint_pens_fine_black_50_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI103633BK",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pen-black-10-pack-bi103633bk",
+   "identifyingAttributes": {
+    "Pack Quantity": "10",
+    "Size": "Medium",
+    "Colour": "Black"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103633BK_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103633BK_B_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103633BK_C_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103633BK_D_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103633BK_E_bic_cristal_original_ballpoint_pen_black_10_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103633BK_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103633BK_B_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103633BK_C_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103633BK_D_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103633BK_E_bic_cristal_original_ballpoint_pen_black_10_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103633BK_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103633BK_B_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103633BK_C_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103633BK_D_bic_cristal_original_ballpoint_pen_black_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103633BK_E_bic_cristal_original_ballpoint_pen_black_10_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI103623AS",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pen-assorted-10-pack-bi103623as",
+   "identifyingAttributes": {
+    "Pack Quantity": "10",
+    "Size": "Medium",
+    "Colour": "Assorted"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103623AS_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103623AS_B_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103623AS_C_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103623AS_D_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103623AS_E_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103623AS_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103623AS_B_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103623AS_C_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103623AS_D_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103623AS_E_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103623AS_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103623AS_B_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103623AS_C_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103623AS_D_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103623AS_E_bic_cristal_original_ballpoint_pen_assorted_10_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI830861RD",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pen-red-4-pack-bi830861rd",
+   "identifyingAttributes": {
+    "Pack Quantity": "4",
+    "Size": "Medium",
+    "Colour": "Red"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI830861RD_bic_cristal_original_ballpoint_pen_red_4_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI830861RD_B_bic_cristal_original_ballpoint_pen_red_4_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI830861RD_bic_cristal_original_ballpoint_pen_red_4_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI830861RD_B_bic_cristal_original_ballpoint_pen_red_4_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI830861RD_bic_cristal_original_ballpoint_pen_red_4_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI830861RD_B_bic_cristal_original_ballpoint_pen_red_4_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI103612BE",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pen-blue-10-pack-bi103612be",
+   "identifyingAttributes": {
+    "Pack Quantity": "10",
+    "Size": "Medium",
+    "Colour": "Blue"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103612BE_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103612BE_B_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103612BE_C_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103612BE_D_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI103612BE_E_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103612BE_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103612BE_B_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103612BE_C_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103612BE_D_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI103612BE_E_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103612BE_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103612BE_B_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103612BE_C_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103612BE_D_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI103612BE_E_bic_cristal_original_ballpoint_pen_blue_10_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI10352AS",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pen-0-8mm-assorted-10-pack-bi10352as",
+   "identifyingAttributes": {
+    "Pack Quantity": "10",
+    "Size": "Fine",
+    "Colour": "Assorted"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10352AS_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10352AS_B_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10352AS_C_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10352AS_D_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10352AS_E_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10352AS_F_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10352AS_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10352AS_B_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10352AS_C_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10352AS_D_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10352AS_E_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10352AS_F_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10352AS_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10352AS_B_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10352AS_C_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10352AS_D_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10352AS_E_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10352AS_F_bic_cristal_original_ballpoint_pen_fine_assorted_10_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI9411RD",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-ballpoint-pens-red-50-pack-bi9411rd",
+   "identifyingAttributes": {
+    "Pack Quantity": "50",
+    "Size": "Medium",
+    "Colour": "Red"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411RD_bic_cristal_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411RD_B_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411RD_C_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411RD_D_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411RD_E_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411RD_F_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411RD_bic_cristal_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411RD_B_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411RD_C_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411RD_D_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411RD_E_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411RD_F_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411RD_bic_cristal_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411RD_B_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411RD_C_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411RD_D_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411RD_E_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411RD_F_bic_cristal_xtra_life_ballpoint_pens_red_50_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI9411BE",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pens-blue-50-pack-bi9411be",
+   "identifyingAttributes": {
+    "Pack Quantity": "50",
+    "Size": "Medium",
+    "Colour": "Blue"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411BE_bic_cristal_original_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411BE_B_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411BE_C_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411BE_D_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411BE_E_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411BE_F_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI9411BE_G_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411BE_bic_cristal_original_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411BE_B_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411BE_C_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411BE_D_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411BE_E_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411BE_F_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI9411BE_G_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411BE_bic_cristal_original_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411BE_B_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411BE_C_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411BE_D_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411BE_E_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411BE_F_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI9411BE_G_bic_cristal_xtra_life_ballpoint_pens_blue_50_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI2411RD",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pens-red-12-pack-bi2411rd",
+   "identifyingAttributes": {
+    "Pack Quantity": "12",
+    "Size": "Medium",
+    "Colour": "Red"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411RD_bic_cristal_original_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411RD_B_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411RD_C_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411RD_D_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411RD_E_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411RD_F_bic_cristal_ballpoint_pens_red_12_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411RD_bic_cristal_original_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411RD_B_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411RD_C_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411RD_D_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411RD_E_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411RD_F_bic_cristal_ballpoint_pens_red_12_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411RD_bic_cristal_original_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411RD_B_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411RD_C_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411RD_D_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411RD_E_bic_cristal_ballpoint_pens_red_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411RD_F_bic_cristal_ballpoint_pens_red_12_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI2411BK",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pens-black-12-pack-bi2411bk",
+   "identifyingAttributes": {
+    "Pack Quantity": "12",
+    "Size": "Medium",
+    "Colour": "Black"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BK_bic_cristal_original_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BK_B_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BK_C_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BK_D_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BK_E_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BK_F_bic_cristal_ballpoint_pens_black_12_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BK_bic_cristal_original_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BK_B_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BK_C_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BK_D_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BK_E_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BK_F_bic_cristal_ballpoint_pens_black_12_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BK_bic_cristal_original_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BK_B_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BK_C_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BK_D_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BK_E_bic_cristal_ballpoint_pens_black_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BK_F_bic_cristal_ballpoint_pens_black_12_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI2411BE",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pens-blue-12-pack-bi2411be",
+   "identifyingAttributes": {
+    "Pack Quantity": "12",
+    "Size": "Medium",
+    "Colour": "Blue"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_bic_cristal_original_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_B_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_C_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_D_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_E_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_F_bic_cristal_ballpoint_pens_blue_12_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_bic_cristal_original_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_B_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_C_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_D_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_E_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_F_bic_cristal_ballpoint_pens_blue_12_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_bic_cristal_original_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_B_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_C_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_D_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_E_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_F_bic_cristal_ballpoint_pens_blue_12_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": true
+  },
+  {
+   "sku": "BI0204X1",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pens-black-50-pack-bi0204x1",
+   "identifyingAttributes": {
+    "Pack Quantity": "50",
+    "Size": "Medium",
+    "Colour": "Black"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI0204X1_bic_cristal_original_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI0204X1_B_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI0204X1_C_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI0204X1_D_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI0204X1_E_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI0204X1_F_bic_cristal_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI0204X1_G_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI0204X1_bic_cristal_original_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI0204X1_B_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI0204X1_C_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI0204X1_D_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI0204X1_E_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI0204X1_F_bic_cristal_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI0204X1_G_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI0204X1_bic_cristal_original_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI0204X1_B_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI0204X1_C_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI0204X1_D_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI0204X1_E_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI0204X1_F_bic_cristal_ballpoint_pens_black_50_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI0204X1_G_bic_cristal_xtra_life_ballpoint_pens_black_50_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  },
+  {
+   "sku": "BI10231",
+   "seoUrl": "/shop/officeworks/p/bic-cristal-original-ballpoint-pens-green-12-pack-bi10231",
+   "identifyingAttributes": {
+    "Pack Quantity": "12",
+    "Size": "Medium",
+    "Colour": "Green"
+   },
+   "images": {
+    "thumb": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10231_bic_cristal_original_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10231_B_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10231_C_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10231_D_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI10231_E_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg"
+    ],
+    "preview": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10231_bic_cristal_original_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10231_B_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10231_C_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10231_D_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI10231_E_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg"
+    ],
+    "full": [
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10231_bic_cristal_original_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10231_B_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10231_C_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10231_D_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg",
+     "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI10231_E_bic_cristal_medium_ballpoint_pens_green_12_pack.jpg"
+    ],
+    "threeSixty": {
+     "thumb": [],
+     "preview": [],
+     "full": []
+    },
+    "view360": []
+   },
+   "thumbnailVariants": [
+    {
+     "variantType": "pack",
+     "url": ""
+    },
+    {
+     "variantType": "colour",
+     "url": ""
+    }
+   ],
+   "defaultValue": false
+  }
+ ],
+ "familyAttrs": {
+  "Size": [
+   "Fine",
+   "Medium"
+  ],
+  "Pack Quantity": [
+   "4",
+   "8",
+   "10",
+   "12",
+   "50"
+  ],
+  "Colour": [
+   "Black",
+   "Blue",
+   "Green",
+   "Red"
+  ]
+ },
+ "ranged": {
+  "inStore": true,
+  "online": true
+ },
+ "rangedOnline": true,
+ "rangedRetail": true,
+ "published": true,
+ "fab": [
+  "These pens have a 1.0 mm nib.",
+  "They are a great pen for every day use.",
+  "These pens have an extra-long writing length of over 2 km, making them perfect for everyday use.",
+  "The pen has a hexagonal barrel which is comfortable to grip.",
+  "The clear barrel lets you see when the ink is running low.",
+  "There are 12 blue pens in this pack."
+ ],
+ "images": {
+  "thumb": [
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_bic_cristal_original_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_B_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_C_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_D_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_E_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_150x150/BI2411BE_F_bic_cristal_ballpoint_pens_blue_12_pack.jpg"
+  ],
+  "preview": [
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_bic_cristal_original_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_B_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_C_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_D_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_E_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BI2411BE_F_bic_cristal_ballpoint_pens_blue_12_pack.jpg"
+  ],
+  "full": [
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_bic_cristal_original_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_B_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_C_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_D_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_E_bic_cristal_ballpoint_pens_blue_12_pack.jpg",
+   "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_F_bic_cristal_ballpoint_pens_blue_12_pack.jpg"
+  ],
+  "threeSixty": {
+   "thumb": [],
+   "preview": [],
+   "full": []
+  },
+  "view360": []
+ },
+ "itemsPerUnit": 1,
+ "itemsPerUnitDesc": "Pen(s)",
+ "totalUnits": 12,
+ "name": "BIC Cristal Original Ballpoint Pens Blue 12 Pack",
+ "productOptions": [],
+ "ribbon": "",
+ "sku": "BI2411BE",
+ "specs": [
+  {
+   "group": "General",
+   "attributes": [
+    {
+     "name": "Brand",
+     "value": "Bic"
+    },
+    {
+     "name": "Barcode",
+     "value": "9310025002110"
+    },
+    {
+     "name": "Descriptive Colour",
+     "value": "Blue"
+    },
+    {
+     "name": "Ink Type",
+     "value": "Oil-based"
+    },
+    {
+     "name": "Writing Colour(s)",
+     "value": "Blue"
+    }
+   ]
+  },
+  {
+   "group": "Barrel",
+   "attributes": [
+    {
+     "name": "Colour",
+     "value": "Clear"
+    },
+    {
+     "name": "Material",
+     "value": "Plastic"
+    },
+    {
+     "name": "Transparent or Translucent",
+     "value": "Yes"
+    }
+   ]
+  },
+  {
+   "group": "Manufacturer",
+   "attributes": [
+    {
+     "name": "Country of Manufacture",
+     "value": "France"
+    },
+    {
+     "name": "Part Number",
+     "value": "10211"
+    }
+   ]
+  },
+  {
+   "group": "Performance",
+   "attributes": [
+    {
+     "name": "Retractable",
+     "value": "N/A"
+    }
+   ]
+  },
+  {
+   "group": "Portability",
+   "attributes": [
+    {
+     "name": "Pocket Clip",
+     "value": "Yes"
+    }
+   ]
+  },
+  {
+   "group": "Quantity",
+   "attributes": [
+    {
+     "name": "Units Per Pack/Carton",
+     "value": "12"
+    },
+    {
+     "name": "Pack/Carton Quantity",
+     "value": "1"
+    },
+    {
+     "name": "Total Individual Units",
+     "value": "12"
+    },
+    {
+     "name": "Sellable Unit of Measure",
+     "value": "Pack"
+    }
+   ]
+  },
+  {
+   "group": "Tip",
+   "attributes": [
+    {
+     "name": "Size Description",
+     "value": "Medium"
+    },
+    {
+     "name": "Size (mm)",
+     "value": "1"
+    },
+    {
+     "name": "Type",
+     "value": "Ballpoint"
+    }
+   ]
+  }
+ ],
+ "seoPath": "/shop/officeworks/p/bic-cristal-original-ballpoint-pens-blue-12-pack-bi2411be",
+ "substitutes": [
+  "BI42574BE"
+ ],
+ "review": {
+  "count": "33",
+  "range": "5",
+  "averageRating": "4.6364"
+ },
+ "gtin": "9310025002110",
+ "edlpPrice": "7.00",
+ "image": "//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BI2411BE_bic_cristal_original_ballpoint_pens_blue_12_pack.jpg",
+ "urlKeyword": "bic-cristal-original-ballpoint-pens-blue-12-pack-bi2411be",
+ "fabTexts": {},
+ "environmentLogoImages": [],
+ "safetyLogoFabImages": [],
+ "safetyLogoPdpImages": [],
+ "paymentExclusion": [],
+ "deliveryMethodExclusion": [],
+ "preorderProduct": false,
+ "manufacturerPartNumber": "10211"
+}

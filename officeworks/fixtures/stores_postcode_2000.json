@@ -1,0 +1,507 @@
+[
+ {
+  "id": "W253",
+  "partnerId": "16494130",
+  "name": "Hunter St, Sydney Officeworks",
+  "status": "Active",
+  "openingDate": "2012-07-02",
+  "priorityNotificationText": "",
+  "address": {
+   "street": "27-31 Hunter Street",
+   "locatedIn": "",
+   "suburb": "Sydney",
+   "postCode": "2000",
+   "state": "NSW"
+  },
+  "location": {
+   "longitude": "151.209087000",
+   "latitude": "-33.865957000",
+   "distance": 0.885
+  },
+  "contact": {
+   "phone": "(02) 8223 1700",
+   "fax": "(02) 8223 1770",
+   "email": "HunterSt.Manager@officeworks.com.au"
+  },
+  "openingHours": [
+   {
+    "dayOfWeek": "Mon",
+    "open": "7am",
+    "close": "8pm"
+   },
+   {
+    "dayOfWeek": "Tue",
+    "open": "7am",
+    "close": "8pm"
+   },
+   {
+    "dayOfWeek": "Wed",
+    "open": "7am",
+    "close": "8pm"
+   },
+   {
+    "dayOfWeek": "Thu",
+    "open": "7am",
+    "close": "8pm"
+   },
+   {
+    "dayOfWeek": "Fri",
+    "open": "7am",
+    "close": "8pm"
+   },
+   {
+    "dayOfWeek": "Sat",
+    "open": "9am",
+    "close": "5pm"
+   },
+   {
+    "dayOfWeek": "Sun",
+    "open": "9am",
+    "close": "5pm"
+   }
+  ],
+  "exceptionHours": [],
+  "services": {
+   "restrictedShopping": false,
+   "contactlessClickAndCollect": false,
+   "clickAndCollect": true,
+   "assembleIt": true,
+   "deliverIt": false,
+   "courtesyTrailer": false,
+   "printAndCopy": true,
+   "managedPrint": false,
+   "rentIt": false,
+   "techServices": false,
+   "specialOrder": false,
+   "parcelDelivery": false,
+   "storePickup": true,
+   "parking": true,
+   "extraCover": true,
+   "meetingRooms": false,
+   "officeFitout": false,
+   "freeInternet": false,
+   "wifi": true,
+   "inkToner": true,
+   "mobileMuster": false,
+   "bringITBack": false,
+   "batteryRecycling": false,
+   "businessSpecialist": false,
+   "penRecycling": true,
+   "threeDPrint": false,
+   "instoreCafe": false,
+   "playground": false,
+   "dataStorage": true,
+   "expressDelivery": true,
+   "extendedRangeFastPrint": false,
+   "standardRangeFastPrint": false,
+   "uberStore": true
+  },
+  "messages": {
+   "activities": ""
+  }
+ },
+ {
+  "id": "W251",
+  "partnerId": "16125206",
+  "name": "Pitt St, Sydney Officeworks",
+  "status": "Active",
+  "openingDate": "2013-04-29",
+  "priorityNotificationText": "",
+  "address": {
+   "street": "242 Pitt Street",
+   "locatedIn": "",
+   "suburb": "Sydney",
+   "postCode": "2000",
+   "state": "NSW"
+  },
+  "location": {
+   "longitude": "151.208396500",
+   "latitude": "-33.872325200",
+   "distance": 1.291
+  },
+  "contact": {
+   "phone": "(02) 8267 5300",
+   "fax": "(02) 8267 5370",
+   "email": "PittSt.Manager@officeworks.com.au"
+  },
+  "openingHours": [
+   {
+    "dayOfWeek": "Mon",
+    "open": "7am",
+    "close": "8pm"
+   },
+   {
+    "dayOfWeek": "Tue",
+    "open": "7am",
+    "close": "8pm"
+   },
+   {
+    "dayOfWeek": "Wed",
+    "open": "7am",
+    "close": "8pm"
+   },
+   {
+    "dayOfWeek": "Thu",
+    "open": "7am",
+    "close": "8pm"
+   },
+   {
+    "dayOfWeek": "Fri",
+    "open": "7am",
+    "close": "8pm"
+   },
+   {
+    "dayOfWeek": "Sat",
+    "open": "9am",
+    "close": "5pm"
+   },
+   {
+    "dayOfWeek": "Sun",
+    "open": "9am",
+    "close": "5pm"
+   }
+  ],
+  "exceptionHours": [],
+  "services": {
+   "restrictedShopping": false,
+   "contactlessClickAndCollect": false,
+   "clickAndCollect": true,
+   "assembleIt": true,
+   "deliverIt": false,
+   "courtesyTrailer": false,
+   "printAndCopy": true,
+   "managedPrint": false,
+   "rentIt": false,
+   "techServices": false,
+   "specialOrder": false,
+   "parcelDelivery": false,
+   "storePickup": true,
+   "parking": true,
+   "extraCover": true,
+   "meetingRooms": false,
+   "officeFitout": false,
+   "freeInternet": false,
+   "wifi": true,
+   "inkToner": true,
+   "mobileMuster": false,
+   "bringITBack": false,
+   "batteryRecycling": false,
+   "businessSpecialist": false,
+   "penRecycling": true,
+   "threeDPrint": false,
+   "instoreCafe": false,
+   "playground": false,
+   "dataStorage": true,
+   "expressDelivery": true,
+   "extendedRangeFastPrint": true,
+   "standardRangeFastPrint": false,
+   "uberStore": true
+  },
+  "messages": {
+   "activities": ""
+  }
+ },
+ {
+  "id": "W209",
+  "partnerId": "10222574",
+  "name": "Glebe Officeworks",
+  "status": "Active",
+  "openingDate": "2009-09-25",
+  "priorityNotificationText": "",
+  "address": {
+   "street": "1 Ross Street",
+   "locatedIn": "",
+   "suburb": "Glebe",
+   "postCode": "2037",
+   "state": "NSW"
+  },
+  "location": {
+   "longitude": "151.184694000",
+   "latitude": "-33.884879300",
+   "distance": 2.887
+  },
+  "contact": {
+   "phone": "(02) 8572 8300",
+   "fax": "(02) 8572 8370",
+   "email": "Glebe.Manager@officeworks.com.au"
+  },
+  "openingHours": [
+   {
+    "dayOfWeek": "Mon",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Tue",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Wed",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Thu",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Fri",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Sat",
+    "open": "8am",
+    "close": "6pm"
+   },
+   {
+    "dayOfWeek": "Sun",
+    "open": "9am",
+    "close": "6pm"
+   }
+  ],
+  "exceptionHours": [],
+  "services": {
+   "restrictedShopping": false,
+   "contactlessClickAndCollect": false,
+   "clickAndCollect": true,
+   "assembleIt": true,
+   "deliverIt": false,
+   "courtesyTrailer": false,
+   "printAndCopy": true,
+   "managedPrint": false,
+   "rentIt": false,
+   "techServices": false,
+   "specialOrder": false,
+   "parcelDelivery": false,
+   "storePickup": true,
+   "parking": true,
+   "extraCover": true,
+   "meetingRooms": false,
+   "officeFitout": false,
+   "freeInternet": false,
+   "wifi": true,
+   "inkToner": true,
+   "mobileMuster": false,
+   "bringITBack": false,
+   "batteryRecycling": false,
+   "businessSpecialist": false,
+   "penRecycling": true,
+   "threeDPrint": false,
+   "instoreCafe": false,
+   "playground": false,
+   "dataStorage": true,
+   "expressDelivery": true,
+   "extendedRangeFastPrint": true,
+   "standardRangeFastPrint": false,
+   "uberStore": true
+  },
+  "messages": {
+   "activities": ""
+  }
+ },
+ {
+  "id": "W225",
+  "partnerId": "10222589",
+  "name": "Mosman Officeworks",
+  "status": "Active",
+  "openingDate": "2017-12-16",
+  "priorityNotificationText": "",
+  "address": {
+   "street": "640 Military Road",
+   "locatedIn": "",
+   "suburb": "Mosman",
+   "postCode": "2088",
+   "state": "NSW"
+  },
+  "location": {
+   "longitude": "151.239798000",
+   "latitude": "-33.824241000",
+   "distance": 5.336
+  },
+  "contact": {
+   "phone": "(02) 9932 4100",
+   "fax": "(02) 9932 4170",
+   "email": "Mosman.Manager@officeworks.com.au"
+  },
+  "openingHours": [
+   {
+    "dayOfWeek": "Mon",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Tue",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Wed",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Thu",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Fri",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Sat",
+    "open": "8am",
+    "close": "6pm"
+   },
+   {
+    "dayOfWeek": "Sun",
+    "open": "9am",
+    "close": "6pm"
+   }
+  ],
+  "exceptionHours": [],
+  "services": {
+   "restrictedShopping": false,
+   "contactlessClickAndCollect": false,
+   "clickAndCollect": true,
+   "assembleIt": true,
+   "deliverIt": false,
+   "courtesyTrailer": false,
+   "printAndCopy": true,
+   "managedPrint": false,
+   "rentIt": false,
+   "techServices": false,
+   "specialOrder": false,
+   "parcelDelivery": false,
+   "storePickup": true,
+   "parking": true,
+   "extraCover": true,
+   "meetingRooms": false,
+   "officeFitout": false,
+   "freeInternet": false,
+   "wifi": true,
+   "inkToner": true,
+   "mobileMuster": false,
+   "bringITBack": false,
+   "batteryRecycling": false,
+   "businessSpecialist": false,
+   "penRecycling": true,
+   "threeDPrint": false,
+   "instoreCafe": false,
+   "playground": false,
+   "dataStorage": true,
+   "expressDelivery": true,
+   "extendedRangeFastPrint": false,
+   "standardRangeFastPrint": false,
+   "uberStore": true
+  },
+  "messages": {
+   "activities": ""
+  }
+ },
+ {
+  "id": "W215",
+  "partnerId": "10222580",
+  "name": "Bondi Junction Officeworks",
+  "status": "Active",
+  "openingDate": "2009-08-28",
+  "priorityNotificationText": "",
+  "address": {
+   "street": "14-26 Ebley Street",
+   "locatedIn": "",
+   "suburb": "Bondi",
+   "postCode": "2026",
+   "state": "NSW"
+  },
+  "location": {
+   "longitude": "151.245873000",
+   "latitude": "-33.892888000",
+   "distance": 5.441
+  },
+  "contact": {
+   "phone": "(02) 8305 0200",
+   "fax": "(02) 8305 0270",
+   "email": "BondiJunction.Manager@officeworks.com.au"
+  },
+  "openingHours": [
+   {
+    "dayOfWeek": "Mon",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Tue",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Wed",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Thu",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Fri",
+    "open": "7am",
+    "close": "9pm"
+   },
+   {
+    "dayOfWeek": "Sat",
+    "open": "8am",
+    "close": "6pm"
+   },
+   {
+    "dayOfWeek": "Sun",
+    "open": "9am",
+    "close": "6pm"
+   }
+  ],
+  "exceptionHours": [],
+  "services": {
+   "restrictedShopping": false,
+   "contactlessClickAndCollect": false,
+   "clickAndCollect": true,
+   "assembleIt": true,
+   "deliverIt": false,
+   "courtesyTrailer": false,
+   "printAndCopy": true,
+   "managedPrint": false,
+   "rentIt": false,
+   "techServices": false,
+   "specialOrder": false,
+   "parcelDelivery": false,
+   "storePickup": true,
+   "parking": true,
+   "extraCover": true,
+   "meetingRooms": false,
+   "officeFitout": false,
+   "freeInternet": false,
+   "wifi": true,
+   "inkToner": true,
+   "mobileMuster": false,
+   "bringITBack": false,
+   "batteryRecycling": false,
+   "businessSpecialist": false,
+   "penRecycling": true,
+   "threeDPrint": false,
+   "instoreCafe": false,
+   "playground": false,
+   "dataStorage": true,
+   "expressDelivery": true,
+   "extendedRangeFastPrint": true,
+   "standardRangeFastPrint": false,
+   "uberStore": true
+  },
+  "messages": {
+   "activities": ""
+  }
+ }
+]
