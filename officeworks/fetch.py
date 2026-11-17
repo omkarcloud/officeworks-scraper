@@ -47,6 +47,7 @@ import config
 import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 from officeworks.refs import CATALOGUE_API, SITE
+from scraper_utils import retry, sessions
 
 IMPERSONATE = "chrome"
 JSON_TIMEOUT = 20
@@ -125,26 +126,13 @@ def _drop_session(kind="site"):
     refused exit) dies and the retry starts fresh."""
     store = getattr(_local, "sessions", None) or {}
     sess = store.pop(kind, None)
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.close_quietly(sess)
 
 
 def _retrying(fn, kind="site"):
     """Run fn() under the shared retry policy (OfficeworksUpstreamError
     only; NotFound / BadRequest surface immediately)."""
-    last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except OfficeworksUpstreamError as e:
-            last = e
-            _drop_session(kind)
-            if attempt < config.MAX_RETRIES:
-                time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    return retry.run(fn, config, OfficeworksUpstreamError, lambda e: _drop_session(kind))
 
 
 def _looks_like_challenge(resp):

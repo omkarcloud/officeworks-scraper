@@ -15,6 +15,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from schema_fields import (BaseSchema, ChoiceField, CommaListField, Flag, LimitField, PageField,  # noqa: E402
                            Price, Quantity, QueryField, RefField, StrippedString)
 from officeworks import refs  # noqa: E402
+from scraper_utils.schema import max_length as _max_length
 
 # Algolia caps every query at 1,000 hits (paginationLimitedTo); 24 per page
 # is what the site's own listing pages use.
@@ -47,14 +48,6 @@ REVIEW_SORT_CHOICES = {
 # ChoiceField lower-cases list choices; the site's facet values are upper-case.
 STATE_CHOICES = {s: s for s in refs.AU_STATES}
 
-
-def _max_length(n):
-    """validate.Length(max=n) that tolerates the None StrippedString returns
-    for an empty value (marshmallow runs validators on it; len(None) is a 500)."""
-    def check(value):
-        if value is not None and len(value) > n:
-            raise ValidationError(f"Longer than maximum length {n}.")
-    return check
 
 # The site's landing collections that are plain category paths in Algolia.
 SPECIALS_CHOICES = {

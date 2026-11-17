@@ -33,6 +33,8 @@ import re
 from datetime import datetime, timezone
 
 from officeworks import refs
+from scraper_utils.values import as_dict as _dict, as_list as _list, num as _float, to_int as _int
+from scraper_utils.text import trimmed as _str
 
 CURRENCY = "AUD"
 
@@ -54,33 +56,6 @@ _WS_RE = re.compile(r"\s+")
 
 
 # ---- value helpers ----------------------------------------------------------------
-
-def _str(value):
-    if value is None:
-        return None
-    if isinstance(value, str):
-        value = value.strip()
-        return value or None
-    return str(value)
-
-
-def _int(value):
-    if value is None or value == "":
-        return None
-    try:
-        return int(float(value))
-    except (TypeError, ValueError):
-        return None
-
-
-def _float(value):
-    if value is None or value == "":
-        return None
-    try:
-        out = float(value)
-    except (TypeError, ValueError):
-        return None
-    return None if math.isnan(out) else out
 
 
 def _dollars(cents):
@@ -152,14 +127,6 @@ def _text(value):
     lines = [_WS_RE.sub(" ", line).strip() for line in text.splitlines()]
     text = "\n".join(line for line in lines if line)
     return text or None
-
-
-def _list(value):
-    return value if isinstance(value, list) else []
-
-
-def _dict(value):
-    return value if isinstance(value, dict) else {}
 
 
 def _urls(values):
